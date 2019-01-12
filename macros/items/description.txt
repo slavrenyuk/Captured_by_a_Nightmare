@@ -1,0 +1,1 @@
+This folder contains files, which are included into the items.cfg file

@@ -1,2 +1,8 @@
+version 1.1.0
+- Rebalanced last scenario.
+- Recolored campaign icon.
+- Fixed several dialogs.
+- Added credits.
+
 version 1.0.0
 - Initial version.

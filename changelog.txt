@@ -1,3 +1,6 @@
+version 1.2.0
+- Fixed critical bug in 07_escaping_the_nightmare scenario - units id must be unique.
+
 version 1.1.0
 - Rebalanced last scenario.
 - Recolored campaign icon.

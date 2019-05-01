@@ -1,3 +1,10 @@
+version 1.2.1
+- Fixed minor balancing bug in 05_the_competition scenario.
+- Reduced number of bats in 01_the_hammer_and_the_anvil scenario for Daydream and Easy difficulties.
+- Updated 06_the_backdoor scenario - clear shroud to show walking corpse raised by Nessa.
+- Replaced Bart's intelligent trait with strong, he is anyway lvl 2 starting from 2nd scenario.
+- Made custom AMLAs to increase max_experience +20% and to be shown before the default AMLA.
+
 version 1.2.0
 - Fixed critical bug in 07_escaping_the_nightmare scenario - units id must be unique.
 

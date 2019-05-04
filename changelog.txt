@@ -1,3 +1,6 @@
+version 1.2.2
+- Rebalanced 05_the_competition scenario.
+
 version 1.2.1
 - Fixed minor balancing bug in 05_the_competition scenario.
 - Reduced number of bats in 01_the_hammer_and_the_anvil scenario for Daydream and Easy difficulties.

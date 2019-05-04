@@ -6,7 +6,7 @@ icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNS
 passphrase=<PLACEHOLDER>
 title="Captured by a Nightmare"
 type="campaign"
-version="1.2.1"
+version="1.2.2"
 [feedback]
     topic_id=49778
 [/feedback]

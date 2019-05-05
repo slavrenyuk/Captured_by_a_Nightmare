@@ -1,3 +1,9 @@
+version 1.2.3
+- Made 03_the_nightmare scenario a little bit easier.
+- Made 04_the_wolfs_lair scenario a little bit harder.
+- Fixed bug in 07_escaping_the_nightmare scenario - heroes must be created with find_vacant=yes key.
+- In 07_escaping_the_nightmare scenario water is flooding 1.5x faster on Hard and Nightmare.
+
 version 1.2.2
 - Rebalanced 05_the_competition scenario.
 

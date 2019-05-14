@@ -1,3 +1,7 @@
+version 1.2.4
+- Renamed "poachers" to "skinners" in 04_the_wolfs_lair scenario to avoid confusion with the "Poacher" unit type.
+- Other several corrections suggested by white_haired_uncle.
+
 version 1.2.3
 - Made 03_the_nightmare scenario a little bit easier.
 - Made 04_the_wolfs_lair scenario a little bit harder.

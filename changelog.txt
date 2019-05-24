@@ -1,3 +1,7 @@
+version 1.2.5
+- Added replays link to the add-on description
+- Fixed final dialog order in 06_the_backdoor scenario
+
 version 1.2.4
 - Renamed "poachers" to "skinners" in 04_the_wolfs_lair scenario to avoid confusion with the "Poacher" unit type.
 - Other several corrections suggested by white_haired_uncle.

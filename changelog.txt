@@ -1,6 +1,11 @@
+version 1.2.6
+- Fixed bug in 10_the_flaming_stone. Drake Slaves should be moved to the enemy side when enemy leader is killed.
+- Fixed bug in 11_greediness. Poison runes should not affect undead units.
+- Dialogs corrections.
+
 version 1.2.5
-- Added replays link to the add-on description
-- Fixed final dialog order in 06_the_backdoor scenario
+- Added replays link to the add-on description.
+- Fixed final dialog order in 06_the_backdoor scenario.
 
 version 1.2.4
 - Renamed "poachers" to "skinners" in 04_the_wolfs_lair scenario to avoid confusion with the "Poacher" unit type.

@@ -1,3 +1,6 @@
+version 1.3.0
+- Added Traditional Chinese and Simplified Chinese translations by gaojicainiao.
+
 version 1.2.6
 - Fixed bug in 10_the_flaming_stone. Drake Slaves should be moved to the enemy side when enemy leader is killed.
 - Fixed bug in 11_greediness. Poison runes should not affect undead units.

@@ -1,0 +1,4386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2019-08-25 10:13 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [note]
+#: Captured_by_a_Nightmare\macros\base.cfg:136
+msgid "It is recommended that you occasionally save your game in this scenario, so you won’t lose all your progress if you get stuck and have to start over."
+msgstr "建议你在这关时不时地存储一下游戏，以免在你卡关时重玩会失去所有进度。"
+
+#. [note]
+#: Captured_by_a_Nightmare\macros\gold_system.cfg:8
+msgid "You have emerged victorious!"
+msgstr "你成功过关了！"
+
+#. [note]
+#: Captured_by_a_Nightmare\macros\gold_system.cfg:20
+msgid "Recall cost: 8 gold for a level 0 unit, 16 for level 1, 24 for level 2, 32 for level 3."
+msgstr "召回费用：0级单位8金币；1级单位16金币；2级单位24金币；3级单位32金币。"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:27
+msgid "Scenario objectives are completed. But there is still some loot on the map. Do you want to take the loot or finish scenario now?"
+msgstr "关卡目标已完成。但地图上还有战利品。你想拿战利品还是现在结束关卡？"
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:30
+msgid "Collect loot"
+msgstr "拿战利品"
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:36
+msgid "Finish scenario"
+msgstr "结束关卡"
+
+#. [terrain_type]: id=crystal
+#: Captured_by_a_Nightmare\macros\cave_terrain.cfg:9
+msgid "Crystal Caves"
+msgstr "有水晶的洞穴"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:54
+msgid "This rune restores movement points"
+msgstr "这个符文能恢复移动点数。"
+
+#. [then]
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:124
+msgid "You must find a way to unpetrify $petrified_character_name"
+msgstr "找办法解除$petrified_character_name|的石化"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:147
+msgid "Petrified unit stands on a rune with this image."
+msgstr "被石化的单位站在这样的一个符文上。"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:183
+msgid "This rune looks similar to the petrification rune"
+msgstr "这个符文看起来和石化符文相似。"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:238
+msgid "Wow, what was that?"
+msgstr "哇，什么情况？"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:239
+msgid "You was petrified by the dwarvish magical rune."
+msgstr "你被矮人的魔法符文石化了。"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:240
+msgid "For how long?"
+msgstr "有多久了？"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:241
+msgid "Few month ago trolls here, you not here."
+msgstr "几月前巨魔这里，你不这里。"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:242
+msgid "Why did you come to this caves?"
+msgstr "你来这洞穴干什么？"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:243
+msgid "I heard about dwarvish treasures ... Thank you for saving my life, I owe you."
+msgstr "我听说了矮人的财宝……谢谢你救了我的命，我欠你了。"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:244
+msgid "Join us, we are going to find and defeat dwarvish king. After that, you may take as many treasures as you can carry."
+msgstr "加入我们，我们在找矮人国王并杀了他。完事儿后，你能搬多少财宝就搬多少。"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:245
+msgid "Sounds good, I'm in."
+msgstr "听起来不错，我加入。"
+
+#. [floating_text]
+#. [dummy]: id=contusion
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:66
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:84
+msgid "contusion"
+msgstr "挫伤"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:74
+msgid "Heavy Sword"
+msgstr "重剑"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:76
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:100
+msgid "This heavy sword contuses enemies when used offensively. Contused enemy receives -15% defense (chance to hit) penalty until it starts a turn."
+msgstr "用这把重剑主动攻击时能挫伤敌人。被挫伤的敌人会减少15%的防御率，直到它的回合开始。"
+
+#. [dummy]: id=contusion
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:85
+msgid "This attack contuses enemies when used offensively. Contused enemy receives -15% defense (chance to hit) penalty. When victim starts a turn this effect is removed."
+msgstr "这种攻击在主动攻击时会挫伤敌人。被挫伤的敌人会减少15%的防御率。当被挫伤者的回合开始时效果消失。"
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:101
+msgid "heavy_sword^Take it"
+msgstr "拿起来"
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:102
+msgid "heavy_sword^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:103
+msgid "This item is suitable only for orcish grunts and leaders (or their advancements)."
+msgstr "这个物品仅适用于兽人步兵和首领（或他们的升级单位）。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:9
+msgid "Potion of Steadiness"
+msgstr "坚定药水"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:11
+msgid "This unit now has 10% physical resistances (blade, pierce, impact) and steadfast ability."
+msgstr "此单位现在有10%的物理抗性（刃器、穿刺、冲击）和坚定能力。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:35
+msgid "This potions changes physical resistances (blade, pierce, impact) to 10% and grants steadfast ability."
+msgstr "此药水将物理抗性（刃器、穿刺、冲击）变为10%并赋予坚定能力。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:36
+msgid "potion_steadiness^Drink it"
+msgstr "喝下"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:37
+msgid "potion_steadiness^Leave it"
+msgstr "放这儿"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:45
+msgid "Potion of Battle Frenzy"
+msgstr "狂战药水"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:47
+msgid "Whenever melee attack is used, this unit continues fight until either it or its enemy lies dead."
+msgstr "当使用刃器攻击时，此单位将迫使双方持续战斗直到一方被杀。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:64
+msgid "This potions grants berserk special to melee attacks."
+msgstr "这瓶药水能为刃器攻击附上狂暴效果。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:65
+msgid "potion_frenzy^Drink it"
+msgstr "喝下"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:66
+msgid "potion_frenzy^Leave it"
+msgstr "放这儿"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:77
+msgid "Potion of the Afterlife"
+msgstr "复生药水"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:79
+msgid "This unit will be transformed to skeleton upon death."
+msgstr "此单位死亡时会变成骷髅。"
+
+#. [dummy]: id=afterlife
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:85
+msgid "afterlife"
+msgstr "复生"
+
+#. [dummy]: id=afterlife
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:86
+msgid "This unit will be transformed to skeleton upon death"
+msgstr "此单位死亡时会变成骷髅"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:149
+msgid "One who drinks this potion will not be taken by the death. If the drinker dies, he will be transformed to another unit. Grunt or Assassin will be transformed to Skeleton. Archer will be transformed to Skeleton Archer."
+msgstr "喝下此药的人不会被死亡打倒。如果饮用者死了，他会变成另一个单位。兽人步兵和兽人刺客会变为骷髅战士，兽人弓箭手会变为骷髅弓箭手。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:150
+msgid "potion_afterlife^Drink it"
+msgstr "喝下"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:151
+msgid "potion_afterlife^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:152
+msgid "This potion is not useful for main characters, because they are not allowed to die."
+msgstr "这瓶药对主要单位没用，因为他们不能死。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:162
+msgid "This potions heals 20 hitpoints."
+msgstr "这瓶药能恢复20点生命值。"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:163
+msgid "potion_healing^Drink it"
+msgstr "喝下"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:164
+msgid "potion_healing^Leave it"
+msgstr "放这儿"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:9
+msgid "heals +2"
+msgstr "治疗+2"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:10
+msgid "female^heals +2"
+msgstr "治疗+2"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:14
+msgid ""
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 2 HP per turn."
+msgstr ""
+"允许单位在我方回合开始时治疗临近的友军单位。\n"
+"\n"
+"临近此治疗者的单位将每回合恢复2点生命值。"
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:27
+msgid "harms -8"
+msgstr "伤害-8"
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:28
+msgid "female^harms -8"
+msgstr "伤害-8"
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:31
+msgid ""
+"Allows the unit to harm adjacent enemy units at the beginning of our turn.\n"
+"\n"
+"A unit affected by this harmer may loose up to 8 HP per turn."
+msgstr ""
+"允许单位在我方回合开始时伤害临近的敌人。"
+"\n"
+"受到此伤害效果的单位会每回合失去8点生命值。"
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:40
+msgid "mitigates 25%"
+msgstr "缓伤25%"
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:41
+msgid "female^mitigates 25%"
+msgstr "缓伤25%"
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:42
+msgid ""
+"Allows the unit to reduce damage taken by adjacent enemy units.\n"
+"\n"
+"A unit cared for by this healer will heal 25% of taken damage right after the attack ends."
+msgstr ""
+"允许单位减少临近敌人造成的伤害。\n"
+"\n"
+"与此治疗者临近的单位在受到攻击结束后会恢复25%的生命值。"
+
+#. [chance_to_hit]: id=fencing_offensive
+#: Captured_by_a_Nightmare\macros\abilities.cfg:119
+msgid "fencing"
+msgstr "剑术"
+
+#. [chance_to_hit]: id=fencing_offensive
+#: Captured_by_a_Nightmare\macros\abilities.cfg:120
+msgid "When used offensively +10% chance to hit. When used defensively -10% chance of being hit."
+msgstr "主动攻击时+10%命中率，被动防御时-10%的被命中率。"
+
+#. [leadership]: id=terror
+#: Captured_by_a_Nightmare\macros\abilities.cfg:140
+msgid "terror"
+msgstr "震慑"
+
+#. [leadership]: id=terror
+#: Captured_by_a_Nightmare\macros\abilities.cfg:141
+msgid ""
+"This unit can frighten enemies that are next to it, making them fight worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an adjacent enemy unit of a lower level engages in combat, its attacks do 25% less damage times the difference in their levels."
+msgstr ""
+"此单位可以吓到临近的敌人，让他们打得更差。\n"
+"\n"
+"临近的低等级敌方单位在战斗中造成更少的伤害。临近的低等级单位在战斗时，攻击将减少等级差乘以25%的伤害。"
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:157
+msgid " This unit is capable of basic healing."
+msgstr "此单位可以缓慢疗伤。"
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:160
+msgid " This unit is capable of healing and curing of poison."
+msgstr "此单位可以疗毒和疗伤。"
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:164
+msgid " This unit is capable of rapid healing and curing of poison."
+msgstr "此单位可以疗毒和快速疗伤。"
+
+#. [advancement]: id=fencing
+#: Captured_by_a_Nightmare\macros\advancements.cfg:37
+msgid "Sword: offensive attack +10% chance to hit, defensive attack -10% chance of being hit"
+msgstr "剑：主动攻击时增加+10%的命中率，被动防御时-10%的被命中率"
+
+#. [advancement]: id=eagle_eye
+#: Captured_by_a_Nightmare\macros\advancements.cfg:51
+msgid "Crossbow: +4 damage"
+msgstr "弩：伤害+4"
+
+#. [advancement]: id=fangs_drains
+#: Captured_by_a_Nightmare\macros\advancements.cfg:65
+msgid "Fangs: drains special"
+msgstr "尖牙：吸血"
+
+#. [advancement]: id=net_marksman
+#: Captured_by_a_Nightmare\macros\advancements.cfg:79
+msgid "Net: marksman special"
+msgstr "网：精准"
+
+#. [advancement]: id=mitigates
+#: Captured_by_a_Nightmare\macros\advancements.cfg:96
+msgid "New ability: adjacent friendly units -25% taken damage"
+msgstr "新技能：临近友好单位受伤后恢复25%所受伤害"
+
+#. [advancement]: id=harms
+#: Captured_by_a_Nightmare\macros\advancements.cfg:108
+msgid "New ability: adjacent enemy units -8 HP per turn"
+msgstr "新技能：临近敌对单位每回合生命值-8"
+
+#. [advancement]: id=necromancy
+#: Captured_by_a_Nightmare\macros\advancements.cfg:123
+msgid "Plague staff: +3 damage, raises level 1 soulless"
+msgstr "瘟疫法杖：伤害+3，产生一级无魂怪"
+
+#. [plague]: id=plague_soulless, type=Soulless
+#: Captured_by_a_Nightmare\macros\advancements.cfg:136
+msgid "plague"
+msgstr "瘟疫"
+
+#. [plague]: id=plague_soulless, type=Soulless
+#: Captured_by_a_Nightmare\macros\advancements.cfg:137
+msgid "When a unit is killed by a Plague attack, that unit is replaced with a Soulless on the same side as the unit with the Plague attack. This doesn’t work on Undead or units in villages."
+msgstr "当一个单位被瘟疫攻击所杀时，这个单位会变成一个与攻击者同阵营的无魂怪。这对亡灵或村庄里的单位无效。"
+
+#. [advancement]: id=freezing
+#: Captured_by_a_Nightmare\macros\advancements.cfg:146
+msgid "Chill wave: slows special"
+msgstr "冷冻波：减速"
+
+#. [unit]: id=hushnak, type=Orcish Sovereign
+#. [unit]: id=hushnak, type=Wraith
+#: Captured_by_a_Nightmare\macros\characters.cfg:9
+#: Captured_by_a_Nightmare\macros\characters.cfg:278
+msgid "Hushnak"
+msgstr "哈什奈克"
+
+#. [unit]: id=vadasha, type=cban Orcish Witchdoctor
+#. [unit]: id=vadasha, type=Ghost
+#: Captured_by_a_Nightmare\macros\characters.cfg:24
+#: Captured_by_a_Nightmare\macros\characters.cfg:289
+msgid "Vadasha"
+msgstr "瓦达莎"
+
+#. [unit]: type=Dwarvish Lord, id=uritbor
+#. [unit]: type=cban Dwarvish King, id=uritbor
+#. [side]
+#: Captured_by_a_Nightmare\macros\characters.cfg:45
+#: Captured_by_a_Nightmare\macros\characters.cfg:63
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:100
+msgid "Uritbor"
+msgstr "厄瑞特博"
+
+#. [unit]: id=bart, type=Wolf Rider
+#. [unit]: id=bart, type=Goblin Pillager
+#. [side]
+#: Captured_by_a_Nightmare\macros\characters.cfg:77
+#: Captured_by_a_Nightmare\macros\characters.cfg:94
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:161
+msgid "Bart"
+msgstr "巴特"
+
+#. [unit]: id=rark, type=cban Orcish Hunter
+#. [side]
+#. [event]
+#: Captured_by_a_Nightmare\macros\characters.cfg:125
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:150
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:748
+msgid "Rark"
+msgstr "拉克"
+
+#. [unit]: id=bogarg, type=cban Orcish Novice Shaman
+#: Captured_by_a_Nightmare\macros\characters.cfg:142
+msgid "Bogarg"
+msgstr "博伽格"
+
+#. [unit]: id=erurag, type=Orcish Sovereign
+#: Captured_by_a_Nightmare\macros\characters.cfg:161
+msgid "Erurag"
+msgstr "俄如莱格"
+
+#. [unit]: id=amailis, type=Naga Warrior
+#: Captured_by_a_Nightmare\macros\characters.cfg:175
+msgid "Amailis"
+msgstr "俄玫利斯"
+
+#. [unit]: id=nessa, type=cban Necromancy Adept
+#: Captured_by_a_Nightmare\macros\characters.cfg:189
+msgid "Nessa"
+msgstr "奈萨"
+
+#. [unit]: id=merudda, type=cban Outcast
+#: Captured_by_a_Nightmare\macros\characters.cfg:208
+msgid "Merudda"
+msgstr "么鲁达"
+
+#. [unit]: id=picklock, type=Goblin Impaler
+#: Captured_by_a_Nightmare\macros\characters.cfg:225
+msgid "Picklock"
+msgstr "锁撬"
+
+#. [unit]: id=dak, type=Troll Hero
+#: Captured_by_a_Nightmare\macros\characters.cfg:241
+msgid "Dak"
+msgstr "达克"
+
+#. [unit]: id=nuk_gah, type=Troll Shaman
+#: Captured_by_a_Nightmare\macros\characters.cfg:262
+msgid "Nuk Gah"
+msgstr "纳克伽"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:25
+msgid ""
+"Rark has advanced to his maximum level, but he still has custom advancements\n"
+"Sword: offensive attack +10% chance to hit, defensive attack -10% chance of being hit\n"
+"Crossbow: +4 damage"
+msgstr ""
+"拉克已经达到了最高等级，但他仍有特殊技能可以提升\n"
+"剑：主动攻击时增加+10%的命中率，被动防御时-10%的被命中率\n"
+"弩：伤害+4"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:29
+msgid ""
+"Bart has advanced to his maximum level, but he still has custom advancements\n"
+"Fangs: drains special\n"
+"Net: marksman special"
+msgstr ""
+"巴特已经达到了最高等级，但他仍有特殊技能可以提升\n"
+"尖牙：吸血\n"
+"网：精准"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:33
+msgid ""
+"Bogarg has advanced to his maximum level, but he still has custom advancements\n"
+"New ability: adjacent friendly units -25% taken damage\n"
+"New ability: adjacent enemy units -8 HP per turn"
+msgstr ""
+"博伽格已经达到了最高等级，但他仍有特殊技能可以提升\n"
+"新技能：减少临近友好单位受到的25%的伤害\n"
+"新技能：临近敌人每回合-8点生命值"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:37
+msgid ""
+"Nessa has advanced to her maximum level, but she still has custom advancements\n"
+"Plague staff: +3 damage, raises level 1 soulless\n"
+"Chill wave: slows special"
+msgstr ""
+"奈萨已经达到了最高等级，但他仍有特殊技能可以提升\n"
+"瘟疫法杖：伤害+3，产生一级无魂怪\n"
+"冷冻波：减速"
+
+#. [note]: description=<span color='#DC7DFF'>
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:8
+msgid "Early finish bonus: +$bonus_xp_multiplier XP per turn. $bonus_receivers_description|."
+msgstr "提前过关奖励：每回合增加$bonus_xp_multiplier点经验。$bonus_receivers_description"
+
+#. [then]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:30
+msgid ""
+"Turns finished early: $early_finished_turns\n"
+"Early finish bonus: $bonus_xp_multiplier xp per turn\n"
+"Bonus per unit: $bonus_xp\n"
+"$bonus_receivers_description\n"
+msgstr ""
+"提前过关的回合数：$early_finished_turns\n"
+"提前过关奖励：每回合$bonus_xp_multiplier\n"
+"每个单位奖励：$bonus_xp\n"
+"$bonus_receivers_description\n"
+
+#. [event]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:63
+msgid "Bonus receivers: Rark, Bart, Bogarg"
+msgstr "奖励单位：拉克、巴特、博伽格"
+
+#. [event]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:74
+msgid "Bonus receivers: Rark, Bart, Bogarg, Nessa"
+msgstr "奖励单位：拉克、巴特、博伽格、奈萨"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:17
+msgid "Amulet of Luck"
+msgstr "幸运护身符"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:19
+msgid "This amulet grants the wearer +10% defense"
+msgstr "此护身符为佩戴者增加10%的防御率"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:28
+msgid "lucky"
+msgstr "幸运"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:29
+msgid "female^lucky"
+msgstr "幸运"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:30
+msgid "This unit wears amulet of luck which grants +10% defense"
+msgstr "此单位戴着能增加10%防御率的幸运护身符"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:59
+msgid "Quiver of First Strike"
+msgstr "先制箭袋"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:61
+#: Captured_by_a_Nightmare\macros\items.cfg:82
+msgid "This quiver grants firstrike special for bows and crossbows."
+msgstr "此箭袋为弓和弩赋予先制能力"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:83
+msgid "quiver^Take it"
+msgstr "拿起来"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:84
+msgid "quiver^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:85
+#: Captured_by_a_Nightmare\macros\items.cfg:176
+msgid "This item is suitable only for units with a bow or a crossbow."
+msgstr "这个物品仅适用于使用弓或弩的单位。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:96
+msgid "Hoplite Arms"
+msgstr "重甲兵装备"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:98
+msgid "Arms of a merman hoplite. Spear grants an extra attack. Buckler gives +15% blade, pierce and impact resistances."
+msgstr "人鱼重甲兵的装备。矛增加一次额外攻击，圆盾增加对刃器、穿刺和冲击15%的抗性。"
+
+#. [dummy]: id=hoplite_arms
+#: Captured_by_a_Nightmare\macros\items.cfg:104
+msgid "hoplite arms"
+msgstr "重甲兵装备"
+
+#. [dummy]: id=hoplite_arms
+#: Captured_by_a_Nightmare\macros\items.cfg:105
+#: Captured_by_a_Nightmare\macros\items.cfg:135
+msgid "Spear grants an extra attack. Buckler gives +15% blade, pierce and impact resistances."
+msgstr "矛增加一次额外攻击，圆盾增加对刃器、穿刺和冲击15%的抗性。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:136
+msgid "hoplite_arms^Take it"
+msgstr "拿起来"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:137
+msgid "hoplite_arms^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:138
+msgid "This item is suitable only for a unit with a spear."
+msgstr "这个物品仅适用于使用矛的单位。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:149
+msgid "Spider's Poison"
+msgstr "蜘蛛毒"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:151
+#: Captured_by_a_Nightmare\macros\items.cfg:173
+msgid "This grease poisons bow or crossbow pierce attacks."
+msgstr "此物品能为弓或弩的穿刺攻击上毒。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:174
+msgid "poison_arrow^Take it"
+msgstr "拿起来"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:175
+msgid "poison_arrow^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:184
+msgid "Rark can now recruit assassins."
+msgstr "拉克现在可以征募兽人刺客了。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:192
+msgid "Elemental Robe"
+msgstr "元素长袍"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:194
+msgid "This robe grants the wearer 40% fire and cold resistances."
+msgstr "此长袍为穿戴者增加40%的火焰和冰寒抗性。"
+
+#. [dummy]: id=elemental_robe
+#: Captured_by_a_Nightmare\macros\items.cfg:200
+msgid "elemental robe"
+msgstr "元素长袍"
+
+#. [dummy]: id=elemental_robe
+#: Captured_by_a_Nightmare\macros\items.cfg:201
+msgid "Magical elemental robe provides 40% fire and cold resistances."
+msgstr "魔法元素长袍提供40%的火焰和冰寒抗性。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:228
+msgid "This robe grants the wearer 40% fire and cold resistances"
+msgstr "此长袍为穿戴者增加40%的火焰和冰寒抗性"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:229
+msgid "elemental_robe^Wear it"
+msgstr "穿上"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:230
+msgid "elemental_robe^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:235
+msgid "This unit already wears the rune armor and can't use the elemental robe."
+msgstr "此单位已经穿上符文铠甲了，所以不能用元素长袍。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:240
+msgid "Wolf can't wear the robe."
+msgstr "狼可不能穿长袍。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:251
+msgid "Potion of Regeneration"
+msgstr "自愈之药"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:253
+msgid "This unit is now able to regenerate."
+msgstr "这个单位现在可以自愈了。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:272
+msgid "One who drinks this potion will be able to regenerate."
+msgstr "喝下此药的单位将获得自愈能力。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:273
+msgid "potion_regeneration^Drink it"
+msgstr "喝下"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:274
+msgid "potion_regeneration^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:275
+msgid "This unit already has regeneration ability."
+msgstr "此单位已经有自愈能力了。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:285
+msgid "Rune Armor"
+msgstr "符文铠甲"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:287
+msgid "This rune armor grants resistances: +30% for blade, pierce, impact and +10% for arcane, fire, cold."
+msgstr "这个符文铠甲增加抗性：刃器、穿刺、冲击+30%，奥术、火焰、冰寒+10%。"
+
+#. [dummy]: id=rune_armor
+#: Captured_by_a_Nightmare\macros\items.cfg:293
+msgid "rune armor"
+msgstr "符文铠甲"
+
+#. [dummy]: id=rune_armor
+#: Captured_by_a_Nightmare\macros\items.cfg:294
+#: Captured_by_a_Nightmare\macros\items.cfg:325
+msgid "Rune armor grants resistances: +30% for blade, pierce, impact and +10% for arcane, fire, cold."
+msgstr "符文铠甲增加抗性：刃器、穿刺、冲击+30%，奥术、火焰、冰寒+10%。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:326
+msgid "rune_armor^Wear it"
+msgstr "穿上"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:327
+msgid "rune_armor^Leave it"
+msgstr "放这儿"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:332
+msgid "This unit already wears the elemental robe and can't use the rune armor."
+msgstr "此单位已经穿上元素长袍了，所以不能用符文铠甲。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:337
+msgid "Wolf can't wear the armor."
+msgstr "狼可不能穿铠甲。"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:350
+msgid "This is a very expensive gem. Upkeep and recall cost of the unit will be free."
+msgstr "这是个非常宝贵的宝石，能使单位的维护费用和召回费用变为0。"
+
+#. [dummy]: id={NAME}
+#: Captured_by_a_Nightmare\macros\items.cfg:357
+msgid "This unit has a gem. Unit's upkeep and recall cost are free."
+msgstr "此单位有一个宝石，其维护费用和召回费用为0。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:387
+msgid "This is a very valuable gem. One who takes it becomes loyal and its recall cost in the next scenarios will be free."
+msgstr "这是个非常宝贵的宝石，拿到宝石的单位将变忠诚且其在后面关卡中的召回费用将为0。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:388
+msgid "Take the gem"
+msgstr "拿上宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:389
+msgid "Leave the gem"
+msgstr "放下宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:397
+msgid "Leaders and heroes don't need this gem."
+msgstr "首领和英雄单位无需此宝石。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:402
+msgid "Wolf can't take the gem."
+msgstr "狼可不能拿宝石。"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:411
+msgid "ruby"
+msgstr "红宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:411
+msgid "Ruby"
+msgstr "红宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:415
+msgid "emerald"
+msgstr "绿宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:415
+msgid "Emerald"
+msgstr "绿宝石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:419
+msgid "diamond"
+msgstr "钻石"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:419
+msgid "Diamond"
+msgstr "钻石"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:34
+#: Captured_by_a_Nightmare\macros\story.cfg:70
+msgid "<i>Captured by a Nightmare</i>"
+msgstr "<i>噩梦缠身</i>"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:35
+msgid ""
+"Campaign notes:\n"
+"Read carefully scenario objectives. Pay attention to abilities of custom units. Difficulty balance is one of the top priorities of this campaign. As a result, recall cost depends on a unit level and gold carryover is removed. Early finish gold bonus is replaced with experience bonus for the main characters, which have special AMLAs.\n"
+"\n"
+"Did you know that you can change a difficulty level in a mid-campaign? Select <i>change difficulty</i> checkbox in the bottom of the <i>Load Game</i> screen, it is available for a start of scenario saves.\n"
+"\n"
+"Have fun."
+msgstr ""
+"战役说明：\n"
+"请仔细看关卡目标，注意本战役特殊单位的能力。难易平衡性是本战役最优先考虑的因素之一。因此，召回所需费用决定于单位等级，而且取消了过关“带走金币”设定。提前过关奖金改为了给有特殊名字的主要单位的经验奖励。\n"
+"\n"
+"你知道怎么在战役中改难度吗？你可以在“载入游戏”框里勾选底部的“改变难度”，这适用于关卡开始的存档。\n"
+"\n"
+"祝你玩得开心！"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:43
+#: Captured_by_a_Nightmare\macros\story.cfg:49
+#: Captured_by_a_Nightmare\macros\story.cfg:56
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Hammer and the Anvil"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"锤与砧"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:45
+msgid "This story happened during the First Dark Age of Wesnoth. Orcs don't have official name for that period. However, that was a time when they significantly expanded their influence on the Great Continent."
+msgstr "这个故事发生在韦诺的第一个黑暗时代。当时其他生物对兽人们还没有统一的称呼。不过，当时是他们在泰陆上显著扩张了影响力的时段。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:51
+msgid "To start a story, I have to tell you about Hushnak. He was strong, brave and smart. An orc with such traits can easily become a chieftain. He was born in Glamdrol, a large orcish city."
+msgstr "故事开始前，我得跟你讲讲哈什奈克。他强大，精明又勇敢。有如此特点的兽人很好成为首领。他出生在一个大兽人城市戈拉姆多。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:58
+msgid "When Hushnak grew up and proved to be a capable leader, he decided to seize new territories and settled his tribe in the Heart Mountains. In 359 YW they built a small settlement in the western part of the Heart Mountains. What was really strange, Hushnak loved a peaceful life in the mountains more than a battle."
+msgstr "哈什奈克长大后证明了这点并成为了一名精干的首领，他决定在心之山脉里占据新的领土并建立他的部落。在韦元359年，他们在心之山脉的西部建立了一小处居民地。很奇怪的是，哈什奈克钟爱山里安稳平静的生活而不那么喜欢打仗。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:71
+msgid "Hushnak married Vadasha, a healthy and resilient orcish woman. Soon their son Rark was born. Hushnak, Vadasha and Rark lived two years of happy life. But soon their sweet dream will be ended."
+msgstr "哈什奈克娶了瓦达莎，她是个健康又善于恢复的女兽人。不久后他们的儿子拉克诞生了。哈什奈克、瓦达莎和拉克过了两年幸福的生活，但很快他们的美梦就要被永远打断了。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:81
+#: Captured_by_a_Nightmare\macros\story.cfg:95
+#: Captured_by_a_Nightmare\macros\story.cfg:102
+#: Captured_by_a_Nightmare\macros\story.cfg:109
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Tribute"
+msgstr "<i>噩梦缠身</i>\n"
+"贡金"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:83
+msgid "Bart managed to escape the siege and brought Rark to Glamdrol. They were saved. In Glamdrol they meet Erurag, an old friend of Hushnak. Erurag accepted Bart and Rark into his tribe."
+msgstr "巴特逃出了包围圈并带着拉克到了戈拉姆多，他们得救了。他们在戈拉姆多见到了哈什奈克的老朋友俄如莱格，俄如莱格接纳他们进了他的部落。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:97
+msgid "13 years have passed. Rark hasn't yet participated in battles. However, he was a good hunter. He thought that it would be very important for him to learn how to track down the prey and survive in the wild."
+msgstr "13年过去了，拉克还没有参与过战斗。不过他是个好猎手，他觉得在野外学习生存和追捕猎物对他至关重要。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:104
+msgid "Rark had insomnia and nightmares, he asked young shaman Bogarg to heal him. Bogarg couldn't help, at least he kept Rark's problem in a secret. This marked the beginning of their friendship."
+msgstr "拉克得了失眠症又做噩梦，他请年轻的萨满博伽格医治他。博伽格却帮不上忙，至少为他保守了这个秘密。这标志着他们友谊的开始。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:111
+msgid "Erurag got attached to Rark and wanted him to become a great warrior one day. For now he decided to give Rark a small assignment. Erurag sent Rark to collect a tribute from a nearby human village. Last year Erurag has already visited that village. \"It would be an easy task. Take half of their gold and don't kill the village head during the negotiations. He is a good business partner - said Erurag\"."
+msgstr "俄如莱格不仅接手了拉克，也希望他将来成为一个强大的勇士。现在他决定给拉克一个小任务。俄如莱格派拉克去附近的人类村落收贡金。去年俄如莱格已经观察过了那个村落。“这是个简单的任务。拿走他们一半的金币。谈判的时候别杀村长。他可是个不孬的生意伙伴。”——俄如莱格说"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:126
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Nightmare"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"噩梦"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:128
+msgid "Rark often has nightmares that exhaust his soul and body. Sometimes it seems to him that even his reality is a nightmare. Now we are going to dive into one of such dreams."
+msgstr "频繁的噩梦折磨着拉克的身心，有时候他甚至以为他的现实就是噩梦。现在我们要去他的一场梦里一探究竟。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:137
+#: Captured_by_a_Nightmare\macros\story.cfg:143
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Wolf's Lair"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"狼穴"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:139
+msgid "Erurag sought to strengthen his army and he accepted an idea suggested by Bart. They wanted to tame wolves and use them on the battlefield. Goblins, fairly weak and fragile creatures, could learn to ride the tamed wolves."
+msgstr "俄如莱格力图强化他的军队，于是他接受了巴特的建议。他们想驯化狼并应用于战场上。地精，就是那种又弱又脆的生物，他们能学会驾驭驯化的狼。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:145
+msgid "Bart knew that a large number of wolves live in the Wesmere Forest. Erurag commissioned Rark to lead the expedition. Orcs easily found a wolf lair. But besides the wolves they met someone else."
+msgstr "巴特记得韦弥尔森林里生活着很多的狼。俄如莱格委托拉克去带领探险队。兽人们很轻松地就找到了狼窝。但除了狼，他们还遇到了其他人。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:160
+#: Captured_by_a_Nightmare\macros\story.cfg:166
+#: Captured_by_a_Nightmare\macros\story.cfg:172
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Competition"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"竞赛"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:162
+msgid "More and more, orcs fought their foes and won. To celebrate their successes, Erurag and his friend Grolo arranged a feast for their tribes."
+msgstr "一次又一次，兽人们与敌作战并取得胜利。为了庆祝胜利，俄如莱格和他的朋友格洛洛为他们的部落筹备了盛宴。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:168
+msgid "They were already very drunk when their conversation was interrupted by a strange creature, nagini Amailis, who suddenly burst into the hall. Amailis said that merfolk expelled nagas from the bay, which served as their home. Erurag offered his help, but in return, Amailis must swear allegiance to him and stand under his command. Grolo interrupted her answer. He said that his tribe is stronger than Erurag's tribe, and he will help Amailis under the same conditions."
+msgstr "正当他们喝得大醉之时，他们的谈笑声被一只奇怪的生物打断了。巨蛇俄玫利斯突然闯入大厅。俄玫利斯说人鱼把娜迦们驱逐出了他们的海湾家园。俄如莱格为他提供了帮助，但是作为报酬，俄玫利斯必须宣誓与他结盟并当他的下属。格洛洛打断了她的回答。他说他的部落比俄如莱格的部落更强，同样的条件下他也会帮俄玫利斯。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:174
+msgid "Drunken leaders almost started a fight, but Bogarg entered the conversation. Prudent shaman suggested the following plan - both Erurag and Grolo will help Amailis. After that, nagas will join a tribe which has defeated more enemies during the battle. Everyone agreed with this."
+msgstr "喝醉的首领们差点打起来，但博伽格接了话茬。谨慎的萨满提出了一个计划：俄如莱格和格洛洛都帮俄玫利斯。完事之后，娜迦得加入在战斗中杀敌更多的部落。大家都同意了。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:188
+#: Captured_by_a_Nightmare\macros\story.cfg:194
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Backdoor"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"后门"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:190
+msgid "Erurag's scouts found an extraordinary fortress on the outskirts of the Wesmere Forest. The fortress is surrounded by the magic wall, they said. A talented mage founded a school in the fortress. He hired elves and build the wall to protect the school. Rumor has it the mage supports the wall by his powers, thus the wall will be fallen once the mage if defeated."
+msgstr "俄如莱格的斥候在韦弥尔森林郊外发现了一座离奇的城堡，他们说城堡被魔法墙围护着。一位天才法师在城堡里建立了个学校，他雇了精灵建造城墙来保护学校。传言说法师在用他的法力支撑着墙，一旦法师被打倒，墙就会消失。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:196
+msgid "The magic wall is impregnable. But the fortress still has a weakness - a dungeon that may be entered from the outside of the walls. Erurag wanted to capture the stronghold and settle a base there. He developed a plan - while his forces will lure out and distract elves and mages, Rark must get through the dungeon and defeat the mage."
+msgstr "魔法墙固若金汤。但堡垒还是有个弱点——有个地牢可以从外面进到墙内。俄如莱格想占领这座要塞并建立一个基地。他制定了个计划——他的部队调开精灵和法师，同时拉克必须穿过地牢并打倒撑起魔法墙的法师。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:213
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"Escaping The Nightmare"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"挣脱梦魇"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:215
+msgid "It seems that Rark lives a good life as an orc. But there is an emptiness in his soul. The past haunts him. He has a keen desire to break the chains of his nightmares."
+msgstr "看起来拉克作为一个兽人过着不错的生活，但他的灵魂有些空虚，过去的事让他感到鬼影重重。他极度渴望打破梦魇的枷锁。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:226
+#: Captured_by_a_Nightmare\macros\story.cfg:232
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"A Friend of My Enemy"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"敌人的朋友"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:228
+msgid "Two decades have passed since Bart fled from the Heart Mountains. Now he was returning there .. he felt fear in the depths of his soul, although he did not show it. All this time he tried to forget what happened in the mountains, his memories were shrouded in mist. Rark, on the contrary, felt devilish joy. He didn't know if he will survive, He had a hunch - whatever the end of their journey, his nightmares would soon end."
+msgstr "自从巴特逃离心之山脉后已经过去了二十年。如今他正在回去…他看起来没事，但他却在灵魂深处感到恐惧。他一直都在尝试忘记在山里发生的事情，记忆犹如雾里。拉克却相反，他欣喜若狂。他不知道他能否活下来，但他有预感——不管他的旅途如何结束，他的噩梦很快就要结束了。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:234
+msgid "After some time wandering in the mountains, the travelers came to a settlement. It was inhabited by a variety of creatures and located in a picturesque place. But could Rark appreciate this beauty, especially now?"
+msgstr "在山里漫游了一段时间后，他们来到了一片居住地。这里是风景如画般的地方并且居住了各种各样的生物。但是拉克能认出此番美景吗，尤其是现在？"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:253
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Flaming Stone"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"燃烧的石头"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:255
+msgid "Orcs advanced into the mountains, only occasionally they met wild animals and no signs of dwarves. Some of them began to doubt the success of the campaign. One day the fate gave them a chance and brought them together with friends in misfortune."
+msgstr "兽人们进发到了山里，只有偶尔他们遇到的野动物，并没有矮人的踪迹。有的人开始怀疑此战是否能成功。一天，命运给予他们机会让他们在不幸中结识为友。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:270
+#: Captured_by_a_Nightmare\macros\story.cfg:276
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"Greediness"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"贪婪"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:272
+msgid "Trolls showed the way to the cave. When the party arrived, they saw dwarves working hard and mining precious minerals. Rark could achieve several goals at once - give trolls their home, make an alliance with them and plunder their common foe."
+msgstr "巨魔们带路到了洞穴。当部队到达时，他们看见矮人正在辛苦地工作并挖着矿。拉克可以一举三得——把巨魔送回家，与他们结盟并掠夺他们共同的敌人。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:278
+msgid "Travelers entered the cave. Trolls were surprised at how significantly dwarves changed the cave for such a short period. The smell of greediness was there in the air."
+msgstr "他们进入了洞穴。巨魔们对矮人们在如此短的时间内大幅改变洞穴面貌感到惊奇。贪婪的气息在空气中弥漫着。"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:291
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Nightmare: Colosseum"
+msgstr ""
+"<i>噩梦缠身</i>\n"
+"斗兽场"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:293
+msgid "Rark fanatically wanted revenge. It is ridiculous for him to doubt why he wants it. However, are there any real goals behind his actions? Or is it an endless series of pain, suffering and death without any purpose?"
+msgstr "拉克一心急于报仇。怀疑他为何要报仇是可笑的。然而，他行动的背后有真正的目标吗？或者这是无意义的无尽苦痛、忍受和死亡？"
+
+#. [time]: id=cloudy_dawn
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:8
+msgid "Cloudy Dawn"
+msgstr "阴天的黎明"
+
+#. [time]: id=cloudy_morning
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:21
+msgid "Cloudy Morning"
+msgstr "阴天的上午"
+
+#. [time]: id=cloudy_afternoon
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:33
+msgid "Cloudy Afternoon"
+msgstr "阴天的下午"
+
+#. [time]: id=cloudy_dusk
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:45
+msgid "Cloudy Dusk"
+msgstr "阴天的黄昏"
+
+#. [time]: id=cloudy_first_watch
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:59
+msgid "Cloudy First Watch"
+msgstr "阴天的前半夜"
+
+#. [time]: id=cloudy_second_watch
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:71
+msgid "Cloudy Second Watch"
+msgstr "阴天的后半夜"
+
+#. [time]: id=nightmare_day_1
+#. [time]: id=nightmare_day_2
+#. [time]: id=nightmare_day_3
+#. [time]: id=nightmare_day_4
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:93
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:102
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:113
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:124
+msgid "Day"
+msgstr "白天"
+
+#. [time]: id=nightmare_dusk_1
+#. [time]: id=nightmare_dusk_2
+#. [time]: id=nightmare_dusk_3
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:135
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:147
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:158
+msgid "Dusk"
+msgstr "黄昏"
+
+#. [time]: id=nightmare_night_1
+#. [time]: id=nightmare_night_2
+#. [time]: id=nightmare_night_3
+#. [time]: id=nightmare_night_4
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:169
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:180
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:192
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:204
+msgid "Night"
+msgstr "夜晚"
+
+#. [time]: id=nightmare_eternal_night
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:216
+msgid "Eternal night"
+msgstr "永夜"
+
+#. [time]: id=rainy_day
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:259
+msgid "Rainy Day"
+msgstr "雨天"
+
+#. [time]: id=bright_indoors
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:317
+msgid "Bright Indoors"
+msgstr "明亮的室内"
+
+#. [time]: id=dark_indoors
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:328
+msgid "Dark Indoors"
+msgstr "昏暗的室内"
+
+#. [set_menu_item]: id=unit_marker_leader
+#. [set_menu_item]: id=unit_marker_hero
+#. [set_menu_item]: id=unit_marker_loyal
+#. [set_menu_item]: id=unit_marker
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:38
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:57
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:76
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:109
+msgid "Mark Unit"
+msgstr "标记单位"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:50
+msgid "Leader can't be marked."
+msgstr "首领不能被标记。"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:69
+msgid "Hero can't be marked."
+msgstr "英雄单位不能被标记。"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:102
+msgid "Loyal unit can't be marked."
+msgstr "忠诚单位不能被标记。"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:121
+msgid "What color do you wish to use for this unit?"
+msgstr "你想为此单位用什么颜色？"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:122
+msgid "Silver"
+msgstr "银"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:123
+msgid "Black"
+msgstr "黑"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:124
+msgid "Red"
+msgstr "红"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:125
+msgid "Green"
+msgstr "绿"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:126
+msgid "Blue"
+msgstr "蓝"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:127
+msgid "Clear icon"
+msgstr "清除图标"
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:129
+msgid "Go Back"
+msgstr "返回"
+
+#. [scenario]: id=01_the_hammer_and_the_anvil
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:18
+msgid "The Hammer and the Anvil"
+msgstr "锤与砧"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:47
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:309
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:240
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:301
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:349
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:395
+msgid "Dwarves"
+msgstr "矮人"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:85
+msgid "Pelamthas"
+msgstr "佩莱姆萨斯"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:86
+msgid "Aigaling"
+msgstr "艾高灵"
+
+#. [side]
+#. [modify_side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:99
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:168
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:29
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:97
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:34
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:34
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:52
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:334
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:85
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:107
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:229
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:775
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:32
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:51
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:29
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:67
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:45
+msgid "Orcs"
+msgstr "兽人"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:110
+msgid "Grunk"
+msgstr "格隆克"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:125
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:295
+msgid "Animals"
+msgstr "动物"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:190
+msgid "Survive until the end of turns"
+msgstr "活到回合数耗尽"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:195
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:340
+msgid "Death of Hushnak"
+msgstr "哈什奈克阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:199
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:344
+msgid "Death of Vadasha"
+msgstr "瓦达莎阵亡"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:212
+msgid "Note that in this campaign goblins can advance up to the second level."
+msgstr "注意，本战役的地精可以升到二级。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:222
+msgid "Chieftain, dwarves surrounded us. They appeared out of nowhere."
+msgstr "首领，我们被矮子包围了，他们到处都是！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:223
+msgid "That was expected. We didn't fight them for a long time. Go to your post and start you war cry, trumpeter!"
+msgstr "早料到了，咱们很久没打过他们了。号令手，快去吹战斗号！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:231
+msgid "I have a bad feeling."
+msgstr "我有不好的预感……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:232
+msgid "I am here with you, you don't need to worry."
+msgstr "别担心，有我在呢。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:235
+msgid "Well, we've surrounda' those pigs. It'a goodish time to slaught'a them. Pelamthas, show what ye've got."
+msgstr "好，咱们包围了这群猪。现在宰了他们倍儿棒！佩莱姆萨斯，给看看你有啥好东西。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:236
+msgid "Aye, milord. Read'ye! Aim! Fire!"
+msgstr "哎好，大王。预备！对准了！点火！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:242
+msgid "That was close."
+msgstr "好险啊！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:244
+msgid "Grandpa, why you didna' fire?"
+msgstr "爷，你咋不开火呢？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:245
+msgid "I canna' figure out this thin'."
+msgstr "我弄不懂这玩意儿。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:246
+msgid "I've trained ya ..."
+msgstr "我都教过你了呀……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:255
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:353
+msgid "Wake up warrior, or you will oversleep the battle!"
+msgstr "勇士们醒醒，不然就睡过战斗了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:256
+msgid "Going to position, chief."
+msgstr "马上到位，首领！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:262
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:278
+msgid "Read'ye! Aim! Fire!"
+msgstr "预备！瞄准！点火！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:271
+msgid "Grandpa ... I willna' forgive myself ... "
+msgstr "爷爷……我不会原谅自己的……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:272
+msgid "Pelamthas, it's a honour to di'ya on the battlefield. Your .. how you call them .. cannons - a' splendid! "
+msgstr "佩莱姆萨斯，死在战场上是荣幸的事儿。你们的…你们管这些东西叫…大炮——啊太有才了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:272
+msgid "But they'r too valuable for an inept hands."
+msgstr "但这玩意儿在笨蛋手里也太宝贝了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:290
+msgid "Ha-ha-ha, so much fun! Enough I thin', our man are approachin' their walls."
+msgstr "哈-哈-哈，太好玩了！我觉嘀够了，咱们的人就到他们的城墙了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:300
+msgid "Hear'a the reinforcements. I've tired of waitin'."
+msgstr "援军到地儿了。等他们真烦死我了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:307
+msgid "Hushnak, there are too many of them."
+msgstr "哈什奈克，它们人太多了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:308
+msgid "Bart, I have a task for you."
+msgstr "巴特，我交给你个任务！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:313
+msgid "Waiting for your orders, chief Hushnak."
+msgstr "听候命令，哈什奈克首领！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:314
+msgid "To flee from the battlefield is unworthy of an orc. But my son is too small to fight. Take Rark and go to Glamdrol. You are responsible for his life. If you fail, I will find you even in hell."
+msgstr "兽人不配逃出战场，但我儿子太小了不能打。带拉克去戈拉姆多！他的命就交给你了！要是你死了，我下地狱也要找你算账！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:315
+msgid "Hushnak, Bart is our son's last hope. Send more riders to protect him."
+msgstr "哈什奈克，巴特是我们儿子的最后希望！多派几个骑手保护他！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:316
+msgid "Right."
+msgstr "好！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:317
+msgid "I have something for you, Bart. This amulet will help you. When Rark will grow up, tell him about us and give him this amulet."
+msgstr "我还有东西给你，巴特。这个护身符能祝你一臂之力。等拉克长大了，告诉他我们的事情并给他这护身符。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:320
+msgid "Thank you."
+msgstr "多谢！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:321
+msgid "I know their leader, his name is Uritbor. Remember that name. Now run, run faster than the wind!"
+msgstr "我认识他们首领，他叫厄瑞特博。记着这个名字。现在快跑！得跑得比风还快！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:322
+msgid "Chief, you can count on me. I will not fail."
+msgstr "首领，交给我吧！我不会失败的！"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:332
+msgid "Survive until Bart escapes to the sign in the south-western part of the map"
+msgstr "活到巴特逃到地图西南角的标志处"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:336
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:183
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:159
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:396
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:462
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:793
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1024
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1102
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1230
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:138
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:225
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:587
+msgid "Death of Bart"
+msgstr "巴特阵亡"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:358
+msgid "Hmm.. These orcs are fightin' like real berserks, but their end is nea'. My reinforcements are comin'."
+msgstr "哼嗯…这些兽人打得跟真的狂战士一样，但他们很快就玩儿完。我的援军来了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:372
+msgid "Goodbye, son."
+msgstr "再见了儿子。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:373
+msgid "Hey, they'a tryin' to escape! Send the gryphons."
+msgstr "嘿，他们想跑！派狮鹫上！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:419
+msgid "<i>flap flap</i>"
+msgstr "<i>（拍打翅膀）</i>"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:446
+msgid "<i>zzzsshhhh</i>"
+msgstr "<i>嗞——嘶——吼</i>"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:480
+msgid "I am wounda'. Warriors, keep fightin'!"
+msgstr "我伤了，勇士们，你们接着打！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:498
+msgid "Bart looks back for a moment."
+msgstr "巴特回头看了一会儿。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:499
+msgid "Damned dwarves, burn in hell."
+msgstr "杀千刀的矮子，地狱里烧死去吧！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:500
+msgid "He escaped!"
+msgstr "他跑远了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:501
+msgid "Our son is saved."
+msgstr "咱儿子安全了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:513
+msgid "No! We had to hold the dwarves and give Bart the opportunity to escape!"
+msgstr "不！我们必须得顶住矮人给巴特逃跑机会！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:524
+msgid "Don't die ..."
+msgstr "别死……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:535
+msgid "Oh no!"
+msgstr "不要哇！"
+
+#. [scenario]: id=02_the_tribute
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:6
+msgid "The Tribute"
+msgstr "贡金"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:48
+msgid "Peasants"
+msgstr "农民"
+
+#. [unit]: type=cban Villager, id=village_head
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:66
+msgid "Yraec"
+msgstr "亚艾克"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:84
+msgid "Horsemen"
+msgstr "骑师"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:113
+msgid "Archers"
+msgstr "弓箭手"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:175
+msgid "Defeat all horsemen and archers"
+msgstr "干掉所有骑师和弓箭手"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:179
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:155
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:392
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:458
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:789
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1020
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1098
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1226
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:134
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:221
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:583
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:270
+msgid "Death of Rark"
+msgstr "拉克阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:187
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:163
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:400
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:466
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:797
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1028
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1106
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1234
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:142
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:229
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:591
+msgid "Death of Bogarg"
+msgstr "博伽格阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:191
+msgid "Death of Yraec (village head)"
+msgstr "亚艾克（村长）阵亡"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:196
+msgid "The weather is cloudy. Lawful bonus is lower and chaotic bonus is higher than usual."
+msgstr "天气阴。守序比平时加成低而混沌比平时加成高。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:199
+msgid "Leader of archers will drop loot useful for a unit with a bow or a crossbow."
+msgstr "弓箭手首领会掉落对使弓或弩的单位有用的道具。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:207
+msgid "Who is in charge here?"
+msgstr "谁是这里管事儿的？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:208
+msgid "I am Yraec, head of this village. What do you want, orcs?"
+msgstr "我叫亚艾克，此村村长。兽人，你们想干嘛？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:209
+msgid "Erurag sent us. He wants half of your gold. The same conditions as last year."
+msgstr "俄如莱格派我们来的。他要收你们一半的金币。跟去年一样。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:210
+msgid "Last year you took us by surprise. This time we have prepared. Men, to arms!"
+msgstr "去年你们对我们搞突袭，但这回我们可有准备了。伙计们，抄家伙！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:219
+msgid "In vain you start it, village head. Now I have to take your head off."
+msgstr "这可没用，村长。我马上就砍下你的头。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:220
+msgid "Chief Erurag ordered to not kill him."
+msgstr "俄如莱格首领叫我们不要杀他的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:221
+msgid "Chief thought they will give us a warmer welcome. Now we don't have much choice."
+msgstr "首领以为他们会给咱更好的接待，但这是他们逼我们的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:222
+msgid "I will share with you one important military wisdom - obey the orders. Now you are young, but you will get it later."
+msgstr "我得告诉你一个重要的兵法——将在外，君命有所不受。现在你还小，不过你以后会懂的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:223
+msgid "Hm ... Village head, I'll tell you what will happen now. We will defeat all your archers. We will defeat all your horsemen. Also, we will defeat any civilian who will make a miserable attempt to attack us. After that you will either give us the gold or I'll take it by force along with your head. I will make a good cup out of it. I prefer the second option, but you will have a chance to decide."
+msgstr ""
+"哼嗯…村长，我跟你说我们现在要干啥。我们要斩尽你们所有的弓箭手，杀绝你们一切的骑师，还有所有想惹我们的卑贱小民。事后要么你给钱，要么我拿钱还有你的头！我还会用它做个好杯子。我喜欢第二条，你也有机会再考虑考虑。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:224
+msgid "I will not listen to this pitiful orc. Men, protect our village. Death to the orcs!"
+msgstr "我才不会听这个可怜的兽人胡扯！伙计们，保护村子，杀了兽人！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:225
+msgid "Negotiations failed."
+msgstr "谈判失败了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:226
+msgid "Rark, Bogarg, be careful."
+msgstr "拉克、博伽格，小心了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:227
+msgid "Let's finish them. It is good that the sky is cloudy and the sun will not blind us."
+msgstr "咱们去了结他们。正好阴天没太阳刺眼。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:235
+msgid "Die, bastard!"
+msgstr "去死吧，你这恶魔！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:236
+msgid "Ha-ha-ha."
+msgstr "哈-哈-哈"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:274
+msgid "Our defenders have fallen, we are doomed."
+msgstr "咱的守卫兵都死了，我们完了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:285
+msgid "What is your decision, village head?"
+msgstr "村长，想好没？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:286
+msgid "Take the gold."
+msgstr "我给钱。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:294
+msgid "Pray to your gods that Erurag will not punish you."
+msgstr "向神祈祷俄如莱格不来惩罚你吧。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:295
+msgid "You got the gold, now leave us."
+msgstr "既然拿到钱了，就赶紧走吧。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:295
+msgid "We should move closer to Elensefar, orcs are expanding their territories."
+msgstr "我们得往埃仁撒伐靠一靠，兽人在扩张他们的领土。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:296
+msgid "Rark, you showed yourself as a talented leader."
+msgstr "拉克，你证明你是个有智慧的首领了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:308
+msgid "Rark now has a leadership ability."
+msgstr "拉克现在有领导能力了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:309
+msgid "I can't say that it was an easy task. At least we are alive."
+msgstr "我不能说这任务简单。还好我们还活着。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:310
+msgid "We are going back to Glamdrol."
+msgstr "咱们回戈拉姆多去。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:336
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:378
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:922
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:942
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1416
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:199
+msgid "Rark, I had to protect you."
+msgstr "拉克，都怪我没保护好你啊。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:347
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:389
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:933
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:953
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1427
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:210
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:670
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:964
+msgid "Bart, don't leave us."
+msgstr "巴特，别丢下我们。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:358
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:400
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:944
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:964
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1438
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:221
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:681
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:975
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:735
+msgid "Bogarg, don't leave us."
+msgstr "博伽格，别丢下我们。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:369
+msgid "We shouldn't have killed him."
+msgstr "咱们不该杀他的。"
+
+#. [scenario]: id=03_the_nightmare
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:22
+msgid "The Nightmare"
+msgstr "噩梦"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:52
+msgid "Soul reapers"
+msgstr "割魂死神"
+
+#. [unit]: type=Spectre
+#. [unit]: type=Wraith
+#. [unit]: type=Shadow
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:62
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:70
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:81
+msgid "Reaper"
+msgstr "死神"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:160
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:87
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:226
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:65
+msgid "Trolls"
+msgstr "巨魔"
+
+#. [unit]: id=troll_leader, type=Troll Hero
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:173
+msgid "Bog Goh"
+msgstr "博格"
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:215
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:583
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:783
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1010
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1092
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:120
+msgid "This scenario is Rark's nightmare"
+msgstr "这一幕是拉克的噩梦"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:217
+msgid "Defeat Hushnak and Vadasha before Bart escapes to the south-western part of the map"
+msgstr "在巴特逃到地图西南角前杀了哈什奈克和瓦达莎"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:221
+msgid "Bart escaped and Hushnak is still alive"
+msgstr "巴特逃了但哈什奈克还活着"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:225
+msgid "Bart escaped and Vadasha is still alive"
+msgstr "巴特逃了但瓦达莎还活着"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:229
+msgid "Death of your leader is NOT a defeat condition."
+msgstr "你的首领阵亡并不会导致失败。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:232
+msgid "Bart is invulnerable in this scenario. Your attacks will not hit him."
+msgstr "巴特在这关是无敌的，你打不中他。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:235
+msgid "Time doesn't progress in this scenario as usual. When orc or troll dies time of day becomes +5% more chaotic, until it reaches 30% chaotic."
+msgstr "这关里的时段进程不同以往，每死一个巨魔或兽人，时段会+5%的混沌增益，直到30%。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:321
+msgid "Today we will reap a rich harvest."
+msgstr "今天我们要收割很多鲜活的生命。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:322
+msgid "That won't be easy!"
+msgstr "没那么容易！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:323
+msgid "Run Bart and don't look back."
+msgstr "巴特快跑，别回头！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:324
+msgid "They won't get me, Rark will be saved."
+msgstr "他们杀不了我，拉克会得救的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:325
+msgid "The time of the wolf rider and the orcish whelp has not come yet. But they will witness of how their family goes away."
+msgstr "狼骑手和小巨魔的末日还没到，不过他们会看到他们的亲人是怎么死的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:333
+msgid "We can't take him yet."
+msgstr "我们还杀不了他。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:349
+msgid "Hushnak, I can't live without you."
+msgstr "哈什奈克，没有你我活不下去！"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:350
+msgid "You will be together soon."
+msgstr "很快就到你了。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:353
+msgid "Vadasha, I am coming to you."
+msgstr "瓦达莎，我来找你了。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:354
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:376
+msgid "So be it."
+msgstr "这多干脆。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:355
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:377
+msgid "I wish this nightmare is over."
+msgstr "我希望噩梦结束了。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:371
+msgid "Let her live!"
+msgstr "别杀她！"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:372
+msgid "Don't worry. You will be together soon."
+msgstr "别担心，很快就到你了。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:375
+msgid "My love, I am coming to you."
+msgstr "宝贝儿，我来找你了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:395
+msgid "He run away too early."
+msgstr "他跑得太快了。"
+
+#. [scenario]: id=04_the_wolfs_lair
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:6
+msgid "The Wolf's Lair"
+msgstr "狼穴"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:54
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:133
+msgid "Wolves"
+msgstr "狼"
+
+#. [unit]: id=alpha, type=cban Great Wolf
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:66
+msgid "Alpha"
+msgstr "阿尔法"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:86
+msgid "Skinners"
+msgstr "皮贩子"
+
+#. [unit]: id=skinner_leader, type=Ranger
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:125
+msgid "Middry"
+msgstr "梅德瑞"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:133
+msgid "Tharvan"
+msgstr "萨尔文"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:137
+msgid "Larka"
+msgstr "拉卡"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:151
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:361
+msgid "Defeat all enemy units"
+msgstr "杀了所有敌方单位"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:167
+msgid "Death of Alpha (leader of wolves)"
+msgstr "阿尔法（狼的首领）阵亡"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:172
+msgid "Skinners get $gold_for_wolf gold for each killed wolf."
+msgstr "皮贩子每杀一匹狼就会得到$gold_for_wolf金币。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:175
+msgid "At the end of this scenario all surviving wolves join Rark and become loyal. This is the only scenario where you can recruit wolves. Later you can only recall them."
+msgstr "本关结束时所有活狼都会跟着拉克并变忠诚。这是你唯一能征募狼的一关，以后就只能召回它们了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:247
+msgid "There is a hole leading to the wolf's lair, but it is too narrow for a human.."
+msgstr "这儿有个通着狼窝的洞，但是太窄了，人钻不过去……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:252
+msgid "Hey, don't touch wolves. We have our own plans for them."
+msgstr "嘿，别动那些狼，我们对他们有自己的打算。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "Hello, dear orcs. What plans do you have?"
+msgstr "兽人朋友，你好啊。你有啥打算？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "looks at Bart"
+msgstr "看着巴特"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "I think I understood. Usually I sell a wolfskin for $gold_for_wolf gold. But for you, nice orcs, I will make a special offer. For the same price I will sell you two alive wolves. Just wait until we capture them. What do you think? It is a very good price!"
+msgstr "哦我懂了，平时我一张狼皮卖$gold_for_wolf金币。但是对像你这样的好兽人，我特价卖你。同样的价格我卖你俩活狼。你就等我们抓住它们吧。咋样？这价格非常公道吧！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:254
+msgid "I have a counter offer, kind skinners. Either you will get out of here quickly. Or I will skin you alive and feed it to the wolves. What do you think?"
+msgstr "好一帮皮贩子，不过我提供相反服务。你可以赶紧走人，或者我活剥了你的皮喂狼。咋样？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:255
+msgid "We don't want troubles. We are merchants, not warriors. Though, as you could see, we are numerous and we can handle weapons."
+msgstr "咱不是来找茬的。咱是生意人，不是打架的。你也得看看，我们人多还有家伙。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:256
+msgid "Stop your politician speeches, Middry. I have never fight with an orc before. I wonder how strong their bones are and what is the color of their blood."
+msgstr "梅德瑞，少跟他们扯犊子。我还没跟兽人打过呢。我想看看他们身子板有多结实，还有血是啥色儿的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:257
+msgid "You are a lucky orc, Rark. You either harden yourself in these clashes, or leave this world early. And the same will happen to all of us."
+msgstr "拉克，你是个幸运的兽人。你可以选择在这些冲突中强化自己，也可能会早离开这个世界。我们跟你一起。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:258
+msgid "This is my last proposition - three wolves for $gold_for_wolf gold."
+msgstr "这是我最后出价了啊——$gold_for_wolf金币三匹狼！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:259
+msgid "I will skin you for free. Orcs, show them no mercy!"
+msgstr "我免费给你剥皮！弟兄们，斩尽杀绝，一个不留！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:268
+msgid "These wolves are slightly different from mainline units. Pay attention to their ability. A wolf is stronger when there are other wolves next to it."
+msgstr "这些狼与主线单位有点不同。请注意它们的能力，一匹狼在身旁有其他狼时会更强。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:273
+msgid "We must save as many wolves as possible. They will become loyal and never leave us."
+msgstr "我们能救多少狼就救多少，它们会忠于我们并且再也不走。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:289
+msgid "Here you are, buddy."
+msgstr "我来救你了，伙计。"
+
+#. [event]: id=wolf_cant_release
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:307
+msgid "Wolf tries to release its kind.. with no success."
+msgstr "狼试着解救它的好…失败了。"
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:324
+msgid "+$gold_for_wolf gold"
+msgstr "+$gold_for_wolf金币"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:338
+msgid "What a good business I had, these nasty orcs ruined everything."
+msgstr "多好的生意啊，都让这些恶心的兽人毁了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:354
+msgid "Wolves are saved, we completed our mission."
+msgstr "狼都救下来了，咱们完活了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:411
+msgid "That was their leader, we shouldn't have allowed his death."
+msgstr "群狼无首了，我们不该让他死的。"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:12
+msgid "The Competition"
+msgstr "竞赛"
+
+#. [unit]: id=grolo, type=Orcish Warlord
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:89
+msgid "Grolo"
+msgstr "格洛洛"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:103
+msgid "Rogdush"
+msgstr "罗格达什"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:145
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:214
+msgid "Merfolk"
+msgstr "人鱼"
+
+#. [unit]: type=Merman Hoplite, id=merman_leader
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:196
+msgid "Dhakhan"
+msgstr "达克汗"
+
+#. [unit]: type=Mermaid Enchantress, id=mermaid_leader
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:259
+msgid "Galatea"
+msgstr "高拉提"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:273
+msgid "Nagas"
+msgstr "娜迦"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:365
+msgid "Defeat more enemies than Grolo's tribe"
+msgstr "杀死比格洛洛部落更多的敌人"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:369
+msgid "Your score = $erurag_score"
+msgstr "你的分数为$erurag_score"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:373
+msgid "Grolo's score = $grolo_score"
+msgstr "格洛洛的分数为$grolo_score"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:380
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:454
+msgid "Death of Erurag"
+msgstr "俄如莱格阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:384
+msgid "Death of Grolo"
+msgstr "格洛洛阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:388
+msgid "Death of Amailis"
+msgstr "俄玫利斯阵亡"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:405
+msgid "Dhakhan will drop loot useful for units with a spear."
+msgstr "达克汗会掉落对用矛的单位有用的道具。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:408
+msgid "Dhakhan's units require <b>30% less</b> experience than usual to advance."
+msgstr "达克汗的单位需要比平常<b>少30%</b>的经验才能升级。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:411
+msgid "Galatea's units require <b>30% more</b> experience than usual to advance."
+msgstr "高拉提的单位需要比平常<b>多30%</b>的经验才能升级。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:604
+msgid "We are back and we want justice."
+msgstr "我们回来讨回公道。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:605
+msgid "Dhakhan, didn't you pay nagas for this bay, as we agreed?"
+msgstr "达克汗，你没按我们说好的向娜迦买了这个海湾吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:606
+msgid "Madam, I paid them, as we agreed."
+msgstr "我按咱说好的买了啊。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:607
+msgid "Amailis, what does it mean? They paid you for this territories? Don't try to fool us!"
+msgstr "俄玫利斯，这什么意思？他们买了你这块地？别玩我们！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:608
+msgid "They paid us with their steel, not gold. And now we are here to pay them the same price."
+msgstr "他们用铁买的，不是金子。所以现在我们一分不差地来还你们了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:609
+msgid "You didn't give me a reason to doubt you. I expect you won't give any reasons in the future as well."
+msgstr "我现在没理由怀疑你，我希望你以后也别有理由让我怀疑你。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:610
+msgid "Madam, don't listen to nagas, they are liars."
+msgstr "长官，别听娜迦的，他们是骗子！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:611
+msgid "Dhakhan, we will continue this conversation later. Now we have to defend ourselves."
+msgstr "达克汗，这事儿我们以后再议。现在我们得自卫！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:612
+msgid "Yes, madam!"
+msgstr "是，长官！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:613
+msgid "I am not sure they will have a chance to continue this conversation."
+msgstr "我可不确定他们还有机会接着讨论。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:622
+msgid "Chief Erurag, we came under your command by order of Amailis. We know this bay and will give you any help you need."
+msgstr "俄如莱格首领，我们奉俄玫利斯之命听候您的命令。我们了解这个海湾而且能祝你们一臂之力。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:623
+msgid "Excellent, your help will be handy."
+msgstr "好，你们肯定能帮上忙。"
+
+#. [then]
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:695
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:698
+msgid "The first is ours!"
+msgstr "首杀归我们了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:750
+msgid "We are leading! 3:$lagging_score in our favor."
+msgstr "我们以3:$lagging_score领先了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:751
+msgid "We are ahead with 5:$lagging_score points."
+msgstr "我们以5:$lagging_score领先了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:752
+msgid "We have 10 points. The other team has only $lagging_score|. It will be difficult further. What number comes after ten?"
+msgstr "我们得10分了。另一队才$lagging_score分。后面会更难。十以后是什么数字来着？"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:753
+msgid "15:$lagging_score in our favor."
+msgstr "我们以15:$lagging_score领先了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:754
+msgid "20:$lagging_score in our favor."
+msgstr "我们以20:$lagging_score领先了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:755
+msgid "30:$lagging_score in our favor."
+msgstr "我们以30:$lagging_score领先了！"
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:756
+msgid "50:$lagging_score in our favor."
+msgstr "我们以50:$lagging_score领先了！"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:800
+msgid "It's your fault, Dhakhan."
+msgstr "达克汗，这都是你的错！"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:803
+msgid "It is Dhakhan's fault."
+msgstr "这都是达克汗的错！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:814
+msgid "I have not fulfilled my duty."
+msgstr "我没尽到我的义务。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:826
+msgid "Victory! We won with a score of $erurag_score|:$grolo_score|"
+msgstr "赢啦！我们以$erurag_score|:$grolo_score|赢了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:827
+msgid "I hate to lose."
+msgstr "我讨厌输。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:836
+msgid "Thank you, Erurag. Nagas will be honored to serve you."
+msgstr "俄如莱格，谢谢你。娜迦们荣幸为您效劳。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:837
+msgid "Excellent. Together we will be even stronger."
+msgstr "太好了。有你们一起我们能更强。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:855
+msgid "We lost the competition. Final score $grolo_score|:$erurag_score| in Grolo's favor."
+msgstr "我们输了。最终分数是格洛洛以$grolo_score|:$erurag_score|获胜。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:856
+msgid "We had to fight harder."
+msgstr "我们得加紧战斗！"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:859
+msgid "Draw. Final score $erurag_score|:$grolo_score|"
+msgstr "平局，最终分数是Final score $erurag_score|:$grolo_score|。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:860
+msgid "We needed an indisputable victory."
+msgstr "咱必须得分出胜负才行。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:955
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:931
+msgid "We can not cope without our chieftain."
+msgstr "没有首领我们没法比赛。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:966
+msgid "I can't believe it. Grolo was the strongest warrior I ever knew."
+msgstr "难以置信！格洛洛是我见过的最强的武士。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:977
+msgid "What a shame, we could make a great alliance."
+msgstr "多遗憾啊，我们原来可以结成强大的盟军的。"
+
+#. [scenario]: id=06_the_backdoor
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:57
+msgid "The Backdoor"
+msgstr "后门"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:129
+msgid "Mage"
+msgstr "法师"
+
+#. [unit]: type=White Mage, id=mage_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:158
+msgid "Aethuc"
+msgstr "艾萨克"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:175
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:246
+msgid "Elves"
+msgstr "精灵"
+
+#. [unit]: type=Elvish Captain, id=elvish_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:204
+msgid "Delithrar"
+msgstr "戴立萨拉"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:220
+msgid "Woses"
+msgstr "树人"
+
+#. [unit]: type=Elder Wose, id=wose_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:246
+msgid "Buomdu"
+msgstr "博都"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:260
+msgid "Spiders"
+msgstr "蜘蛛"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:293
+msgid "Golems"
+msgstr "黏土石怪"
+
+#. [side]
+#. [unit_type]: id=cban Magic Wall, race=mechanical
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:332
+#: Captured_by_a_Nightmare\units\Magic_Wall.cfg:5
+msgid "Magic Wall"
+msgstr "魔法墙"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:342
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:71
+msgid "Prisoners"
+msgstr "囚徒"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:358
+msgid "Erurag, I am grateful to you. I want to show you my respect. Only the strongest warriors can use this sword, please take it."
+msgstr "俄如莱格，我感激你。为表谢意，我给你这把只有最强的武士才能用的剑。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:364
+msgid "Hint: This is the last scenario with Erurag. It may be wiser to give this sword to another unit."
+msgstr "提示：这是俄如莱格出场的最后一关。把这把剑给其他单位更明智。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:366
+msgid "Excellent. This is a good place for a camp. We can cut some wood and hunt animals while those cowards are trembling behind the walls."
+msgstr "很好。这是个扎营的好地方。咱可以趁这些懦夫在墙后面颤抖的时候打打猎，砍砍树。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:367
+msgid "Those dirty orcs will kill my forest, I will not allow that to happen."
+msgstr "这帮下流的兽人会杀了我的森林，我绝不能容忍。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:368
+msgid "It seems there are not so many of them. What do you think, Delithrar? This may be a good opportunity for our men to get a battle experience."
+msgstr "看起来他们不多。戴立萨拉，你怎么看？这或许会是个让咱们的人得到战斗经验的好机会。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:369
+msgid "I agree. Warriors and mages, go outside the wall and feed those marauders with arrows and fireballs."
+msgstr "我同意。勇士们，法师们，到墙外用弓箭和火球招待这些强盗去！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:370
+msgid "So far so good. Orcs, enter the dungeon once Picklock breaks the gates. We must hurry. Picklock, are you ready?"
+msgstr "目前计划顺利。弟兄们，等锁撬一打开门，咱们就冲进去，得尽快。锁撬，准备好了没？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:371
+msgid "No problem, chief."
+msgstr "首领，没问题。"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:392
+msgid "Defeat Aethuc"
+msgstr "杀了艾萨克"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:401
+msgid "Defeat Delithrar"
+msgstr "杀了戴立萨拉"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:410
+msgid "Explore the dungeon"
+msgstr "探索地牢"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:422
+msgid "Release all prisoners"
+msgstr "释放所有囚徒"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:444
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1032
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1110
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1238
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:146
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:233
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:595
+msgid "Death of Nessa"
+msgstr "奈萨阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:470
+msgid "Death of Picklock"
+msgstr "锁撬阵亡"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:475
+msgid "Picklock (the loyal goblin on the Rark's side) can open the dungeon gates."
+msgstr "锁撬（拉克那边的忠诚地精）能打开地牢大门。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:478
+msgid "In this scenario each village provides upkeep support for 3 unit levels. Village income is 1 gold as usual."
+msgstr "这一关里每个村庄能为单位提供三级的维护费用。村庄收入照常为1金币。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:582
+msgid "Piece of cake. What is the point of an unbreakable wall if you have such flimsy backdoor?"
+msgstr "小菜一碟。有这么个破后门还要刀枪不入的墙干嘛？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:632
+msgid "We need to release the prisoner, she may help us."
+msgstr "咱得把囚徒放出来，她也许能帮我们。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:658
+msgid "There is one more prisoner."
+msgstr "这儿还有个囚徒。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:684
+msgid "Orcs?"
+msgstr "兽人？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:685
+msgid "Have you waited for someone else here?"
+msgstr "你在这儿等过其他人吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:686
+msgid "Anyway that's good you are here."
+msgstr "不管是谁，还好你来救我了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:687
+msgid "And how did you get here?"
+msgstr "你是怎么进来的？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:688
+msgid "That mage.. He hurt a woman, who hired me to shorten his ... life. But I was captured and thrown in this cage."
+msgstr "那个法师…他伤了一个雇我让他短命的女人，但我被抓住并被扔到了这个监牢里。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:692
+msgid "We have already defeated him."
+msgstr "我们已经干掉他了。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:693
+msgid "I hope it was a painful death."
+msgstr "我希望他死得很痛苦。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:697
+msgid "Now you have a chance to finish your job."
+msgstr "现在你有机会完成工作了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:725
+msgid "I am so glad you released me."
+msgstr "非常感谢你救了我。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:726
+msgid "Why are you imprisoned here?"
+msgstr "你是怎么被抓到这儿的？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:727
+msgid "I was one of Aethuc's students. But I have some unpopular talents, you know.."
+msgstr "我是艾萨克的一名学生。但我有些不光彩的才能，你懂的……"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:744
+msgid "Let me show you."
+msgstr "我给你看看。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:752
+msgid "Warrior, rise and fight!"
+msgstr "勇士，起来战斗吧！"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:763
+msgid "Wow! That's impressive!"
+msgstr "哇哦！太惊人了！"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:766
+msgid "Necromancy, I see."
+msgstr "妖法，我懂了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:770
+msgid "Will you join us?"
+msgstr "你跟我们走不？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:771
+msgid "You saved my life. Be good to me and I won't leave you."
+msgstr "你救了我的命，对我有恩，我跟着你。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:772
+msgid "Nessa is a new hero in your team. Don't let her die."
+msgstr "奈萨是你的一个新英雄单位，别让她死了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:804
+msgid "What? Guard, attack the intruders. They have fooled us, I will personally slain them!"
+msgstr "什么？卫兵，打入侵者！我们中计了，我要亲自杀了他们！"
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:845
+msgid "Merudda, I asked you to forgive me a thousand times.."
+msgstr "么鲁达，我已经一千次请你原谅我了……"
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:846
+msgid "This is the last time, you villain."
+msgstr "这就是最后一次了，你个坏蛋。"
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:847
+msgid "Now I see who is that woman who hired her."
+msgstr "现在我知道是谁雇的她了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:855
+msgid "What a pity. Nagas can count on me, now I am their leader."
+msgstr "真遗憾。娜迦能指望我，现在我是他们的首领了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:873
+msgid "Is this the end?"
+msgstr "我这就完了吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:874
+msgid "No doubts, buddy."
+msgstr "没错，小家伙。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:887
+msgid "Look, the wall has fallen!"
+msgstr "快看，墙消失了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:895
+msgid "I shouldn't have left my village. What a dishonourable death. A miserable mercenary ... "
+msgstr "我不该离开我的村子的。我一个悲苦的雇佣兵，死得憋屈啊…"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:906
+msgid "The stronghold is ours! I am proud of you Rark."
+msgstr "要塞归我们了！拉克我替你自豪！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:975
+msgid "We shouldn't have allowed this to happen."
+msgstr "我们不该让这事儿发生的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:986
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1449
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:232
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:692
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:986
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:743
+msgid "Nessa!"
+msgstr "奈萨！"
+
+#. [scenario]: id=07_escaping_the_nightmare
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:85
+msgid "Escaping The Nightmare"
+msgstr "逃离噩梦"
+
+#. [unit]: id=elvish_leader, type=Elvish Champion
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:265
+msgid "Varas"
+msgstr "瓦拉斯"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:383
+msgid "Undead"
+msgstr "亡灵"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:414
+msgid "The Enemy"
+msgstr "敌人"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:544
+msgid "Surround the wolves, quickly!"
+msgstr "围住这些狼，快！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:558
+msgid "Orcs are coming!"
+msgstr "兽人来了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:572
+msgid "Who dared to wake us up?"
+msgstr "是谁胆敢吵醒我们？"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:585
+msgid "Move Rark and Bart into the cave"
+msgstr "移动拉克和巴特到洞穴里"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:589
+msgid "Death of Rark (the wolf)"
+msgstr "拉克（狼）死亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:593
+msgid "Death of Bart (the wolf)"
+msgstr "巴特（狼）死亡"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:754
+msgid "Campfire Fake Unit"
+msgstr "营火假单位"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:778
+msgid "Bogarg, what is going on here?"
+msgstr "博伽格，怎么回事？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:779
+msgid "No time to talk, we must hurry. Water is flooding the cave!"
+msgstr "没时间解释了，我们得赶紧。水要漫到洞穴里了！"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:785
+msgid "Find the exit"
+msgstr "找到出口"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1006
+msgid "Hurry up!"
+msgstr "快点！"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1012
+msgid "Move Rark, Bart and Bogarg into the Nessa's room"
+msgstr "移动拉克、巴特和博伽格到奈萨的房间里"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1016
+msgid "Nessa must be inside her room"
+msgstr "奈萨必须在房间里面"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1062
+msgid "Rark, it's time to open the door and see what's behind it."
+msgstr "拉克，是时候开门看看门后面是什么了。"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1094
+msgid "Move Rark to the door"
+msgstr "移动拉克到门旁"
+
+#. [label]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1135
+msgid "The Great Tree"
+msgstr "参天大树"
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1152
+msgid "I can't."
+msgstr "我不行。"
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1153
+msgid "Believe me, you are the only one who can open it."
+msgstr "相信我，你是唯一能开这个门的。"
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1209
+msgid "Ha - ha!"
+msgstr "哈—哈！"
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1210
+msgid "What does that mean?"
+msgstr "这是什么意思？"
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1214
+msgid ""
+"This scenario is Rark's nightmare\n"
+"\n"
+"Each turn death spreads across the forest. Defeat the enemy leader before the Great Tree near your castle dies."
+msgstr ""
+"这一幕是拉克的噩梦\n"
+"\n"
+"死亡每回合都会在森林里蔓延。在你城堡旁的参天大树死亡前杀了敌方首领。"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1218
+msgid "Defeat the enemy leader"
+msgstr "杀了敌方首领"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1222
+msgid "Death of the Great Tree"
+msgstr "参天大树死亡"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1242
+msgid "Rark can recruit now."
+msgstr "拉克可以征募了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1300
+msgid "I feel a black power coming from the enemy castle. It kills the forest."
+msgstr "我感受到来自敌人城堡的黑暗力量，它在杀死森林。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1467
+msgid "The Great Tree died."
+msgstr "参天大树死了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1478
+msgid "Finally it's over!"
+msgstr "总算是完了！"
+
+#. [scenario]: id=08_the_time_has_come
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:6
+msgid "The Time Has Come"
+msgstr "是时候了"
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:87
+msgid ""
+"All recalled units will go with you.\n"
+"The rest of the recall list will stay with Erurag."
+msgstr ""
+"所有被召回的单位都会跟你走。\n"
+"剩下的单位会留在俄如莱格那儿。"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:90
+msgid "Recall units you want to take with you"
+msgstr "召回你想带走的单位"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:94
+msgid "End turn"
+msgstr "结束回合"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:237
+msgid "Erurag, thank you for all you have done for me. The time has come. I have to find the murderer of my parents and avenge all of my tribe."
+msgstr "俄如莱格，谢谢你为我做的一切。时间到了。我必须要去找到我父母的凶手，为我的整个部落报仇。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:238
+msgid "I understand, you are a ready. You must understand me too, I cannot send all my veterans with you."
+msgstr "我理解，你已经准备好了。我没法派所有的老兵跟你去，你也得理解我。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:239
+msgid "I am going with you, Rark."
+msgstr "我跟你走，拉克。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:240
+msgid "And I will join you, my friend."
+msgstr "我也加入你，好伙计。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:246
+msgid "Me too. What about you, Merudda?"
+msgstr "我也是。么鲁达，你呢？"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:247
+msgid "Of course I will go with you, if you will pay me."
+msgstr "只要你付我钱，我当然会跟你走。"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:255
+msgid "Recall Merudda if you want her to join your party."
+msgstr "如果你想么鲁达加入你的队伍，就召回她。"
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:258
+msgid "Me too."
+msgstr "我也是。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:265
+msgid "The wolves are loyal to us."
+msgstr "那些狼都忠诚于我们。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:266
+msgid "It's time to prepare for the journey."
+msgstr "是时候准备上路了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:272
+msgid "Good hunting, Rark! I would be happy if you return to my tribe when you are done. Or will you lead your own tribe?"
+msgstr "祝你猎杀成功，拉克！当你办完事儿后我欢迎你回到我的部落。或者你会领导自己的部落吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:273
+msgid "We'll see. Bart, show the way."
+msgstr "以后再说。巴特，带路吧。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:274
+msgid "With pleasure."
+msgstr "是！"
+
+#. [scenario]: id=09_a_friend_of_my_enemy
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:6
+msgid "A Friend of My Enemy"
+msgstr "敌人的朋友"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:48
+msgid "Alliance"
+msgstr "联盟"
+
+#. [unit]: type=Fugitive, type=Outlaw, id=alliance_leader
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:69
+msgid "Vaella"
+msgstr "外拉"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:130
+msgid "Defeat Vaella"
+msgstr "杀了外拉"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:151
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:283
+msgid "In this scenario each village provides 2 income gold. Village upkeep support is 1 unit level as usual."
+msgstr "在这一关里每个村子提供2枚金币的收入，村子提供的维护费用照常为1。"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:154
+msgid "Enemy units will not move out of their villages."
+msgstr "敌人不会离开村子。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:175
+msgid "Hi there, dwarves and outlaws. Do you know Uritbor? I have a message for him."
+msgstr "嗨，那边的矮人们和混子们。你们认识厄瑞特博不？我有信给他。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:176
+msgid "I know Uritbor. I doubt you have good intentions. What is the message?"
+msgstr "我认识厄瑞特博。我猜你有好消息。啥信儿？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:177
+msgid "I need to deliver it in person."
+msgstr "我得亲自送给他。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:178
+msgid "I don't believe you. Uritbor is my friend, I won't let you move further."
+msgstr "我不信。厄瑞特博是我的朋友，我不会让你们过去的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:179
+msgid "So, he is your friend? I like that. My people are very hungry and I see a lot of meat here."
+msgstr "哦？他是你朋友？真好，我的人很饿了而且我在这儿看到了很多鲜肉。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:180
+msgid "Rark, you are the master of threat. You have talent, no kidding."
+msgstr "拉克，虽然你是威慑之王，但你也是有智慧的，不要开玩笑。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:189
+msgid "I hope you will find king Uritbor and he will defeat you."
+msgstr "我希望你能找到厄瑞特博，然后他会打死你。"
+
+#. [scenario]: id=10_the_flaming_stone
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:44
+msgid "The Flaming Stone"
+msgstr "燃烧的石头"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:106
+msgid "Drakes"
+msgstr "龙人"
+
+#. [unit]: id=drake_leader, type=Armageddon Drake
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:119
+msgid "Gelslar Elch"
+msgstr "盖斯拉奥尺"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:197
+msgid "Dak has unique <i>terror</i> ability. He can frighten adjacent enemies, making them fight worse."
+msgstr "达克拥有独特的<i>震慑</i>能力。他能吓到临近的敌人，让他们战斗得更差。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:206
+msgid "Note that Nuk Gah has third level advancement."
+msgstr "注意，纳克伽可以升到三级。"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:216
+msgid "Enslave $goal_drakes_slaved drakes by capturing their villages"
+msgstr "占领龙人的村庄来奴化$goal_drakes_slaved个龙人"
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:219
+msgid "Defeat Gelslar Elch"
+msgstr "杀了盖斯拉奥尺"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:237
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:599
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:278
+msgid "Death of Dak"
+msgstr "达克阵亡"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:241
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:603
+msgid "Death of Nuk Gah"
+msgstr "纳克伽阵亡"
+
+#. [set_menu_item]: id=a_slave_info_escaped
+#. [set_menu_item]: id=a_slave_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:278
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:295
+msgid "Slave Info"
+msgstr "奴隶信息"
+
+#. [message]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:289
+msgid "This slave has escaped. Attack it to move it back under your control."
+msgstr "这个奴隶逃跑了。攻击它使其重归你控制。"
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:305
+msgid "This slave has more than 2 adjacent guardians and it can't escape."
+msgstr "这个奴隶身边有2个以上的监管单位，所以它无法逃跑。"
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:306
+msgid "This slave has 2 adjacent guardians and its chance to escape is 10%."
+msgstr "这个奴隶身边有2个监管单位，它逃跑的概率是10%。"
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:307
+msgid "This slave has 1 adjacent guardian and its chance to escape is 30%."
+msgstr "这个奴隶身边有1个监管单位，它逃跑的概率是30%。"
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:308
+msgid "This slave has no adjacent guardians and it will escape."
+msgstr "这个奴隶身边没有监管单位，它会逃跑。"
+
+#. [set_menu_item]: id=b_scenario_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:316
+msgid "Scenario Info"
+msgstr "关卡信息"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:321
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:435
+msgid "In this scenario, when you capture a village it will be destroyed and you will get one Drake Slave unit. Each Drake Slave produces 2 gold per turn. Drake Slave may escape, it is IMPORTANT to read description of the unit to understand how chances to escape are calculated. Right click on a Drake Slave unit and choose <i>Slave Info</i> to show its chances to escape. Choose <i>Scenario Info</i> and <i>Slavery Info</i> menu items for additional information."
+msgstr "在这关里，当你占领一个村子后，村子会被毁掉，你会抓到一个龙人奴隶单位。每个龙人奴隶每回合提供2枚金币。龙人奴隶是会逃跑的，阅读它的单位描述来理解逃跑概率的计算机制非常重要。右键点击一个龙人奴隶单位并选择<i>奴隶信息</i>来显示它的逃跑概率。选择<i>关卡信息</i>和<i>奴隶机制信息</i>选项可查看更多信息。"
+
+#. [set_menu_item]: id=c_slavery_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:327
+msgid "Slavery Info"
+msgstr "奴隶机制信息"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:346
+msgid ""
+"Drakes enslaved: $($orcs_slaves.length + $trolls_slaves.length). Scenario goal: $goal_drakes_slaved\n"
+"Rark's slaves: $orcs_slaves.length. Orcs +$(2 * $orcs_slaves.length) gold per turn\n"
+"Dak's slaves: $trolls_slaves.length. Trolls +$(2 * $trolls_slaves.length) gold per turn"
+msgstr ""
+"抓到的龙人奴隶数：$($orcs_slaves.length + $trolls_slaves.length)。关卡目标数：$goal_drakes_slaved\n"
+"拉克的奴隶：$orcs_slaves.length。兽人每回合+$(2 * $orcs_slaves.length)金币\n"
+"达克的奴隶：$trolls_slaves.length。巨魔每回合+$(2 * $trolls_slaves.length)金币"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:368
+msgid "Trolls are fighting with drakes. We can get allies here."
+msgstr "巨魔们在跟龙人打。咱们能在这儿得到盟友。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:369
+msgid "Hi, trolls. Do you need help?"
+msgstr "嗨，巨魔。要帮忙吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:370
+msgid "Yes. Trolls in troubles. Dwarves attacked and killed many trolls, beasts with wings attacked trolls."
+msgstr "对。巨魔有困难。矮子打杀了很多巨魔，长翅膀的野兽打了巨魔。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:371
+msgid "Dwarves killed many trolls?"
+msgstr "矮子杀了很多巨魔？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:372
+msgid "Trolls and dwarves neighbours, lived in the caves. Dwarves found gems in troll's cave. Dwarves banished trolls. Trolls went to the surface. Beasts with wings attacked trolls."
+msgstr "巨魔和矮子邻居，住洞里。矮子在巨魔洞里找到了宝石。矮子赶跑了巨魔。巨魔到了地表。长翅膀的野兽打了巨魔。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:373
+msgid "Drakes."
+msgstr "龙人。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:374
+msgid "Do you know a dwarf named Uritbor?"
+msgstr "你知道一个叫厄瑞特博的矮子吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:375
+msgid "Uritbor dwarvish king banished trolls."
+msgstr "厄瑞特博矮子王赶走了巨魔。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:376
+msgid "We are here to find and kill him. I offer you to go back to the cave and defeat dwarves together."
+msgstr "我们来这儿找他，然后杀了他。我帮你回洞里一起干掉矮子。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:377
+msgid "Dak agree."
+msgstr "达克同意。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:378
+msgid "Drakes will not let us go."
+msgstr "龙人不会让我们走的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:379
+msgid "Drakes, do you agree to stop this senseless slaughter? Trolls will go to their cave."
+msgstr "龙人，你同意停止没意义的屠杀吗？巨魔要回他们的洞里。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:380
+msgid "They have killed my people. The will answer for this crime."
+msgstr "他们杀了我的人民。他们必须给我个交代。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:381
+msgid "Dak smashed beasts."
+msgstr "达克砸了野兽。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:382
+msgid "We are in a difficult situation, Rark. Drakes are numerous. Their villages are located high in the mountains, it would be difficult to capture and hold them."
+msgstr "拉克，我们现在处境艰难。龙人很多。他们的村子在高山上，抓住并看住他们可不容易。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:383
+msgid "Drake, this is the last time I am offering truce. Agree or you will regret."
+msgstr "龙人，这是我给你的最后一次停战机会了。要么同意，要么你会后悔的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:384
+msgid "Orcs, if you will help the trolls, we will attack you too."
+msgstr "兽人，你要是帮巨魔，我们就连你们一起打！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:385
+msgid "I will burn your villages and enslave their inhabitants. It will make you change your mind."
+msgstr "我要烧了你们的村子，抓你们的村民作奴隶。这样你会改变主意的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:393
+msgid "You think you can beat me?"
+msgstr "你以为你能打败我？"
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:463
+msgid "+2 gold"
+msgstr "+2金币"
+
+#. [do]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:500
+msgid "This slave has escaped!"
+msgstr "这个奴隶逃跑了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:531
+msgid "This unit is moved back under your control."
+msgstr "这个奴隶回到了你的手里。"
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:585
+msgid "trained"
+msgstr "训练完毕"
+
+#. [event]: id=drake_leader_trains_speech
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:599
+msgid "You are free now. I will teach you to fight, then go back to the battlefield."
+msgstr "你现在自由了。我教你怎么战斗，然后你回战场去。"
+
+#. [event]: id=drake_slave_trained_speech
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:605
+msgid "Thank you, Gelslar Elch. I will fight the marauders!"
+msgstr "谢谢你，盖斯拉奥尺。我要打入侵者！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:615
+msgid "I am mighty Gelslar Elch, I can't be defeated."
+msgstr "我是盖斯拉奥尺，我无人能敌。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:616
+msgid "Anyone can be defeated."
+msgstr "谁都能被打败。"
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:630
+msgid "What do you say now, drake? Should we continue? We could let these slaves go in exchange for a pass."
+msgstr "小龙，你现在想不想说什么？我们要不要接着来？我们也可以用这些奴隶当过路费。"
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:631
+msgid "I agree, let them go."
+msgstr "好吧，放他们走。"
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:632
+msgid "Thank you, wise Gelslar Elch."
+msgstr "谢谢，英明的盖斯拉奥尺。"
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:633
+msgid "Orcs helped trolls. Now go to the caves."
+msgstr "兽人帮了巨魔，现在去洞穴。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:659
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:953
+msgid "I failed to avenge my parents."
+msgstr "我为父母报仇失败了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:703
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:997
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:787
+msgid "He was an outstanding warrior and a very important ally."
+msgstr "他是个杰出的勇士，也是非常重要的盟友。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:714
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:1008
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:751
+msgid "Nuk Gah, friend ..."
+msgstr "纳克伽，朋友……"
+
+#. [trait]: id=diseased
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:504
+msgid "diseased"
+msgstr "生病"
+
+#. [trait]: id=diseased
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:505
+msgid "Units with this trait have 16 hitpoints less and 3 melee damage penalty."
+msgstr "拥有此特点的单位会减少16点生命值和3点的刃器伤害。"
+
+#. [scenario]: id=11_greediness
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:6
+msgid "Greediness"
+msgstr "贪婪"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:200
+msgid "Orcs & Trolls"
+msgstr "兽人和巨魔"
+
+#. [unit]: id=sentinel_leader, type=Dwarvish Sentinel
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:251
+msgid "Gomdrus"
+msgstr "格木杜斯"
+
+#. [unit]: id=explorer_leader, type=Dwarvish Explorer
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:312
+msgid "Trithdurol"
+msgstr "吹斯迪洛"
+
+#. [unit]: id=runemaster_leader, type=Dwarvish Runemaster
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:360
+msgid "Glatas"
+msgstr "格拉塔斯"
+
+#. [unit]: id=dragonguard_leader, type=Dwarvish Dragonguard
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:406
+msgid "Aightsol"
+msgstr "艾格特捜"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:440
+msgid "Hidden"
+msgstr "隐藏的"
+
+#. [unit]: type=Trapper, id=petrified_trapper
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:450
+msgid "Tythin"
+msgstr "泰森"
+
+#. [unit]: type=Troll Rocklobber, id=prisoner_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:468
+msgid "Thur"
+msgstr "萨"
+
+#. [unit]: type=Troll Whelp, id=prisoner_whelp
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:481
+msgid "Borb"
+msgstr "鲍勃"
+
+#. [unit]: type=Orcish Warlord, id=prisoner_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:494
+msgid "Vrugdish"
+msgstr "瓦格迪什"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:514
+msgid "Defeat all dwarvish miners"
+msgstr "杀了所有矮人矿工"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:523
+msgid "Find a way to unpetrify Rark"
+msgstr "找办法解除拉克的石化"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:533
+msgid "Find a way to unpetrify Bart"
+msgstr "找办法解除巴特的石化"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:543
+msgid "Find a way to unpetrify Bogarg"
+msgstr "找办法解除博伽格的石化"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:553
+msgid "Find a way to unpetrify Nessa"
+msgstr "找办法解除奈萨的石化"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:563
+msgid "Find a way to unpetrify Dak"
+msgstr "找办法解除达克的石化"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:573
+msgid "Find a way to unpetrify Nuk Gah"
+msgstr "找办法解除纳克伽的石化"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:667
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:699
+msgid "$unit.name found $gold_found gold coins in the chest"
+msgstr "$unit.name在箱子里找到了$gold_found枚金币"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:724
+msgid "Dwarves in our home. Strange runes. Dwarves must leave."
+msgstr "矮人在我们家。奇怪的符文。矮人必须滚。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:725
+msgid "And then we will go for Uritbor."
+msgstr "之后我们去找厄瑞特博。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:726
+msgid "Yes."
+msgstr "好。"
+
+#. [message]: speaker=nuk_gah
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:729
+msgid "Trolls are very thankful to you Rark. Please accept this gift, it is a regeneration potion."
+msgstr "拉克，巨魔们非常感激你。请收下这个礼物，这是瓶自愈药水。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:740
+msgid "Thank you, Nuk Gah."
+msgstr "谢谢你，纳克伽。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:747
+msgid "They are here."
+msgstr "他们来了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:749
+msgid "Rark, we were waiting for you."
+msgstr "拉克，我们一直在等你"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:750
+msgid "I hear strange voices in my head."
+msgstr "我脑袋里有奇怪的说话声。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:751
+msgid "We want to help you, Rark. You must believe us, otherwise we won't have enough strength to do anything."
+msgstr "我们想帮你，拉克。你一定要相信我们，不然我们没有能力帮忙。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:752
+msgid "Is this a nightmare again? These voices are making me insane."
+msgstr "又是噩梦吗？这声音好难受啊！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:753
+msgid "Rark all right?"
+msgstr "拉克好吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:754
+msgid "Son, do you believe us?"
+msgstr "儿子，你相信我们吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:755
+msgid "I hear something too. Distant woman's voice said <i>son</i> and <i>believe</i>."
+msgstr "我也听到了什么。远处有女人的声音说“儿子”和“相信”。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:756
+msgid "I believe you, mother."
+msgstr "我相信你，娘。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:762
+msgid "We knew that one day you would come to avenge us."
+msgstr "我们知道总有一天你会为我们报仇的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:763
+msgid "When you will face the dwarf, we will be there to help you."
+msgstr "当你见到那个矮子时，我们会去帮你。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:773
+msgid "And one more thing. All those years my friend Vrugdish was imprisoned. Release him. He is in bad condition, yet still able to fight."
+msgstr "还有，这些年以来我的朋友瓦格迪什被关着。放他出来吧，他现在状况不好，但还能战斗。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:774
+msgid "Arrgh. Go away ghost."
+msgstr "啊。鬼快滚！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:775
+msgid "We will be waiting for you, Rark."
+msgstr "拉克，我们等着你。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:776
+msgid "I hope you are real."
+msgstr "我希望你们是真的。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:788
+msgid "We have guests!"
+msgstr "咱们有客人了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:789
+msgid "Dak smash you. Trolls not guests."
+msgstr "达克砸你，巨魔不是客。"
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:848
+msgid "Dak?"
+msgstr "达克？"
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:849
+msgid "Yes. Dak here, take caves for trolls."
+msgstr "对。达克这里，为巨魔拿下洞穴。"
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:850
+msgid "Thur with you. Dwarves can't capture Thur again!"
+msgstr "萨跟你一块儿。矮子再也抓不住萨了！"
+
+#. [event]: id=release_whelp
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:865
+msgid "Borb is free! Borb fight dwarves!"
+msgstr "鲍勃自由了！鲍勃打矮子！"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:880
+msgid "Go away ghost."
+msgstr "鬼走开！"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:881
+msgid "Vrugdish, we are not ghosts. Many years have passed, but I am here to defeat dwarves. My name is Rark, I am son of Hushnak and Vadasha."
+msgstr "瓦格迪什，我们不是鬼。这么多年过去了，但我来这儿杀矮子了。我叫拉克，是哈什奈克和瓦达莎的儿子啊。"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:882
+msgid "I can not believe it."
+msgstr "我不信。"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:883
+msgid "Can you fight?"
+msgstr "你还能打吗？"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:885
+msgid "Vrugdish, can you fight?"
+msgstr "瓦格迪什，你还能战斗吗？"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:886
+msgid "I am Vrugdish. I am ready for battle. How did you know my name?"
+msgstr "我是瓦格迪什。我准备好战斗了。你怎么知道我的名字？"
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:887
+msgid "No time to talk now, you will see later."
+msgstr "没时间解释了，你以后就知道了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:896
+msgid "Note that Troll Rocklobbers have third level advancement in this campaign."
+msgstr "注意，在此战役中巨魔投石手能升到三级。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:939
+msgid "We cleared this place. Dwarves adore their treasures, it was doubly pleasant to rob them. But it's time to move on."
+msgstr "这地方清理干净了。矮子这么喜欢他们的财宝，抢他们的东西真解气。但咱们该继续前进了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:940
+msgid "Warriors must rest."
+msgstr "勇士必须休息。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:941
+msgid "Are you tired, Dak?"
+msgstr "达克，你累了吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:942
+msgid "Dak is right."
+msgstr "达克说得对。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:943
+msgid "Rark, when you meet Uritbor only death will solve your conflict. It will happen soon, do not hurry."
+msgstr "拉克，一见到厄瑞特博，只有死亡能解决冲突。这事儿很快就来，不用急。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:944
+msgid "Then we will continue tomorrow."
+msgstr "那我们明天再走。"
+
+#. [scenario]: id=12_the_nightmare_colosseum
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:63
+msgid "The Nightmare: Colosseum"
+msgstr "噩梦：斗兽场"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:85
+msgid "Gladiators"
+msgstr "角斗士"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:96
+msgid "Enemies"
+msgstr "敌人"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:122
+msgid "Win 5 rounds ($round_number| / 5)"
+msgstr "胜利五轮（$round_number| / 5）"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:126
+msgid "No units on your side"
+msgstr "你方没有单位"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:130
+msgid "Your units will not die. If their HP reaches zero, they will be removed from the battlefield and available in the next rounds."
+msgstr "你的单位不会死。如果生命值到0，他们会在战场里被移除并在下一轮可用。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:161
+msgid "Round $round_number|. Prepare to fight with these enemies."
+msgstr "第$round_number|轮。准备与这些敌人战斗。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:246
+msgid "Round $round_number|. Prepare to fight with these enemies. $round_hint"
+msgstr "第$round_number|轮。准备与这些敌人战斗。$round_hint"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:280
+msgid "Choose your gladiators for this round"
+msgstr "为此轮选择你的角斗士"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:281
+msgid "Scroll down to see all options"
+msgstr "向下滚动以查看全部选项"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:6
+msgid "Blood for Blood"
+msgstr "血债血偿"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:83
+msgid "Ghosts"
+msgstr "鬼魂"
+
+#. [side]
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:122
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:407
+msgid "Pelalis"
+msgstr "佩莱利斯"
+
+#. [side]
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:123
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:432
+msgid "Gomdris"
+msgstr "格摩德瑞斯"
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:161
+msgid "Dwarvish Guards"
+msgstr "矮人守卫"
+
+#. [unit]: type=Dwarvish Sentinel, id=dwarvish_center_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:182
+msgid "Trithis"
+msgstr "吹类斯"
+
+#. [unit]: type=Dwarvish Explorer, id=dwarvish_west_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:194
+msgid "Naras"
+msgstr "纳拉斯"
+
+#. [unit]: type=Dwarvish Dragonguard, id=dwarvish_east_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:206
+msgid "Augcating"
+msgstr "奥格凯亭"
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:266
+msgid "Defeat Uritbor"
+msgstr "杀了厄瑞特博"
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:274
+msgid "Death of Bart, Bogarg and Nessa (at least one of them must survive)"
+msgstr "巴特、博伽格、奈萨阵亡（至少要活一个）"
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:286
+msgid "Uritbor's palace is illuminated. Some areas are especially bright."
+msgstr "厄瑞特博的宫殿灯火辉煌，有些区域非常亮。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:296
+msgid "We are close. Uritbor’s palace is beyond the lava river."
+msgstr "我们快到了。厄瑞特博的宫殿就在岩浆河后面。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:297
+msgid "At last. Here you are, the cause of my nightmares. Today I will finish you."
+msgstr "总算到了。你在这儿啊，我噩梦的罪魁祸首。今天我要了结了你。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:298
+msgid "Fallen orcs yearn for the blood of the dwarves."
+msgstr "死去的兽人们都想要矮子们的鲜血。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:300
+msgid "Orcs, trolls and even undead are agains' me. Pelalis, go for reinforcement."
+msgstr "兽人、巨魔，甚至亡灵都来跟我对着干了。佩莱利斯，去搬救兵！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:301
+msgid "On my way!"
+msgstr "这就去！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:312
+msgid "Gomdris, you go for our big ally. Say that gran' battle is about to happen."
+msgstr "格摩德瑞斯，你去叫我们的大伙计。就说大战要爆发了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:313
+msgid "Yes, my king."
+msgstr "是，大王。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:326
+msgid "I recognise you, Dak. You stupid cowar', dare to come here with a bunch of stinking dead slugs."
+msgstr "我认出你来了，达克。你个胆小鬼懦夫，竟敢带一群臭死鼻涕虫来这里？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:327
+msgid "Uritbor made mistake when fight trolls. Trolls angry."
+msgstr "厄瑞特博打巨魔时犯错了，巨魔生气。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:328
+msgid "So, who are yer friends?"
+msgstr "然后呢？恁朋友是谁啊？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:329
+msgid "My name is Rark. A long time ago you slaughtered my tribe in the Heart Mountains."
+msgstr "我是拉克。很久以前你们屠杀了我在心之山脉的部落。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:330
+msgid "Boy, my axe is the last thin' so many orcs have seen in their paltry lives. I don' remember your tribe. No doubt I gave them what they deserved."
+msgstr "小子，我的斧头是很多兽人不值钱的命里看见的最后的东西。我不记得你的部落，不过我肯定给了他们报应。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:331
+msgid "Why don't you answer him, master of threat?"
+msgstr "你怎么不告诉他，威慑王？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:332
+msgid "Swords and bows will be my answer. Orcs, trolls, all who are here with me. I will not promise that you will survive this day. I promise you - there are enough dwarves for all of you. Show them what you're made of! Crash their bones, tear them apart, bathe in their blood!"
+msgstr "我马上就用剑和弓告诉他。兽人们，巨魔们，所有跟我一起的弟兄们，我不保证你们能活过今天，但我能向你们保证——这的矮子绝对够你们宰的。让他们知道我们可是吃肉的！砸烂他们的骨头，把他们分尸，还得用他们的血洗澡！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:333
+msgid "Battle madness overwhelms Rark, he starts to roar."
+msgstr "血海深仇激怒了拉克，他开始咆哮了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:337
+msgid "Everyone starts to yell and knock with their weapons. The walls are shaking."
+msgstr "所有人都开始敲兵器并喊杀，墙壁也在随之振动。"
+
+#. [event]: role=external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:371
+msgid "They are approachin'. Guards on walls, hold yer position!"
+msgstr "他们要过来了。城墙卫兵，守住恁的位置！"
+
+#. [event]: role=external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:380
+msgid "We will protect the walls!"
+msgstr "我们来保护城墙！"
+
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:422
+msgid "King, reinforcements are here."
+msgstr "大王，援军来了！"
+
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:423
+msgid "Very well, Pelalis. You know what to do."
+msgstr "很好，佩莱利斯。你知道该干嘛。"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:431
+msgid "Omarath Egar"
+msgstr "奥马拉斯艾咖"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:434
+msgid "Omarath Egar is here, my king."
+msgstr "大王，奥马拉斯艾咖到了。"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:434
+msgid "Why did you call me, Uritbor? Don't say that spiders attacked you again and you want me to burn them."
+msgstr "厄瑞特博，你叫我干嘛？别说蜘蛛又来打你了，还要我烧他们。"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:435
+msgid "No, it is a horde of enemies!"
+msgstr "不是，这回是一大群敌人！"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:436
+msgid "Real fight this time. A lot of tasty meat for me."
+msgstr "这次才是真的战斗。好多可口的肉啊！"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:437
+msgid "It looks horrendous!"
+msgstr "好恐怖啊！"
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:438
+msgid "Warriors, be brave. One who defeats this beast will become a legend!"
+msgstr "勇士们，给我上！干掉这个怪物的人将成为一代传奇！"
+
+#. [then]
+#. [event]: id=increase_uritbor_gold_{ADD_GOLD}_income_{ADD_INCOME}_turn_{TURN}
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:527
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:473
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:500
+msgid "Dulalsol"
+msgstr "杜拉擞"
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:507
+msgid "Uritbor's gold and income increased"
+msgstr "厄瑞特博的金币数和收入增加了"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:555
+msgid "It looks like the greedy dwarf has even more gold reserves."
+msgstr "看起来贪婪的矮子还有更多储备金子。"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:556
+msgid "Dulalsol, how much more gold do we have?"
+msgstr "杜拉擞，我们还有多少金子？"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:557
+msgid "Five carts left, yer majesty."
+msgstr "还有五车，陛下。"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:564
+msgid "One more cart left, milord."
+msgstr "还有一车，首领。"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:565
+msgid "Drag it here!"
+msgstr "快拖来！"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:566
+msgid "Runnin' as fast as I can."
+msgstr "我尽快。"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:570
+msgid "This is the last cart."
+msgstr "这是最后一车了。"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:571
+msgid "Now join the battle, Dulalsol."
+msgstr "杜拉擞，现在快去战斗！"
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:572
+msgid "Yes, milord."
+msgstr "是，大王！"
+
+#. [event]: id=activate_external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:599
+msgid "The pigs broke inta' my palace! Guard on walls, come down'a."
+msgstr "这群猪闯进我的宫殿了！城墙守卫，快下来！"
+
+#. [event]: id=activate_external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:600
+msgid "Aye, yer majesty!"
+msgstr "是，陛下！"
+
+#. [event]: id=activate_internal_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:633
+msgid "Guard!"
+msgstr "卫兵！"
+
+#. [event]: id=activate_internal_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:635
+msgid "Donn'a dare to attack king, filthy $unit.race!"
+msgstr "别胆敢打大王，臭$unit.race！"
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:686
+msgid "The king is unda' attack!"
+msgstr "大王被打了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:711
+msgid "I have to go now. Rark, I am proud of you."
+msgstr "我必须得走了。拉克，我为你自豪！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:719
+msgid "I will always love you, son."
+msgstr "我永远爱你，儿子。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:727
+msgid "Bart, don't die."
+msgstr "巴特，你不能死啊！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:765
+msgid "All my friends died because of me."
+msgstr "都怪我，我朋友都死了……"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:776
+msgid "I am defeated."
+msgstr "我不行了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:800
+msgid "Arrrgh. It can't be ..."
+msgstr "呃啊，我不能被…"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:804
+msgid "You got what you deserve, dwarvish king. Blood for blood."
+msgstr "矮人国亡，这是你的报应！血债血偿！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:805
+msgid "We made it! Victory is ours!"
+msgstr "我们赢了！我们胜利了！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:806
+msgid "The king is dead. Retreat!"
+msgstr "国王死了，撤！"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:810
+msgid "Trolls and orcs friends, smashed dwarves."
+msgstr "巨魔和兽人，朋友，砸碎矮人"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:825
+msgid "My parents are avenged, they will find eternal rest. I feel tremendous relief."
+msgstr "我爹娘的仇报了，他们能永远安息了。我感到重担卸下了。"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:826
+msgid "What will we do next?"
+msgstr "我们接下来要干啥？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:827
+msgid "I don't know yet. No need to hurry. Can you hear it?"
+msgstr "我还不知道，先别急，你能听见吗？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:828
+msgid "Hear what?"
+msgstr "听见啥？"
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:829
+msgid "The silence at the end."
+msgstr "我苦苦期盼的平静。"
+
+#. [unit_type]: id=cban Dwarvish Cannon, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:119
+msgid "Dwarvish Cannon"
+msgstr "矮人大炮"
+
+#. [unit_type]: id=cban Dwarvish Cannon, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:130
+msgid "Cannon is one of the most advanced and deadly weapons. Dwarvish engineers keep the technology of manufacturing this weapon in strict confidence. Cannon shoots at a long distance and causes great damage to both living targets and buildings. No living creature, with the exception of the most enduring and invincible monsters, can survive after a projectile hit."
+msgstr "大炮是最先进又致命的武器之一。矮人工程师们严格保守着生产这种武器的工艺。大炮射程很长而且能惨重打击活目标和建筑物。没有生物能在一炮之下还活着，即使是最强硬最无敌的怪物。"
+
+#. [attack]: type=fire
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:134
+msgid "cannon^missile"
+msgstr "导弹"
+
+#. [unit_type]: id=cban Dwarvish Cart, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:5
+msgid "Dwarvish Cart"
+msgstr "矮人斗车"
+
+#. [unit_type]: id=cban Dwarvish Cart, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:16
+msgid "This cart is used to transport mined minerals."
+msgstr "这辆斗车被用来运输采集的矿物"
+
+#. [variation]
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:43
+msgid "empty"
+msgstr "空车"
+
+#. [unit_type]: id=cban Dwarvish King, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_King.cfg:5
+msgid "Dwarvish King"
+msgstr "矮人国王"
+
+#. [unit_type]: id=cban Dwarvish King, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_King.cfg:18
+msgid "Clad in shining armor, these dwarves are kings from under the mountains. They wield axe and hammer with masterful skill, and can hit a target with a thrown hand axe at several paces. Though slow on their feet, these dwarves are a testament to the prowess of their kin."
+msgstr "这些穿着闪亮铠甲的矮人是山下的国王。他们挥舞斧和锤有大师的水平，还能在几步外扔一个手斧打击目标。即使脚慢，这些矮人仍是他们家族勇猛的证明。"
+
+#. [unit_type]: id=cban Dwarvish Miner, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:4
+msgid "Dwarvish Miner"
+msgstr "矮人矿工"
+
+#. [unit_type]: id=cban Dwarvish Miner, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:18
+msgid "Dwarvish miners are the grunt workers of Dwarvish society. They take the precious ores out of the ground, but do not ever take part in the crafting of weapons or artifacts."
+msgstr "矮人矿工是矮人社会的下层工人。他们从土地里挖出宝贵的矿石，但从来不参与制作武器或手工艺品。"
+
+#. [attack]: type=pierce
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:21
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:30
+msgid "pick"
+msgstr "凿"
+
+#. [unit_type]: id=cban Dwarvish Torchbearer, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Torchbearer.cfg:4
+msgid "Dwarvish Torchbearer"
+msgstr "矮人火炬手"
+
+#. [unit_type]: id=cban Dwarvish Torchbearer, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Torchbearer.cfg:19
+msgid "Dwarvish torchbearer usually join expeditions to the deepest and darkest reaches of the underground, helping other dwarves in finding their way and dazzling dangerous creatures not used to the light."
+msgstr "矮人火炬手常常加入探险队到最深最黑的地下，帮其他矮人探路并照晕不习惯光亮的危险生物。"
+
+#. [unit_type]: id=cban Goblin Piercer, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Piercer.cfg:5
+msgid "Goblin Piercer"
+msgstr "地精长枪兵"
+
+#. [unit_type]: id=cban Goblin Piercer, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Piercer.cfg:24
+msgid "Goblins are used by the orcs as skirmishers to disrupt the enemy's battle line. Those who manage to survive their first few battles equip themselves with a long spear to compensate for their short reach, and better armor to guard their diminuitive frames."
+msgstr "地精被兽人用作游击战士来破坏敌人的战线。这些在之前的战斗中活下来的地精为自己装备了长枪来弥补自己的短处，还有更好的铠甲保护他们的小身子。"
+
+#. [unit_type]: id=cban Goblin Raider, race=wolf
+#: Captured_by_a_Nightmare\units\Goblin_Raider.cfg:5
+msgid "Goblin Raider"
+msgstr "地精袭击手"
+
+#. [unit_type]: id=cban Goblin Trumpeter, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Trumpeter.cfg:5
+msgid "Goblin Trumpeter"
+msgstr "地精号令手"
+
+#. [unit_type]: id=cban Goblin Trumpeter, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Trumpeter.cfg:24
+msgid "Only the best of rousers can hope to become a trumpeter. Trumpeters spend many hours studying the subtleties of the complex orc war signals. For the orcs, such signals are much more than a simple message of advance or retreat, they inspire their entire army and reinforce their bloodthirsty nature. Many orc warlords consider their trumpeter a trusted confidante and sometimes a trumpeter may be allowed to consult with the warlord on his battle plan."
+msgstr "只有最好的煽动者才有可能成为号令手。号令手花了很多小时学习复杂的兽人战争信号的细节。对于兽人来说，这样的信号比简单的前进或撤退信息含义更丰富。他们鼓舞整个军队并增强他们天生好战的本性。很多兽人军阀将他们的号令手视为值得信赖的人，有时候号令手会被允许与军阀一起商讨战斗计划。"
+
+#. [unit_type]: id=cban Earth Golem
+#: Captured_by_a_Nightmare\units\Golems.cfg:7
+msgid "Earth Golem"
+msgstr "地粘土怪"
+
+#. [unit_type]: id=cban Stone Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:51
+msgid "Stone Golem"
+msgstr "石人"
+
+#. [unit_type]: id=cban Stone Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:64
+msgid "Larger than most men and with a skin of stone, the Stone Golems are bulwarks in battle. They are carved out from the mountains and animated by skillful mages."
+msgstr "石皮肤，比大多人类大，石人是战斗中的活堡垒。他们被强大的法师从山里凿出来并赋予行动能力。"
+
+#. [unit_type]: id=cban Rock Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:112
+msgid "Rock Golem"
+msgstr "石巨人"
+
+#. [unit_type]: id=cban Rock Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:126
+msgid "Over time the Golems take on mass and size by merging with other rocks. Rock Golems hit hard and withstand tremendous amount of damage."
+msgstr "随着时间的推移，石人通过合并其他石头来增加数量和大小。石巨人能抵挡大量伤害，打得还狠。"
+
+#. [unit_type]: id=cban Mercenary, race=human
+#: Captured_by_a_Nightmare\units\Human_Mercenary.cfg:5
+msgid "female^Mercenary"
+msgstr "雇佣兵"
+
+#. [unit_type]: id=cban Mercenary, race=human
+#: Captured_by_a_Nightmare\units\Human_Mercenary.cfg:19
+msgid "Veteran mercenaries become notorious for both their ruthlessness and ability to elude capture. They can be dangerous in their element, though no match for the sheer numbers that law-abiding soldiery can throw at them."
+msgstr "因为他们的残忍和逃避追捕的能力，这些老练的犯罪分子恶名昭彰。当组成小团体时他们很危险，但是这显然无法和守法的军队所能派遣来对付他们的士兵数量相比。"
+
+#. [unit_type]: id=cban Outcast, race=human
+#: Captured_by_a_Nightmare\units\Human_Outcast.cfg:5
+msgid "female^Outcast"
+msgstr "流放者"
+
+#. [unit_type]: id=cban Outcast, race=human
+#: Captured_by_a_Nightmare\units\Human_Outcast.cfg:18
+msgid "After some years of service, former ‘footpads’ rise up in the ranks of their fellow outcasts. Having proven themselves in combat, they are given more dangerous tasks, and a greater share of the spoils. Though many opponents would mock their choice of weaponry, the outcasts are well aware of its deadly capacity, and also of the ready availability of ammunition. Outcasts are somewhat ill at ease fighting during the day, preferring the cover of nightfall."
+msgstr "为团伙效力多年后，从前的“走卒”在同伙中的地位有所提升。他们已经证明了自己在战斗中的价值，所以被委以更加危险的任务，并能分到更大比例的赃物。虽然许多对手嘲笑他们的武器，他们自己却很清楚它们的致命威力，同时也深知其弹药来源相当广泛。大白天作战让游寇有点儿不适应，他们还是喜欢在夜幕掩护之下行动。"
+
+#. [unit_type]: id=cban Magic Wall, race=mechanical
+#: Captured_by_a_Nightmare\units\Magic_Wall.cfg:18
+msgid "This is a very strong magic wall. It is practically indestructible by usual weapons. Each turn it regenerates 8 HP."
+msgstr "这是一堵非常强硬的魔法墙。使用常规武器几乎不能摧毁它。每回合它会自愈8点生命值。"
+
+#. [unit_type]: id=cban Naga Archer, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:4
+msgid "Naga Archer"
+msgstr "娜迦弓箭手"
+
+#. [unit_type]: id=cban Naga Archer, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:19
+msgid "Although the main weapon of nagas is sword, there are those who show more ability to archery. Naga Archer not only provides support for swordsmen, but can also defeat the enemy, especially those who do not have ranged weapons with them."
+msgstr "虽然娜迦的主要武器是剑，但也有一些在射术上展现出更多才能的娜迦。娜迦弓箭手不仅为娜迦剑士提供支援，也能击败敌人，尤其是对没有远程攻击武器的敌人来说。"
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:22
+msgid "Nagini Archer"
+msgstr "娜迦弓箭手"
+
+#. [unit_type]: id=cban Naga Marksman, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:4
+msgid "Naga Marksman"
+msgstr "娜迦神射手"
+
+#. [unit_type]: id=cban Naga Marksman, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:20
+msgid "Naga Archers who show more mastery and accuracy with their bows are promoted to the ranks of the Marksman. They are more skilled with their bows and can shoot down anything that is foolish enough to enter their domains."
+msgstr "在弓箭上展现出更多才能且更精准的娜迦弓箭手会提升成为神射手。他们能更熟练地使用弓箭并且能射倒任何蠢到进入他们领地的东西。"
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:27
+msgid "Nagini Marksman"
+msgstr "娜迦弓箭手"
+
+#. [unit_type]: id=cban Orcish Avenger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Avenger.cfg:4
+msgid "Orcish Avenger"
+msgstr "兽人报仇者"
+
+#. [unit_type]: id=cban Orcish Avenger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Avenger.cfg:19
+msgid "When its hard to remember all the victims of Orcish Tracker, orcs give it a new name - Orcish Avenger. Orcish Avenger is a very dangerous and versatile fighter who perfectly masters both sword and crossbow. In battle, it uses all means for the quickest and most effective killing of the enemy. If Orcish Avenger chose life not among the wild nature, but among the orcs, rumors of its combat exploits are already widely known. Orcish Avenger gains high prestige among orcs and can lead an orcish tribe."
+msgstr "当兽人追猎者的受害者数不清的时候，兽人们会给他一个新名称——兽人报仇者。兽人报仇者是一种非常危险又多才能的战士，同时完美精通弩和剑。在战斗中，他尽一切办法用最快最有效的方法杀掉敌人。如果兽人报仇者选择非野外而是在兽人之间的生活，他的作战功绩会广为流传。兽人报仇者在兽人之间赢得了很高的声誉，而且能领导兽人部落。"
+
+#. [unit_type]: id=cban Orcish Hunter, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Hunter.cfg:4
+msgid "Orcish Hunter"
+msgstr "兽人猎手"
+
+#. [unit_type]: id=cban Orcish Hunter, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Hunter.cfg:16
+msgid "Hunting is the main way to feed an orcish tribe. Orcish Hunters successfully mastered this craft. Orcish Hunters usually are not present in the battlefield, however they may compete with Orcish Archers. Moreover, Orcish Hunter is a marksman and has better skills at hitting moving targets. Orcish Hunter needs to fight wildlife and survive in difficult conditions, with the result that its vitality is relatively high."
+msgstr "打猎是兽人部落主要的食物来源。兽人猎手成功地掌控了这一技能。兽人猎手们不常出现在战场上，然而他们能比得上兽人弓箭手。还有，兽人猎手是神射手并有更棒的攻击移动目标的技巧。兽人猎手需要与野生动物作战并在困难的处境下生存，于是这造就了他们相对较高的活力。"
+
+#. [unit_type]: id=cban Orcish Novice Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Novice_Shaman.cfg:4
+msgid "Orcish Novice Shaman"
+msgstr "兽人新手萨满"
+
+#. [unit_type]: id=cban Orcish Novice Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Novice_Shaman.cfg:16
+msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life. Novice Shamans are still young and vigorous, but their spell-casting ability still needs improvement."
+msgstr "兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸取他们的生命。这些年轻人精力旺盛，但魔力尚需锻练。"
+
+#. [unit_type]: id=cban Orcish Ranger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Ranger.cfg:4
+msgid "Orcish Ranger"
+msgstr "兽人游侠"
+
+#. [unit_type]: id=cban Orcish Ranger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Ranger.cfg:16
+msgid "A certain time must pass before the Orcish hunter can become an Orcish Ranger. Not always Oricsh Ranger is fighting with wildlife, sometimes it has to clash with humans, elves, dwarves and other races inhabiting Wesnoth. Because of that, its sword skill has increased. As the main weapon, it replaced the primitive orcish bow with a more complex and dangerous crossbow."
+msgstr "兽人猎手要成为兽人游侠必须经过一定的时间。兽人游侠并不总是跟野生动物战斗，有时候他不得不与人类、精灵、矮人和其他住在韦诺的生物起冲突。因此，他的剑术提升了。作为主要的武器，原始的兽人弓被替换成了一把更复杂更强大的十字弩。"
+
+#. [unit_type]: id=cban Orcish Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Shaman.cfg:4
+msgid "Orcish Shaman"
+msgstr "兽人萨满"
+
+#. [unit_type]: id=cban Orcish Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Shaman.cfg:16
+msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life."
+msgstr "兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸取他们的生命。"
+
+#. [unit_type]: id=cban Orcish Tracker, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Tracker.cfg:4
+msgid "Orcish Tracker"
+msgstr "兽人追猎者"
+
+#. [unit_type]: id=cban Orcish Tracker, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Tracker.cfg:16
+msgid "Orcish Trackers tend to live a recluse life. They can live in a wild on their own, track down animals or trap them. Even one Orcish Tracker may defeat a small group of untrained bandits. Thus, they do not need to adhere to any particular orcish tribe. Although, any orcish leader will be happy to have Orcish Tracker in their ranks, and for a fee Orcish Tracker can provide their services on the battlefield. First of all, Orcish Tracker got its name for its ability to track down wild animals, but in addition it has a second meaning. Orcish Tracker often gets the task to track down and eliminate an important target in the camp of the enemy."
+msgstr "兽人追猎者倾向于过隐居的生活。他们可以独自在野外生活，追踪动物或用陷阱抓住他们。甚至一个兽人追猎者都有可能打败一小组没训练的强盗。因此，他们不需要依靠任何的兽人部落。即使如此，任何兽人首领都喜欢拥有兽人追猎者的头衔，给些钱的话，兽人追猎者还可以在战场上效力。首先，兽人追猎者得到这个头衔是因为追踪野生动物的能力，但它还有另外一个意义，兽人追猎者常常收到追踪并消灭敌人营地里重要目标的任务。"
+
+#. [unit_type]: id=cban Orcish Warlock, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Warlock.cfg:4
+msgid "Orcish Warlock"
+msgstr "兽人魔法大师"
+
+#. [unit_type]: id=cban Orcish Warlock, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Warlock.cfg:17
+msgid "Orcish Shaman who decided to improve battle spells is known as Orcish Warlock. Orcish Warlock still can heal wounded comrades, however its main specialization is a magical spell. This spell has a high chance to hit an enemy and deal significant damage. Since Oricsh Warlock drains the life energy from its victims, it can effectively heal itself and kill the enemy at the same time. In hands of a wise leader, Orcish Warlock can cause a lot of troubles to its enemies."
+msgstr "决定提升战斗魔法的兽人萨满被誉为兽人魔法大师。兽人魔法大师也能治疗受战伤的战友，然而他的主要专长是魔咒。这种魔咒有很高的几率命中敌人并且造成可观的伤害。因为兽人魔法大师能吸取敌人的生命能量，他可以有效地在治疗自身的同时杀掉敌人。在一个精明的首领手下，兽人魔法大师能为敌人造成很多麻烦。"
+
+#. [unit_type]: id=cban Orcish Witchdoctor, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Witchdoctor.cfg:4
+msgid "Orcish Witchdoctor"
+msgstr "兽人巫医"
+
+#. [unit_type]: id=cban Orcish Witchdoctor, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Witchdoctor.cfg:18
+msgid "Orcish Shaman who decided to improve healing skills is known as Orcish Witchdoctor. Orcish Witchdoctor can quickly heal even heavily wounded comrades. A wise orcish warchief tries to get Orcish Witchdoctor under its command, since it is hard to underestimate the healers support on the battlefield. Even the warchief has higher chances to survive the battle, if it has a capable healer on its side."
+msgstr "决定提升治疗能力的兽人萨满被誉为兽人巫医。兽人巫医能快速为受重伤的兄弟疗伤。精明的兽人战争领袖会尝试得到兽人巫医到其旗下，因为战场上医疗兵的作用很难被轻视。如果有个能干的医疗兵在身边的话，甚至战争首领都更容易在战斗中活下来。"
+
+#. [unit_type]: id=cban Unarmed Elf, race=elf
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:7
+msgid "Unarmed Elf"
+msgstr "无武装的精灵"
+
+#. [unit_type]: id=cban Drake Slave, race=drake
+#: Captured_by_a_Nightmare\units\Drake_Slave.cfg:5
+msgid "Drake Slave"
+msgstr "龙人奴隶"
+
+#. [unit_type]: id=cban Drake Slave, race=drake
+#: Captured_by_a_Nightmare\units\Drake_Slave.cfg:18
+msgid "Each Drake Slave produces 2 gold per turn. When drakes start their turn, Drake Slave may escape and move under their side. If Drake Slave has no adjacent guardians, it will escape. if it has only one adjacent guardian, it has 30% chance to escape. If it has two adjacent guardians, it has 10% chance to escape. if it has more than two adjacent guardians, it can't escape. If Drake Slave has escaped, attack it to move it back under your control."
+msgstr "每个龙人奴隶每回合产生2金币。当龙人的回合开始时，龙人奴隶可能会逃跑并回到他们那边。如果龙人奴隶没有临近的监管，他会逃跑。如果只有一个临近的监管，他逃跑的概率是30%。如果有两个临近的监管，他逃跑的概率是10%。如果他有两个以上的监管，他无法逃跑。如果龙人奴隶逃跑了，攻击他能让他重归你控制。"
+
+#. [unit_type]: id=cban Troll Boulderlobber, race=troll
+#: Captured_by_a_Nightmare\units\Troll_Boulderlobber.cfg:5
+msgid "Troll Boulderlobber"
+msgstr "巨魔巨石投手"
+
+#. [unit_type]: id=cban Troll High Shaman
+#: Captured_by_a_Nightmare\units\Troll_High_Shaman.cfg:5
+msgid "Troll High Shaman"
+msgstr "高阶巨魔萨满"
+
+#. [unit_type]: id=cban Young Yeti, race=monster
+#: Captured_by_a_Nightmare\units\Yetis.cfg:8
+msgid "Young Yeti"
+msgstr "年轻的雪人"
+
+#. [unit_type]: id=cban Young Fire Dragon, race=monster
+#: Captured_by_a_Nightmare\units\Young_Fire_Dragon.cfg:5
+msgid "Young Fire Dragon"
+msgstr "年轻的烈火巨龙"
+
+#. [unit_type]: id=cban Unarmed Elf, race=elf
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:19
+msgid "This unit was captured during battle and imprisoned. If it will recover from wounds, it will be used as a slave."
+msgstr "此单位在战斗中被俘并关押。等他的战伤一好，他就会成为奴隶。"
+
+#. [variation]
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:38
+msgid "desperate"
+msgstr "绝望"
+
+#. [unit_type]: id=cban Unarmed Mage, race=human
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:46
+msgid "Unarmed Mage"
+msgstr "无武装的法师"
+
+#. [unit_type]: id=cban Unarmed Mage, race=human
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:58
+msgid "This unit was captured during battle and imprisoned. If it will recover from wounds, it will be used as a slave. "
+msgstr "此单位在战斗中被俘并关押。等他的战伤一好，他就会成为奴隶。"
+
+#. [unit_type]: id=cban Spider Hatchling, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:8
+msgid "Spider Hatchling"
+msgstr "幼蜘蛛"
+
+#. [unit_type]: id=cban Spider Hatchling, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:24
+msgid "Giant Spiders are said to roam the depths of Knalga, devouring many victims. Spider Hatchling is young and not so dangerous. Though, it already learned to fling webs through the air to trap their prey."
+msgstr "传说巨蜘蛛住在纳尔迦地区的深处，吞吃了很多受害者。幼蜘蛛还小而且没有那么危险。但它已经学会了把网抛向空中来捕捉猎物。"
+
+#. [unit_type]: id=cban Spider, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:87
+msgid "Spider"
+msgstr "蜘蛛"
+
+#. [unit_type]: id=cban Necromancy Adept, race=human
+#: Captured_by_a_Nightmare\units\Necromancy_Adept.cfg:5
+msgid "Necromancy Adept"
+msgstr "招魂狂徒"
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Necromancy_Adept.cfg:177
+msgid "female^Necromancy Adept"
+msgstr "招魂狂徒"
+
+#. [unit_type]: id=cban Necromancy Sorcerer, race=human
+#: Captured_by_a_Nightmare\units\Necromancy_Sorcerer.cfg:5
+msgid "Necromancy Sorcerer"
+msgstr "招魂巫师"
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Necromancy_Sorcerer.cfg:159
+msgid "Necromancy Sorceress"
+msgstr "招魂巫师"
+
+#. [unit_type]: id=cban Villager
+#: Captured_by_a_Nightmare\units\Villagers.cfg:11
+msgid "Villager"
+msgstr "村民"
+
+#. [unit_type]: id=cban Villager
+#: Captured_by_a_Nightmare\units\Villagers.cfg:18
+msgid "Each of the villages scattered across the Wesnoth countryside is normally guided by a group of elders, who are the village’s wisest and most experienced residents."
+msgstr "韦诺郊外散布的每处村庄通常都被一些老人指导着，他们通常是村里最有智慧、最有经验的居民。"
+
+#. [unit_type]: id=cban Fisherman, race=human
+#: Captured_by_a_Nightmare\units\Villagers.cfg:23
+msgid "Fisherman"
+msgstr "渔民"
+
+#. [unit_type]: id=cban Fisherman, race=human
+#: Captured_by_a_Nightmare\units\Villagers.cfg:37
+msgid "Fisherman are not warriors, but they can cast a net on the enemy, and this is quite all you may expect from them."
+msgstr "渔民可不是武士，虽然他们能对敌人扔网，但这也是你能让他们做的全部事情了。"
+
+#. [dummy]
+#: Captured_by_a_Nightmare\units\Wolves.cfg:17
+msgid "wolf pack"
+msgstr "群狼战术"
+
+#. [dummy]
+#: Captured_by_a_Nightmare\units\Wolves.cfg:18
+msgid "Attack damage is increased by number of adjacent friendly wolves."
+msgstr "攻击伤害随临近友好狼的数量的增加而增加。"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:10
+msgid "Captured by a Nightmare"
+msgstr "噩梦缠身"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:11
+msgid "CbaN"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:19
+msgid ""
+"The First Dark Age of Wesnoth. Orcs are aggressively increasing their power on the Great Continent. However, not all of their campaigns were successful. You will witness the disastrous one. A small orcish settlement in the Heart Mountains is attacked by superior dwarvish forces. Orcs are doomed to be exterminated. Play this campaign and take part in the further story.\n"
+"(Hard level, 12 scenarios)"
+msgstr ""
+"在韦诺的第一个黑暗时代，兽人们通过侵略来增强他们在泰陆的势力。可是，他们不是百战百胜的。你将看到一幕惨重的情景：在心之山脉的一处小兽人居民地遭到了超强矮人军团的攻击，那些兽人注定要被灭亡……请玩这个战役来演绎后来的故事。\n"
+"（困难级别，12幕场景）"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:22
+msgid "Youth"
+msgstr "青年"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:22
+msgid "Daydream"
+msgstr "白日梦"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:23
+msgid "Hunter"
+msgstr "猎手"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:23
+msgid "Easy"
+msgstr "简单"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:24
+msgid "Ranger"
+msgstr "游侠"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:24
+msgid "Normal"
+msgstr "中等"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:25
+msgid "Tracker"
+msgstr "追踪者"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:25
+msgid "Hard"
+msgstr "困难"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:26
+msgid "Avenger"
+msgstr "报仇者"
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:26
+msgid "Nightmare"
+msgstr "噩梦"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:30
+msgid "Author"
+msgstr "作者"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:36
+msgid "Traditional Chinese translation"
+msgstr "繁體中文翻譯"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:42
+msgid "Simplified Chinese translation"
+msgstr "简体中文翻译"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:48
+msgid "Art taken from"
+msgstr "艺术材料取自"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:63
+msgid "Code taken from"
+msgstr "代码取自"
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:75
+msgid "Play testing, bug reports, feedback"
+msgstr "测试、漏洞报告、反馈"

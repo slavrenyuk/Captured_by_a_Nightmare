@@ -1,0 +1,4347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2019-09-01 18:32 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [floating_text]
+#. [dummy]: id=contusion
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:66
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:84
+msgid "contusion"
+msgstr "контузия"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:74
+msgid "Heavy Sword"
+msgstr "Тяжелый Меч"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:76
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:100
+msgid "This heavy sword contuses enemies when used offensively. Contused enemy receives -15% defense (chance to hit) penalty until it starts a turn."
+msgstr "Этот тяжелый меч контузит врага. Защита контуженного врага снижена на 15% до тех пора пока не начнется его ход."
+
+#. [dummy]: id=contusion
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:85
+msgid "This attack contuses enemies when used offensively. Contused enemy receives -15% defense (chance to hit) penalty. When victim starts a turn this effect is removed."
+msgstr "Эта атака контузит врага (только при нападении, при защите особенность неактивна). Защита контуженного врага снижена на 15%. Эффект контузии длится пока боец не начнет свой ход."
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:101
+msgid "heavy_sword^Take it"
+msgstr "Взять"
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:102
+msgid "heavy_sword^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items\contusion.cfg:103
+msgid "This item is suitable only for orcish grunts and leaders (or their advancements)."
+msgstr "Это оружие подходит только для орочьих пехотинцев и вожаков (любого уровня)."
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:27
+msgid "Scenario objectives are completed. But there is still some loot on the map. Do you want to take the loot or finish scenario now?"
+msgstr "Условия победы выполнены, но на карте все еще есть полезный предмет. Вы хотите взять предмет или закончить сценарий сейчас?"
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:30
+msgid "Collect loot"
+msgstr "Взять предмет"
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\items\loot_system.cfg:36
+msgid "Finish scenario"
+msgstr "Закончить сценарий"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:9
+msgid "Potion of Steadiness"
+msgstr "Зелье Устойчивости"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:11
+msgid "This unit now has 10% physical resistances (blade, pierce, impact) and steadfast ability."
+msgstr "У этого бойца теперь есть 10% сопротивляемости к физическому урону (режущий, крущащий, колющий) а также способность <i>стойкий</i>."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:35
+msgid "This potions changes physical resistances (blade, pierce, impact) to 10% and grants steadfast ability."
+msgstr "Это зелье устанавливает сопротивляемости к физическому урону (режущий, крущащий, колющий) в 10% а также дает способность <i>стойкий</i>."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:36
+msgid "potion_steadiness^Drink it"
+msgstr "Выпить"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:37
+msgid "potion_steadiness^Leave it"
+msgstr "Оставить"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:45
+msgid "Potion of Battle Frenzy"
+msgstr "Зелье Боевой Ярости"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:47
+msgid "Whenever melee attack is used, this unit continues fight until either it or its enemy lies dead."
+msgstr "И в защите и в обороне ближняя атака продолжается пока один из сражающихся не погибнет."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:64
+msgid "This potions grants berserk special to melee attacks."
+msgstr "Это зелье добавляет особенность <i>берсерк</i> для ближней атаки."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:65
+msgid "potion_frenzy^Drink it"
+msgstr "Выпить"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:66
+msgid "potion_frenzy^Leave it"
+msgstr "Оставить"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:77
+msgid "Potion of the Afterlife"
+msgstr "Зелье Возвращения"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:79
+msgid "This unit will be transformed to skeleton upon death."
+msgstr "После смерти этот боец превратится в скелета."
+
+#. [dummy]: id=afterlife
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:85
+msgid "afterlife"
+msgstr "возвращение"
+
+#. [dummy]: id=afterlife
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:86
+msgid "This unit will be transformed to skeleton upon death"
+msgstr "После смерти этот боец превратится в скелета."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:149
+msgid "One who drinks this potion will not be taken by the death. If the drinker dies, he will be transformed to another unit. Grunt or Assassin will be transformed to Skeleton. Archer will be transformed to Skeleton Archer."
+msgstr "Смерть не заберет того кто выпьет это зелье. Посмертно, пехотинец или отравитель превратятся в скелета. Лучник превратится в скелета-лучника."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:150
+msgid "potion_afterlife^Drink it"
+msgstr "Выпить"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:151
+msgid "potion_afterlife^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:152
+msgid "This potion is not useful for main characters, because they are not allowed to die."
+msgstr "Это зелье бесполезно для главных героев, так как их смерть недопустима."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:162
+msgid "This potions heals 20 hitpoints."
+msgstr "Это зелье восстанавливает 20 единиц здоровья."
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:163
+msgid "potion_healing^Drink it"
+msgstr "Выпить"
+
+#: Captured_by_a_Nightmare\macros\items\nightmare_potions.cfg:164
+msgid "potion_healing^Leave it"
+msgstr "Оставить"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:9
+msgid "heals +2"
+msgstr "лечит +2"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:10
+msgid "female^heals +2"
+msgstr "лечит +2"
+
+#. [heals]: id=healing
+#: Captured_by_a_Nightmare\macros\abilities.cfg:14
+msgid ""
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 2 HP per turn."
+msgstr ""
+"Этот боец может лечить союзников находящихся на соседних клетках.\n"
+"\n"
+"Восстанавливет соседним союзникам до 2 очков здоровья за ход."
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:27
+msgid "harms -8"
+msgstr "вредит -8"
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:28
+msgid "female^harms -8"
+msgstr "вредит -8"
+
+#. [heals]: id=harms
+#: Captured_by_a_Nightmare\macros\abilities.cfg:31
+msgid ""
+"Allows the unit to harm adjacent enemy units at the beginning of our turn.\n"
+"\n"
+"A unit affected by this harmer may loose up to 8 HP per turn."
+msgstr "В начале хода наносит всем врагам на соседних клетках по 8 единиц урона."
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:40
+msgid "mitigates 25%"
+msgstr "восстанавливает 25%"
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:41
+msgid "female^mitigates 25%"
+msgstr "восстанавливает 25%"
+
+#. [dummy]: id=mitigates
+#: Captured_by_a_Nightmare\macros\abilities.cfg:42
+msgid ""
+"Allows the unit to reduce damage taken by adjacent enemy units.\n"
+"\n"
+"A unit cared for by this healer will heal 25% of taken damage right after the attack ends."
+msgstr ""
+"Дружественные бойцы на соседних клетках получают на 25% меньше урона в бою.\n"
+"\n"
+"Здоровье восстанавливается после завершения атаки."
+
+#. [chance_to_hit]: id=fencing_offensive
+#: Captured_by_a_Nightmare\macros\abilities.cfg:119
+msgid "fencing"
+msgstr "фехтование"
+
+#. [chance_to_hit]: id=fencing_offensive
+#: Captured_by_a_Nightmare\macros\abilities.cfg:120
+msgid "When used offensively +10% chance to hit. When used defensively -10% chance of being hit."
+msgstr "+10% шанс попасть при нападении. +10% шанс уклониться при защите."
+
+#. [leadership]: id=terror
+#: Captured_by_a_Nightmare\macros\abilities.cfg:140
+msgid "terror"
+msgstr "устрашает"
+
+#. [leadership]: id=terror
+#: Captured_by_a_Nightmare\macros\abilities.cfg:141
+msgid ""
+"This unit can frighten enemies that are next to it, making them fight worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an adjacent enemy unit of a lower level engages in combat, its attacks do 25% less damage times the difference in their levels."
+msgstr ""
+"Этот боец устрашает врагов на соседних клетках, заставляя их сражаться хуже.\n"
+"\n"
+"Устрашение действует на врагов более низкого уровня. Чем больше разница в уровнях этого бойца и его врага, тем сильнее снижается урон врага. Урон снижается на 25% умноженное на разницу уровней."
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:157
+msgid " This unit is capable of basic healing."
+msgstr " Этот боец способен оказывать минимальное лечение."
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:160
+msgid " This unit is capable of healing and curing of poison."
+msgstr " Этот боец способен лечить и исцелять от яда."
+
+#: Captured_by_a_Nightmare\macros\abilities.cfg:164
+msgid " This unit is capable of rapid healing and curing of poison."
+msgstr " Этот боец способен эффективно лечить и исцелять от яда."
+
+#. [advancement]: id=fencing
+#: Captured_by_a_Nightmare\macros\advancements.cfg:37
+msgid "Sword: offensive attack +10% chance to hit, defensive attack -10% chance of being hit"
+msgstr "Меч: +10% шанс попасть при нападении, +10% шанс уклониться при защите"
+
+#. [advancement]: id=eagle_eye
+#: Captured_by_a_Nightmare\macros\advancements.cfg:51
+msgid "Crossbow: +4 damage"
+msgstr "Арбалет: урон +4"
+
+#. [advancement]: id=fangs_drains
+#: Captured_by_a_Nightmare\macros\advancements.cfg:65
+msgid "Fangs: drains special"
+msgstr "Клыки: добавляется особенность <i>высасывать</i> здоровье"
+
+#. [advancement]: id=net_marksman
+#: Captured_by_a_Nightmare\macros\advancements.cfg:79
+msgid "Net: marksman special"
+msgstr "Сеть: добавляется особенность <i>меткий</i>"
+
+#. [advancement]: id=mitigates
+#: Captured_by_a_Nightmare\macros\advancements.cfg:96
+msgid "New ability: adjacent friendly units -25% taken damage"
+msgstr "Новая способность: дружественные соседние бойцы -25% урона в бою"
+
+#. [advancement]: id=harms
+#: Captured_by_a_Nightmare\macros\advancements.cfg:108
+msgid "New ability: adjacent enemy units -8 HP per turn"
+msgstr "Новая способность: вначале хода соседние враги -8 здоровья"
+
+#. [advancement]: id=necromancy
+#: Captured_by_a_Nightmare\macros\advancements.cfg:123
+msgid "Plague staff: +3 damage, raises level 1 soulless"
+msgstr "Чумной посох: урон +3, воскрешает Бездушных (уровень 1)"
+
+#. [plague]: id=plague_soulless, type=Soulless
+#: Captured_by_a_Nightmare\macros\advancements.cfg:136
+msgid "plague"
+msgstr "чума"
+
+#. [plague]: id=plague_soulless, type=Soulless
+#: Captured_by_a_Nightmare\macros\advancements.cfg:137
+msgid "When a unit is killed by a Plague attack, that unit is replaced with a Soulless on the same side as the unit with the Plague attack. This doesn’t work on Undead or units in villages."
+msgstr "Когда боец убит чумой, он превращается в Бездушного, и переходит на сторону противника. (Это не работает для нежити или для бойцов, находящихся в деревнях)."
+
+#. [advancement]: id=freezing
+#: Captured_by_a_Nightmare\macros\advancements.cfg:146
+msgid "Chill wave: slows special"
+msgstr "Волна холода: <i>замедляет</i> врагов"
+
+#. [note]
+#: Captured_by_a_Nightmare\macros\base.cfg:136
+msgid "It is recommended that you occasionally save your game in this scenario, so you won’t lose all your progress if you get stuck and have to start over."
+msgstr "Рекомендуется периодически сохраняться, чтобы не потерять прогресс если прийдется начать этот уровень заново."
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:54
+msgid "This rune restores movement points"
+msgstr "Эта руна полностью восстанавливает очки движения"
+
+#. [then]
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:124
+msgid "You must find a way to unpetrify $petrified_character_name"
+msgstr "$petrified_character_name окаменел. Вам нужно найти способ снять это заклятие."
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:147
+msgid "Petrified unit stands on a rune with this image."
+msgstr "Окаменевший боец стоит на руне с этим изображением."
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:183
+msgid "This rune looks similar to the petrification rune"
+msgstr "Эта руна похожа на руну окаменения."
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:238
+msgid "Wow, what was that?"
+msgstr "Ох, что это было?"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:239
+msgid "You was petrified by the dwarvish magical rune."
+msgstr "Ты стал на магическую руну и был превращен в камень."
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:240
+msgid "For how long?"
+msgstr "Как долго?"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:241
+msgid "Few month ago trolls here, you not here."
+msgstr "Пару месяцев назад тролли быть здесь, тебя не видеть."
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:242
+msgid "Why did you come to this caves?"
+msgstr "Почему ты пришел в эти пещеры?"
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:243
+msgid "I heard about dwarvish treasures ... Thank you for saving my life, I owe you."
+msgstr "Я слышал о сокровищах гномов ... Спасибо за то что спасли мне жизнь, я в долгу."
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:244
+msgid "Join us, we are going to find and defeat dwarvish king. After that, you may take as many treasures as you can carry."
+msgstr "Присоединяйся к нам и помоги убить гномьего короля. После этого забирай столько сокровищ сколько сможешь унести."
+
+#. [event]: id=unpetrify_dialog
+#: Captured_by_a_Nightmare\macros\cave_runes.cfg:245
+msgid "Sounds good, I'm in."
+msgstr "Идет, я в деле."
+
+#. [terrain_type]: id=crystal
+#: Captured_by_a_Nightmare\macros\cave_terrain.cfg:9
+msgid "Crystal Caves"
+msgstr "Пещера с кристаллами"
+
+#. [unit]: id=hushnak, type=Orcish Sovereign
+#. [unit]: id=hushnak, type=Wraith
+#: Captured_by_a_Nightmare\macros\characters.cfg:9
+#: Captured_by_a_Nightmare\macros\characters.cfg:278
+msgid "Hushnak"
+msgstr "Хушнак"
+
+#. [unit]: id=vadasha, type=cban Orcish Witchdoctor
+#. [unit]: id=vadasha, type=Ghost
+#: Captured_by_a_Nightmare\macros\characters.cfg:24
+#: Captured_by_a_Nightmare\macros\characters.cfg:289
+msgid "Vadasha"
+msgstr "Вадаша"
+
+#. [unit]: type=Dwarvish Lord, id=uritbor
+#. [unit]: type=cban Dwarvish King, id=uritbor
+#. [side]
+#: Captured_by_a_Nightmare\macros\characters.cfg:45
+#: Captured_by_a_Nightmare\macros\characters.cfg:63
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:100
+msgid "Uritbor"
+msgstr "Уритбор"
+
+#. [unit]: id=bart, type=Wolf Rider
+#. [unit]: id=bart, type=Goblin Pillager
+#. [side]
+#: Captured_by_a_Nightmare\macros\characters.cfg:77
+#: Captured_by_a_Nightmare\macros\characters.cfg:94
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:161
+msgid "Bart"
+msgstr "Барт"
+
+#. [unit]: id=rark, type=cban Orcish Hunter
+#. [side]
+#. [event]
+#: Captured_by_a_Nightmare\macros\characters.cfg:125
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:150
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:760
+msgid "Rark"
+msgstr "Рарк"
+
+#. [unit]: id=bogarg, type=cban Orcish Novice Shaman
+#: Captured_by_a_Nightmare\macros\characters.cfg:142
+msgid "Bogarg"
+msgstr "Богарг"
+
+#. [unit]: id=erurag, type=Orcish Sovereign
+#: Captured_by_a_Nightmare\macros\characters.cfg:161
+msgid "Erurag"
+msgstr "Эрураг"
+
+#. [unit]: id=amailis, type=Naga Warrior
+#: Captured_by_a_Nightmare\macros\characters.cfg:175
+msgid "Amailis"
+msgstr "Амаилис"
+
+#. [unit]: id=nessa, type=cban Necromancy Adept
+#: Captured_by_a_Nightmare\macros\characters.cfg:189
+msgid "Nessa"
+msgstr "Нэсса"
+
+#. [unit]: id=merudda, type=cban Outcast
+#: Captured_by_a_Nightmare\macros\characters.cfg:208
+msgid "Merudda"
+msgstr "Мерудда"
+
+#. [unit]: id=picklock, type=Goblin Impaler
+#: Captured_by_a_Nightmare\macros\characters.cfg:225
+msgid "Picklock"
+msgstr "Отмычка"
+
+#. [unit]: id=dak, type=Troll Hero
+#: Captured_by_a_Nightmare\macros\characters.cfg:241
+msgid "Dak"
+msgstr "Дак"
+
+#. [unit]: id=nuk_gah, type=Troll Shaman
+#: Captured_by_a_Nightmare\macros\characters.cfg:262
+msgid "Nuk Gah"
+msgstr "Нук Гах"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:25
+msgid ""
+"Rark has advanced to his maximum level, but he still has custom advancements\n"
+"Sword: offensive attack +10% chance to hit, defensive attack -10% chance of being hit\n"
+"Crossbow: +4 damage"
+msgstr ""
+"Рарк продвинулся до своего максимального уровня, но у него также есть дополнительные улучшения\n"
+"Меч: +10% шанс попасть при нападении, +10% шанс уклониться при защите\n"
+"Арбалет: урон +4"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:29
+msgid ""
+"Bart has advanced to his maximum level, but he still has custom advancements\n"
+"Fangs: drains special\n"
+"Net: marksman special"
+msgstr ""
+"Барт продвинулся до своего максимального уровня, но у него также есть дополнительные улучшения\n"
+"Клыки: добавляется особенность <i>высасывать</i> здоровье\n"
+"Сеть: добавляется особенность <i>меткий</i>"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:33
+msgid ""
+"Bogarg has advanced to his maximum level, but he still has custom advancements\n"
+"New ability: adjacent friendly units -25% taken damage\n"
+"New ability: adjacent enemy units -8 HP per turn"
+msgstr ""
+"Богарг продвинулся до своего максимального уровня, но у него также есть дополнительные улучшения\n"
+"Новая способность: дружественные соседние бойцы -25% урона в бою\n"
+"Новая способность: вначале хода соседние враги -8 здоровья"
+
+#: Captured_by_a_Nightmare\macros\common_scenario_macro.cfg:37
+msgid ""
+"Nessa has advanced to her maximum level, but she still has custom advancements\n"
+"Plague staff: +3 damage, raises level 1 soulless\n"
+"Chill wave: slows special"
+msgstr ""
+"Нэсса продвинулась до своего максимального уровня, но у нее также есть дополнительные улучшения\n"
+"Чумной посох: урон +3, воскрешает Бездушных (уровень 1)\n"
+"Волна холода: <i>замедляет</i> врагов"
+
+#. [note]: description=<span color='#DC7DFF'>
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:8
+msgid "Early finish bonus: +$bonus_xp_multiplier XP per turn. $bonus_receivers_description|."
+msgstr "Бонус за быстрый финиш: +$bonus_xp_multiplier опыта за каждый оставшийся ход. $bonus_receivers_description|."
+
+#. [then]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:30
+msgid ""
+"Turns finished early: $early_finished_turns\n"
+"Early finish bonus: $bonus_xp_multiplier xp per turn\n"
+"Bonus per unit: $bonus_xp\n"
+"$bonus_receivers_description\n"
+""
+msgstr ""
+"Осталось ходов: $early_finished_turns\n"
+"Бонус за быстрый финиш: $bonus_xp_multiplier опыта за ход\n"
+"Бонус для каждого персонажа: $bonus_xp\n"
+"$bonus_receivers_description\n"
+""
+
+#. [event]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:63
+msgid "Bonus receivers: Rark, Bart, Bogarg"
+msgstr "Получатели бонуса: Рарк, Барт, Богарг"
+
+#. [event]
+#: Captured_by_a_Nightmare\macros\early_finish_bonus.cfg:74
+msgid "Bonus receivers: Rark, Bart, Bogarg, Nessa"
+msgstr "Получатели бонуса: Рарк, Барт, Богарг, Нэсса"
+
+#: Captured_by_a_Nightmare\macros\gold_system.cfg:8
+msgid "You have emerged victorious!"
+msgstr "Вы победили!"
+
+#. [note]: description=<span color='#FFFFC0'>
+#: Captured_by_a_Nightmare\macros\gold_system.cfg:20
+msgid "Recall cost: 8 gold for a level 0 unit, 16 for level 1, 24 for level 2, 32 for level 3."
+msgstr "Цена призыва: 8 золота за бойца нулевого уровня, 16 за первый уровень, 24 за второй, 32 за третий."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:17
+msgid "Amulet of Luck"
+msgstr "Амулет Удачи"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:19
+msgid "This amulet grants the wearer +10% defense"
+msgstr "Этот амулет дает +10% к защите"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:28
+msgid "lucky"
+msgstr "везучий"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:29
+msgid "female^lucky"
+msgstr "везучая"
+
+#. [dummy]: id=amulet_of_luck
+#: Captured_by_a_Nightmare\macros\items.cfg:30
+msgid "This unit wears amulet of luck which grants +10% defense"
+msgstr "Этот боец носит амулет удачи, который дает бонус +10% к защите."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:59
+msgid "Quiver of First Strike"
+msgstr "Колчан Мгновенной Стрельбы"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:61
+#: Captured_by_a_Nightmare\macros\items.cfg:82
+msgid "This quiver grants firstrike special for bows and crossbows."
+msgstr "Этот колчан дает возможность выстрелить первым из лука или арбалета даже при обороне."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:83
+msgid "quiver^Take it"
+msgstr "Взять"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:84
+msgid "quiver^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:85
+#: Captured_by_a_Nightmare\macros\items.cfg:176
+msgid "This item is suitable only for units with a bow or a crossbow."
+msgstr "Этот предмет подходит только для бойцов с луком или арбалетом."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:96
+msgid "Hoplite Arms"
+msgstr "Доспехи Гоплита"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:98
+msgid "Arms of a merman hoplite. Spear grants an extra attack. Buckler gives +15% blade, pierce and impact resistances."
+msgstr "Доспехи гоплита. Дополнительная атака копьем. +15% сопротивляемости к режущему, колющему и крущащему урону."
+
+#. [dummy]: id=hoplite_arms
+#: Captured_by_a_Nightmare\macros\items.cfg:104
+msgid "hoplite arms"
+msgstr "доспехи гоплита"
+
+#. [dummy]: id=hoplite_arms
+#: Captured_by_a_Nightmare\macros\items.cfg:105
+#: Captured_by_a_Nightmare\macros\items.cfg:135
+msgid "Spear grants an extra attack. Buckler gives +15% blade, pierce and impact resistances."
+msgstr "Дополнительная атака копьем. +15% сопротивляемости к режущему, колющему и крущащему урону."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:136
+msgid "hoplite_arms^Take it"
+msgstr "Взять"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:137
+msgid "hoplite_arms^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:138
+msgid "This item is suitable only for a unit with a spear."
+msgstr "Этот предмет подходит только для бойцов с копьем."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:149
+msgid "Spider's Poison"
+msgstr "Яд Паука"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:151
+#: Captured_by_a_Nightmare\macros\items.cfg:173
+msgid "This grease poisons bow or crossbow pierce attacks."
+msgstr "Этот артефакт делает атаки из лука или арбалета ядовитыми."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:174
+msgid "poison_arrow^Take it"
+msgstr "Взять"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:175
+msgid "poison_arrow^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:184
+msgid "Rark can now recruit assassins."
+msgstr "Теперь Рарк может вербовать отравителей."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:192
+msgid "Elemental Robe"
+msgstr "Плащ Элементалиста"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:194
+msgid "This robe grants the wearer 40% fire and cold resistances."
+msgstr "Этот плащ дает носителю +40% сопротивляемости к огню и холоду."
+
+#. [dummy]: id=elemental_robe
+#: Captured_by_a_Nightmare\macros\items.cfg:200
+msgid "elemental robe"
+msgstr "плащ элементалиста"
+
+#. [dummy]: id=elemental_robe
+#: Captured_by_a_Nightmare\macros\items.cfg:201
+msgid "Magical elemental robe provides 40% fire and cold resistances."
+msgstr "Магический плащ элементалиста предоставляет +40% сопротивляемости к огню и холоду."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:228
+msgid "This robe grants the wearer 40% fire and cold resistances"
+msgstr "Этот плащ дает носителю +40% сопротивляемости к огню и холоду."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:229
+msgid "elemental_robe^Wear it"
+msgstr "Одеть"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:230
+msgid "elemental_robe^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:235
+msgid "This unit already wears the rune armor and can't use the elemental robe."
+msgstr "Этот боец уже носит рунную броню и не может использовать плащ элементалиста."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:240
+msgid "Wolf can't wear the robe."
+msgstr "Волк не может одеть плащ."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:251
+msgid "Potion of Regeneration"
+msgstr "Зелье Регенерации"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:253
+msgid "This unit is now able to regenerate."
+msgstr "Этот боец получил способность регенерации."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:272
+msgid "One who drinks this potion will be able to regenerate."
+msgstr "Тот кто выпьет это зелье получает способность регенерации."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:273
+msgid "potion_regeneration^Drink it"
+msgstr "Выпить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:274
+msgid "potion_regeneration^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:275
+msgid "This unit already has regeneration ability."
+msgstr "У этого юнита уже есть способность регенерации."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:285
+msgid "Rune Armor"
+msgstr "Рунная Броня"
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:287
+msgid "This rune armor grants resistances: +30% for blade, pierce, impact and +10% for arcane, fire, cold."
+msgstr "Эта рунная броня предоставляет +30% сопротивляемости к режущему, колющему, крушащему урону и +10% к мистическому, огню, холоду."
+
+#. [dummy]: id=rune_armor
+#: Captured_by_a_Nightmare\macros\items.cfg:293
+msgid "rune armor"
+msgstr "рунная броня"
+
+#. [dummy]: id=rune_armor
+#: Captured_by_a_Nightmare\macros\items.cfg:294
+#: Captured_by_a_Nightmare\macros\items.cfg:325
+msgid "Rune armor grants resistances: +30% for blade, pierce, impact and +10% for arcane, fire, cold."
+msgstr "Рунная броня дает бонус сопротивляемости: +30% к режущему, колющему, крушащему и +10% к мистическому, огню, холоду."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:326
+msgid "rune_armor^Wear it"
+msgstr "Одеть"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:327
+msgid "rune_armor^Leave it"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:332
+msgid "This unit already wears the elemental robe and can't use the rune armor."
+msgstr "Этот боец уже носит плащ элементалиста и не может использовать рунную броню."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:337
+msgid "Wolf can't wear the armor."
+msgstr "Волк не может одеть броню."
+
+#. [object]
+#: Captured_by_a_Nightmare\macros\items.cfg:350
+msgid "This is a very expensive gem. Upkeep and recall cost of the unit will be free."
+msgstr "Цена содержания и последующего призыва этого бойца бесплатны."
+
+#. [dummy]: id={NAME}
+#: Captured_by_a_Nightmare\macros\items.cfg:357
+msgid "This unit has a gem. Unit's upkeep and recall cost are free."
+msgstr "У этого бойца есть драгоценный камень. Содержание и последующий призыв беслатны."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:387
+msgid "This is a very valuable gem. One who takes it becomes loyal and its recall cost in the next scenarios will be free."
+msgstr "Это очень редкий драгоценный камень. Тот кто возьмет его получит особенность </i>верный</i>, а также бесплатный призыв в следующих сценариях."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:388
+msgid "Take the gem"
+msgstr "Взять"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:389
+msgid "Leave the gem"
+msgstr "Оставить"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:397
+msgid "Leaders and heroes don't need this gem."
+msgstr "Лидерам и героем драгоценный камень не нужен."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:402
+msgid "Wolf can't take the gem."
+msgstr "Волк не может взять драгоценный камень."
+
+#: Captured_by_a_Nightmare\macros\items.cfg:411
+msgid "ruby"
+msgstr "рубин"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:411
+msgid "Ruby"
+msgstr "Рубин"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:415
+msgid "emerald"
+msgstr "изумруд"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:415
+msgid "Emerald"
+msgstr "Изумруд"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:419
+msgid "diamond"
+msgstr "бриллиант"
+
+#: Captured_by_a_Nightmare\macros\items.cfg:419
+msgid "Diamond"
+msgstr "Бриллиант"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:34
+#: Captured_by_a_Nightmare\macros\story.cfg:70
+msgid "<i>Captured by a Nightmare</i>"
+msgstr "<i>В Плену Кошмара</i>"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:35
+msgid ""
+"Campaign notes:\n"
+"Read carefully scenario objectives. Pay attention to abilities of custom units. Difficulty balance is one of the top priorities of this campaign. As a result, recall cost depends on a unit level and gold carryover is removed. Early finish gold bonus is replaced with experience bonus for the main characters, which have special AMLAs.\n"
+"\n"
+"Did you know that you can change a difficulty level in a mid-campaign? Select <i>change difficulty</i> checkbox in the bottom of the <i>Load Game</i> screen, it is available for a start of scenario saves.\n"
+"\n"
+"Have fun."
+msgstr "TODO переведено до сих пор"
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:43
+#: Captured_by_a_Nightmare\macros\story.cfg:49
+#: Captured_by_a_Nightmare\macros\story.cfg:56
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Hammer and the Anvil"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:45
+msgid "This story happened during the First Dark Age of Wesnoth. Orcs don't have official name for that period. However, that was a time when they significantly expanded their influence on the Great Continent."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:51
+msgid "To start a story, I have to tell you about Hushnak. He was strong, brave and smart. An orc with such traits can easily become a chieftain. He was born in Glamdrol, a large orcish city."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:58
+msgid "When Hushnak grew up and proved to be a capable leader, he decided to seize new territories and settled his tribe in the Heart Mountains. In 359 YW they built a small settlement in the western part of the Heart Mountains. What was really strange, Hushnak loved a peaceful life in the mountains more than a battle."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:71
+msgid "Hushnak married Vadasha, a healthy and resilient orcish woman. Soon their son Rark was born. Hushnak, Vadasha and Rark lived two years of happy life. But soon their sweet dream will be ended."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:81
+#: Captured_by_a_Nightmare\macros\story.cfg:95
+#: Captured_by_a_Nightmare\macros\story.cfg:102
+#: Captured_by_a_Nightmare\macros\story.cfg:109
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Tribute"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:83
+msgid "Bart managed to escape the siege and brought Rark to Glamdrol. They were saved. In Glamdrol they meet Erurag, an old friend of Hushnak. Erurag accepted Bart and Rark into his tribe."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:97
+msgid "13 years have passed. Rark hasn't yet participated in battles. However, he was a good hunter. He thought that it would be very important for him to learn how to track down the prey and survive in the wild."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:104
+msgid "Rark had insomnia and nightmares, he asked young shaman Bogarg to heal him. Bogarg couldn't help, at least he kept Rark's problem in a secret. This marked the beginning of their friendship."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:111
+msgid "Erurag got attached to Rark and wanted him to become a great warrior one day. For now he decided to give Rark a small assignment. Erurag sent Rark to collect a tribute from a nearby human village. Last year Erurag has already visited that village. \"It would be an easy task. Take half of their gold and don't kill the village head during the negotiations. He is a good business partner - said Erurag\"."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:126
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Nightmare"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:128
+msgid "Rark often has nightmares that exhaust his soul and body. Sometimes it seems to him that even his reality is a nightmare. Now we are going to dive into one of such dreams."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:137
+#: Captured_by_a_Nightmare\macros\story.cfg:143
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Wolf's Lair"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:139
+msgid "Erurag sought to strengthen his army and he accepted an idea suggested by Bart. They wanted to tame wolves and use them on the battlefield. Goblins, fairly weak and fragile creatures, could learn to ride the tamed wolves."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:145
+msgid "Bart knew that a large number of wolves live in the Wesmere Forest. Erurag commissioned Rark to lead the expedition. Orcs easily found a wolf lair. But besides the wolves they met someone else."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:160
+#: Captured_by_a_Nightmare\macros\story.cfg:166
+#: Captured_by_a_Nightmare\macros\story.cfg:172
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Competition"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:162
+msgid "More and more, orcs fought their foes and won. To celebrate their successes, Erurag and his friend Grolo arranged a feast for their tribes."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:168
+msgid "They were already very drunk when their conversation was interrupted by a strange creature, nagini Amailis, who suddenly burst into the hall. Amailis said that merfolk expelled nagas from the bay, which served as their home. Erurag offered his help, but in return, Amailis must swear allegiance to him and stand under his command. Grolo interrupted her answer. He said that his tribe is stronger than Erurag's tribe, and he will help Amailis under the same conditions."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:174
+msgid "Drunken leaders almost started a fight, but Bogarg entered the conversation. Prudent shaman suggested the following plan - both Erurag and Grolo will help Amailis. After that, nagas will join a tribe which has defeated more enemies during the battle. Everyone agreed with this."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:188
+#: Captured_by_a_Nightmare\macros\story.cfg:194
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Backdoor"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:190
+msgid "Erurag's scouts found an extraordinary fortress on the outskirts of the Wesmere Forest. The fortress is surrounded by the magic wall, they said. A talented mage founded a school in the fortress. He hired elves and build the wall to protect the school. Rumor has it the mage supports the wall by his powers, thus the wall will be fallen once the mage if defeated."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:196
+msgid "The magic wall is impregnable. But the fortress still has a weakness - a dungeon that may be entered from the outside of the walls. Erurag wanted to capture the stronghold and settle a base there. He developed a plan - while his forces will lure out and distract elves and mages, Rark must get through the dungeon and defeat the mage."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:213
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"Escaping The Nightmare"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:215
+msgid "It seems that Rark lives a good life as an orc. But there is an emptiness in his soul. The past haunts him. He has a keen desire to break the chains of his nightmares."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:226
+#: Captured_by_a_Nightmare\macros\story.cfg:232
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"A Friend of My Enemy"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:228
+msgid "Two decades have passed since Bart fled from the Heart Mountains. Now he was returning there .. he felt fear in the depths of his soul, although he did not show it. All this time he tried to forget what happened in the mountains, his memories were shrouded in mist. Rark, on the contrary, felt devilish joy. He didn't know if he will survive, He had a hunch - whatever the end of their journey, his nightmares would soon end."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:234
+msgid "After some time wandering in the mountains, the travelers came to a settlement. It was inhabited by a variety of creatures and located in a picturesque place. But could Rark appreciate this beauty, especially now?"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:253
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Flaming Stone"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:255
+msgid "Orcs advanced into the mountains, only occasionally they met wild animals and no signs of dwarves. Some of them began to doubt the success of the campaign. One day the fate gave them a chance and brought them together with friends in misfortune."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:270
+#: Captured_by_a_Nightmare\macros\story.cfg:276
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"Greediness"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:272
+msgid "Trolls showed the way to the cave. When the party arrived, they saw dwarves working hard and mining precious minerals. Rark could achieve several goals at once - give trolls their home, make an alliance with them and plunder their common foe."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:278
+msgid "Travelers entered the cave. Trolls were surprised at how significantly dwarves changed the cave for such a short period. The smell of greediness was there in the air."
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:291
+msgid ""
+"<i>Captured by a Nightmare</i>\n"
+"The Nightmare: Colosseum"
+msgstr ""
+
+#. [part]
+#: Captured_by_a_Nightmare\macros\story.cfg:293
+msgid "Rark fanatically wanted revenge. It is ridiculous for him to doubt why he wants it. However, are there any real goals behind his actions? Or is it an endless series of pain, suffering and death without any purpose?"
+msgstr ""
+
+#. [time]: id=cloudy_dawn
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:8
+msgid "Cloudy Dawn"
+msgstr ""
+
+#. [time]: id=cloudy_morning
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:21
+msgid "Cloudy Morning"
+msgstr ""
+
+#. [time]: id=cloudy_afternoon
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:33
+msgid "Cloudy Afternoon"
+msgstr ""
+
+#. [time]: id=cloudy_dusk
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:45
+msgid "Cloudy Dusk"
+msgstr ""
+
+#. [time]: id=cloudy_first_watch
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:59
+msgid "Cloudy First Watch"
+msgstr ""
+
+#. [time]: id=cloudy_second_watch
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:71
+msgid "Cloudy Second Watch"
+msgstr ""
+
+#. [time]: id=nightmare_day_1
+#. [time]: id=nightmare_day_2
+#. [time]: id=nightmare_day_3
+#. [time]: id=nightmare_day_4
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:93
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:102
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:113
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:124
+msgid "Day"
+msgstr ""
+
+#. [time]: id=nightmare_dusk_1
+#. [time]: id=nightmare_dusk_2
+#. [time]: id=nightmare_dusk_3
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:135
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:147
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:158
+msgid "Dusk"
+msgstr ""
+
+#. [time]: id=nightmare_night_1
+#. [time]: id=nightmare_night_2
+#. [time]: id=nightmare_night_3
+#. [time]: id=nightmare_night_4
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:169
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:180
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:192
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:204
+msgid "Night"
+msgstr ""
+
+#. [time]: id=nightmare_eternal_night
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:216
+msgid "Eternal night"
+msgstr ""
+
+#. [time]: id=rainy_day
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:259
+msgid "Rainy Day"
+msgstr ""
+
+#. [time]: id=bright_indoors
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:317
+msgid "Bright Indoors"
+msgstr ""
+
+#. [time]: id=dark_indoors
+#: Captured_by_a_Nightmare\macros\time_schedules.cfg:328
+msgid "Dark Indoors"
+msgstr ""
+
+#. [set_menu_item]: id=unit_marker_leader
+#. [set_menu_item]: id=unit_marker_hero
+#. [set_menu_item]: id=unit_marker_loyal
+#. [set_menu_item]: id=unit_marker
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:38
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:57
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:76
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:109
+msgid "Mark Unit"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:50
+msgid "Leader can't be marked."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:69
+msgid "Hero can't be marked."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:102
+msgid "Loyal unit can't be marked."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:121
+msgid "What color do you wish to use for this unit?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:122
+msgid "Silver"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:123
+msgid "Black"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:124
+msgid "Red"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:125
+msgid "Green"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:126
+msgid "Blue"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:127
+msgid "Clear icon"
+msgstr ""
+
+#. [option]
+#: Captured_by_a_Nightmare\macros\unit_marker.cfg:129
+msgid "Go Back"
+msgstr ""
+
+#. [scenario]: id=01_the_hammer_and_the_anvil
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:18
+msgid "The Hammer and the Anvil"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:47
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:309
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:240
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:301
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:349
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:395
+msgid "Dwarves"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:85
+msgid "Pelamthas"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:86
+msgid "Aigaling"
+msgstr ""
+
+#. [side]
+#. [modify_side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:99
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:168
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:29
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:97
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:34
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:34
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:52
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:334
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:85
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:107
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:229
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:775
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:32
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:51
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:29
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:67
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:45
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:110
+msgid "Grunk"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:125
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:295
+msgid "Animals"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:190
+msgid "Survive until the end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:195
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:340
+msgid "Death of Hushnak"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:199
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:344
+msgid "Death of Vadasha"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:212
+msgid "Note that in this campaign goblins can advance up to the second level."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:222
+msgid "Chieftain, dwarves surrounded us. They appeared out of nowhere."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:223
+msgid "That was expected. We didn't fight them for a long time. Go to your post and start you war cry, trumpeter!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:231
+msgid "I have a bad feeling."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:232
+msgid "I am here with you, you don't need to worry."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:235
+msgid "Well, we've surrounda' those pigs. It'a goodish time to slaught'a them. Pelamthas, show what ye've got."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:236
+msgid "Aye, milord. Read'ye! Aim! Fire!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:242
+msgid "That was close."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:244
+msgid "Grandpa, why you didna' fire?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:245
+msgid "I canna' figure out this thin'."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:246
+msgid "I've trained ya ..."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:255
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:353
+msgid "Wake up warrior, or you will oversleep the battle!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:256
+msgid "Going to position, chief."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:262
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:278
+msgid "Read'ye! Aim! Fire!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:271
+msgid "Grandpa ... I willna' forgive myself ... "
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:272
+msgid "Pelamthas, it's a honour to di'ya on the battlefield. Your .. how you call them .. cannons - a' splendid! "
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:272
+msgid "But they'r too valuable for an inept hands."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:290
+msgid "Ha-ha-ha, so much fun! Enough I thin', our man are approachin' their walls."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:300
+msgid "Hear'a the reinforcements. I've tired of waitin'."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:307
+msgid "Hushnak, there are too many of them."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:308
+msgid "Bart, I have a task for you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:313
+msgid "Waiting for your orders, chief Hushnak."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:314
+msgid "To flee from the battlefield is unworthy of an orc. But my son is too small to fight. Take Rark and go to Glamdrol. You are responsible for his life. If you fail, I will find you even in hell."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:315
+msgid "Hushnak, Bart is our son's last hope. Send more riders to protect him."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:316
+msgid "Right."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:317
+msgid "I have something for you, Bart. This amulet will help you. When Rark will grow up, tell him about us and give him this amulet."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:320
+msgid "Thank you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:321
+msgid "I know their leader, his name is Uritbor. Remember that name. Now run, run faster than the wind!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:322
+msgid "Chief, you can count on me. I will not fail."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:332
+msgid "Survive until Bart escapes to the sign in the south-western part of the map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:336
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:183
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:159
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:396
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:462
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:793
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1024
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1102
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1230
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:138
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:225
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:599
+msgid "Death of Bart"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:358
+msgid "Hmm.. These orcs are fightin' like real berserks, but their end is nea'. My reinforcements are comin'."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:372
+msgid "Goodbye, son."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:373
+msgid "Hey, they'a tryin' to escape! Send the gryphons."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:419
+msgid "<i>flap flap</i>"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:446
+msgid "<i>zzzsshhhh</i>"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:480
+msgid "I am wounda'. Warriors, keep fightin'!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:498
+msgid "Bart looks back for a moment."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:499
+msgid "Damned dwarves, burn in hell."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:500
+msgid "He escaped!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:501
+msgid "Our son is saved."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:513
+msgid "No! We had to hold the dwarves and give Bart the opportunity to escape!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:524
+msgid "Don't die ..."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\01_the_hammer_and_the_anvil.cfg:535
+msgid "Oh no!"
+msgstr ""
+
+#. [scenario]: id=02_the_tribute
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:6
+msgid "The Tribute"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:48
+msgid "Peasants"
+msgstr ""
+
+#. [unit]: type=cban Villager, id=village_head
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:66
+msgid "Yraec"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:84
+msgid "Horsemen"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:113
+msgid "Archers"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:175
+msgid "Defeat all horsemen and archers"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:179
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:155
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:392
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:458
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:789
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1020
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1098
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1226
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:134
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:221
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:595
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:270
+msgid "Death of Rark"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:187
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:163
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:400
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:466
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:797
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1028
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1106
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1234
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:142
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:229
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:603
+msgid "Death of Bogarg"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:191
+msgid "Death of Yraec (village head)"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:196
+msgid "The weather is cloudy. Lawful bonus is lower and chaotic bonus is higher than usual."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:199
+msgid "Leader of archers will drop loot useful for a unit with a bow or a crossbow."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:207
+msgid "Who is in charge here?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:208
+msgid "I am Yraec, head of this village. What do you want, orcs?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:209
+msgid "Erurag sent us. He wants half of your gold. The same conditions as last year."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:210
+msgid "Last year you took us by surprise. This time we have prepared. Men, to arms!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:219
+msgid "In vain you start it, village head. Now I have to take your head off."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:220
+msgid "Chief Erurag ordered to not kill him."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:221
+msgid "Chief thought they will give us a warmer welcome. Now we don't have much choice."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:222
+msgid "I will share with you one important military wisdom - obey the orders. Now you are young, but you will get it later."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:223
+msgid "Hm ... Village head, I'll tell you what will happen now. We will defeat all your archers. We will defeat all your horsemen. Also, we will defeat any civilian who will make a miserable attempt to attack us. After that you will either give us the gold or I'll take it by force along with your head. I will make a good cup out of it. I prefer the second option, but you will have a chance to decide."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:224
+msgid "I will not listen to this pitiful orc. Men, protect our village. Death to the orcs!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:225
+msgid "Negotiations failed."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:226
+msgid "Rark, Bogarg, be careful."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:227
+msgid "Let's finish them. It is good that the sky is cloudy and the sun will not blind us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:235
+msgid "Die, bastard!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:236
+msgid "Ha-ha-ha."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:274
+msgid "Our defenders have fallen, we are doomed."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:285
+msgid "What is your decision, village head?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:286
+msgid "Take the gold."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:294
+msgid "Pray to your gods that Erurag will not punish you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:295
+msgid "You got the gold, now leave us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:295
+msgid "We should move closer to Elensefar, orcs are expanding their territories."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:296
+msgid "Rark, you showed yourself as a talented leader."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:308
+msgid "Rark now has a leadership ability."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:309
+msgid "I can't say that it was an easy task. At least we are alive."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:310
+msgid "We are going back to Glamdrol."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:336
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:378
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:922
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:942
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1416
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:199
+msgid "Rark, I had to protect you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:347
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:389
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:933
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:953
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1427
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:210
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:670
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:976
+msgid "Bart, don't leave us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:358
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:400
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:944
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:964
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1438
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:221
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:681
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:987
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:735
+msgid "Bogarg, don't leave us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\02_the_tribute.cfg:369
+msgid "We shouldn't have killed him."
+msgstr ""
+
+#. [scenario]: id=03_the_nightmare
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:22
+msgid "The Nightmare"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:52
+msgid "Soul reapers"
+msgstr ""
+
+#. [unit]: type=Spectre
+#. [unit]: type=Wraith
+#. [unit]: type=Shadow
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:62
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:70
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:81
+msgid "Reaper"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:160
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:87
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:226
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:65
+msgid "Trolls"
+msgstr ""
+
+#. [unit]: id=troll_leader, type=Troll Hero
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:173
+msgid "Bog Goh"
+msgstr ""
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:215
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:583
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:783
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1010
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1092
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:120
+msgid "This scenario is Rark's nightmare"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:217
+msgid "Defeat Hushnak and Vadasha before Bart escapes to the south-western part of the map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:221
+msgid "Bart escaped and Hushnak is still alive"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:225
+msgid "Bart escaped and Vadasha is still alive"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:229
+msgid "Death of your leader is NOT a defeat condition."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:232
+msgid "Bart is invulnerable in this scenario. Your attacks will not hit him."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:235
+msgid "Time doesn't progress in this scenario as usual. When orc or troll dies time of day becomes +5% more chaotic, until it reaches 30% chaotic."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:321
+msgid "Today we will reap a rich harvest."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:322
+msgid "That won't be easy!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:323
+msgid "Run Bart and don't look back."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:324
+msgid "They won't get me, Rark will be saved."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:325
+msgid "The time of the wolf rider and the orcish whelp has not come yet. But they will witness of how their family goes away."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:333
+msgid "We can't take him yet."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:349
+msgid "Hushnak, I can't live without you."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:350
+msgid "You will be together soon."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:353
+msgid "Vadasha, I am coming to you."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:354
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:376
+msgid "So be it."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:355
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:377
+msgid "I wish this nightmare is over."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:371
+msgid "Let her live!"
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:372
+msgid "Don't worry. You will be together soon."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:375
+msgid "My love, I am coming to you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\03_the_nightmare.cfg:395
+msgid "He run away too early."
+msgstr ""
+
+#. [scenario]: id=04_the_wolfs_lair
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:6
+msgid "The Wolf's Lair"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:54
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:133
+msgid "Wolves"
+msgstr ""
+
+#. [unit]: id=alpha, type=cban Great Wolf
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:66
+msgid "Alpha"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:86
+msgid "Skinners"
+msgstr ""
+
+#. [unit]: id=skinner_leader, type=Ranger
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:125
+msgid "Middry"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:133
+msgid "Tharvan"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:137
+msgid "Larka"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:151
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:361
+msgid "Defeat all enemy units"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:167
+msgid "Death of Alpha (leader of wolves)"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:172
+msgid "Skinners get $gold_for_wolf gold for each killed wolf."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:175
+msgid "At the end of this scenario all surviving wolves join Rark and become loyal. This is the only scenario where you can recruit wolves. Later you can only recall them."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:247
+msgid "There is a hole leading to the wolf's lair, but it is too narrow for a human.."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:252
+msgid "Hey, don't touch wolves. We have our own plans for them."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "Hello, dear orcs. What plans do you have?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "looks at Bart"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:253
+msgid "I think I understood. Usually I sell a wolfskin for $gold_for_wolf gold. But for you, nice orcs, I will make a special offer. For the same price I will sell you two alive wolves. Just wait until we capture them. What do you think? It is a very good price!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:254
+msgid "I have a counter offer, kind skinners. Either you will get out of here quickly. Or I will skin you alive and feed it to the wolves. What do you think?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:255
+msgid "We don't want troubles. We are merchants, not warriors. Though, as you could see, we are numerous and we can handle weapons."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:256
+msgid "Stop your politician speeches, Middry. I have never fight with an orc before. I wonder how strong their bones are and what is the color of their blood."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:257
+msgid "You are a lucky orc, Rark. You either harden yourself in these clashes, or leave this world early. And the same will happen to all of us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:258
+msgid "This is my last proposition - three wolves for $gold_for_wolf gold."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:259
+msgid "I will skin you for free. Orcs, show them no mercy!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:268
+msgid "These wolves are slightly different from mainline units. Pay attention to their ability. A wolf is stronger when there are other wolves next to it."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:273
+msgid "We must save as many wolves as possible. They will become loyal and never leave us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:289
+msgid "Here you are, buddy."
+msgstr ""
+
+#. [event]: id=wolf_cant_release
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:307
+msgid "Wolf tries to release its kind.. with no success."
+msgstr ""
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:324
+msgid "+$gold_for_wolf gold"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:338
+msgid "What a good business I had, these nasty orcs ruined everything."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:354
+msgid "Wolves are saved, we completed our mission."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\04_the_wolfs_lair.cfg:411
+msgid "That was their leader, we shouldn't have allowed his death."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:12
+msgid "The Competition"
+msgstr ""
+
+#. [unit]: id=grolo, type=Orcish Warlord
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:89
+msgid "Grolo"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:103
+msgid "Rogdush"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:145
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:214
+msgid "Merfolk"
+msgstr ""
+
+#. [unit]: type=Merman Hoplite, id=merman_leader
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:196
+msgid "Dhakhan"
+msgstr ""
+
+#. [unit]: type=Mermaid Enchantress, id=mermaid_leader
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:259
+msgid "Galatea"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:273
+msgid "Nagas"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:365
+msgid "Defeat more enemies than Grolo's tribe"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:369
+msgid "Your score = $erurag_score"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:373
+msgid "Grolo's score = $grolo_score"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:380
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:454
+msgid "Death of Erurag"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:384
+msgid "Death of Grolo"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:388
+msgid "Death of Amailis"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:405
+msgid "Dhakhan will drop loot useful for units with a spear."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:408
+msgid "Dhakhan's units require <b>30% less</b> experience than usual to advance."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:411
+msgid "Galatea's units require <b>30% more</b> experience than usual to advance."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:604
+msgid "We are back and we want justice."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:605
+msgid "Dhakhan, didn't you pay nagas for this bay, as we agreed?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:606
+msgid "Madam, I paid them, as we agreed."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:607
+msgid "Amailis, what does it mean? They paid you for this territories? Don't try to fool us!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:608
+msgid "They paid us with their steel, not gold. And now we are here to pay them the same price."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:609
+msgid "You didn't give me a reason to doubt you. I expect you won't give any reasons in the future as well."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:610
+msgid "Madam, don't listen to nagas, they are liars."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:611
+msgid "Dhakhan, we will continue this conversation later. Now we have to defend ourselves."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:612
+msgid "Yes, madam!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:613
+msgid "I am not sure they will have a chance to continue this conversation."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:622
+msgid "Chief Erurag, we came under your command by order of Amailis. We know this bay and will give you any help you need."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:623
+msgid "Excellent, your help will be handy."
+msgstr ""
+
+#. [then]
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:695
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:698
+msgid "The first is ours!"
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:750
+msgid "We are leading! 3:$lagging_score in our favor."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:751
+msgid "We are ahead with 5:$lagging_score points."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:752
+msgid "We have 10 points. The other team has only $lagging_score|. It will be difficult further. What number comes after ten?"
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:753
+msgid "15:$lagging_score in our favor."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:754
+msgid "20:$lagging_score in our favor."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:755
+msgid "30:$lagging_score in our favor."
+msgstr ""
+
+#. [scenario]: id=05_the_competition
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:756
+msgid "50:$lagging_score in our favor."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:800
+msgid "It's your fault, Dhakhan."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:803
+msgid "It is Dhakhan's fault."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:814
+msgid "I have not fulfilled my duty."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:826
+msgid "Victory! We won with a score of $erurag_score|:$grolo_score|"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:827
+msgid "I hate to lose."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:836
+msgid "Thank you, Erurag. Nagas will be honored to serve you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:837
+msgid "Excellent. Together we will be even stronger."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:855
+msgid "We lost the competition. Final score $grolo_score|:$erurag_score| in Grolo's favor."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:856
+msgid "We had to fight harder."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:859
+msgid "Draw. Final score $erurag_score|:$grolo_score|"
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:860
+msgid "We needed an indisputable victory."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:955
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:931
+msgid "We can not cope without our chieftain."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:966
+msgid "I can't believe it. Grolo was the strongest warrior I ever knew."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\05_the_competition.cfg:977
+msgid "What a shame, we could make a great alliance."
+msgstr ""
+
+#. [scenario]: id=06_the_backdoor
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:57
+msgid "The Backdoor"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:129
+msgid "Mage"
+msgstr ""
+
+#. [unit]: type=White Mage, id=mage_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:158
+msgid "Aethuc"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:175
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:246
+msgid "Elves"
+msgstr ""
+
+#. [unit]: type=Elvish Captain, id=elvish_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:204
+msgid "Delithrar"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:220
+msgid "Woses"
+msgstr ""
+
+#. [unit]: type=Elder Wose, id=wose_leader
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:246
+msgid "Buomdu"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:260
+msgid "Spiders"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:293
+msgid "Golems"
+msgstr ""
+
+#. [side]
+#. [unit_type]: id=cban Magic Wall, race=mechanical
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:332
+#: Captured_by_a_Nightmare\units\Magic_Wall.cfg:5
+msgid "Magic Wall"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:342
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:71
+msgid "Prisoners"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:358
+msgid "Erurag, I am grateful to you. I want to show you my respect. Only the strongest warriors can use this sword, please take it."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:364
+msgid "Hint: This is the last scenario with Erurag. It may be wiser to give this sword to another unit."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:366
+msgid "Excellent. This is a good place for a camp. We can cut some wood and hunt animals while those cowards are trembling behind the walls."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:367
+msgid "Those dirty orcs will kill my forest, I will not allow that to happen."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:368
+msgid "It seems there are not so many of them. What do you think, Delithrar? This may be a good opportunity for our men to get a battle experience."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:369
+msgid "I agree. Warriors and mages, go outside the wall and feed those marauders with arrows and fireballs."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:370
+msgid "So far so good. Orcs, enter the dungeon once Picklock breaks the gates. We must hurry. Picklock, are you ready?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:371
+msgid "No problem, chief."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:392
+msgid "Defeat Aethuc"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:401
+msgid "Defeat Delithrar"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:410
+msgid "Explore the dungeon"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:422
+msgid "Release all prisoners"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:444
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1032
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1110
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1238
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:146
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:233
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:607
+msgid "Death of Nessa"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:470
+msgid "Death of Picklock"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:475
+msgid "Picklock (the loyal goblin on the Rark's side) can open the dungeon gates."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:478
+msgid "In this scenario each village provides upkeep support for 3 unit levels. Village income is 1 gold as usual."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:582
+msgid "Piece of cake. What is the point of an unbreakable wall if you have such flimsy backdoor?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:632
+msgid "We need to release the prisoner, she may help us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:658
+msgid "There is one more prisoner."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:684
+msgid "Orcs?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:685
+msgid "Have you waited for someone else here?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:686
+msgid "Anyway that's good you are here."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:687
+msgid "And how did you get here?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:688
+msgid "That mage.. He hurt a woman, who hired me to shorten his ... life. But I was captured and thrown in this cage."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:692
+msgid "We have already defeated him."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:693
+msgid "I hope it was a painful death."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:697
+msgid "Now you have a chance to finish your job."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:725
+msgid "I am so glad you released me."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:726
+msgid "Why are you imprisoned here?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:727
+msgid "I was one of Aethuc's students. But I have some unpopular talents, you know.."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:744
+msgid "Let me show you."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:752
+msgid "Warrior, rise and fight!"
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:763
+msgid "Wow! That's impressive!"
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:766
+msgid "Necromancy, I see."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:770
+msgid "Will you join us?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:771
+msgid "You saved my life. Be good to me and I won't leave you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:772
+msgid "Nessa is a new hero in your team. Don't let her die."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:804
+msgid "What? Guard, attack the intruders. They have fooled us, I will personally slain them!"
+msgstr ""
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:845
+msgid "Merudda, I asked you to forgive me a thousand times.."
+msgstr ""
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:846
+msgid "This is the last time, you villain."
+msgstr ""
+
+#. [event]: id=mage_merudda_fight
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:847
+msgid "Now I see who is that woman who hired her."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:855
+msgid "What a pity. Nagas can count on me, now I am their leader."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:873
+msgid "Is this the end?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:874
+msgid "No doubts, buddy."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:887
+msgid "Look, the wall has fallen!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:895
+msgid "I shouldn't have left my village. What a dishonourable death. A miserable mercenary ... "
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:906
+msgid "The stronghold is ours! I am proud of you Rark."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:975
+msgid "We shouldn't have allowed this to happen."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\06_the_backdoor.cfg:986
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1449
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:232
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:692
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:998
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:743
+msgid "Nessa!"
+msgstr ""
+
+#. [scenario]: id=07_escaping_the_nightmare
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:85
+msgid "Escaping The Nightmare"
+msgstr ""
+
+#. [unit]: id=elvish_leader, type=Elvish Champion
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:265
+msgid "Varas"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:383
+msgid "Undead"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:414
+msgid "The Enemy"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:544
+msgid "Surround the wolves, quickly!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:558
+msgid "Orcs are coming!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:572
+msgid "Who dared to wake us up?"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:585
+msgid "Move Rark and Bart into the cave"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:589
+msgid "Death of Rark (the wolf)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:593
+msgid "Death of Bart (the wolf)"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:754
+msgid "Campfire Fake Unit"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:778
+msgid "Bogarg, what is going on here?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:779
+msgid "No time to talk, we must hurry. Water is flooding the cave!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:785
+msgid "Find the exit"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1006
+msgid "Hurry up!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1012
+msgid "Move Rark, Bart and Bogarg into the Nessa's room"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1016
+msgid "Nessa must be inside her room"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1062
+msgid "Rark, it's time to open the door and see what's behind it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1094
+msgid "Move Rark to the door"
+msgstr ""
+
+#. [label]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1135
+msgid "The Great Tree"
+msgstr ""
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1152
+msgid "I can't."
+msgstr ""
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1153
+msgid "Believe me, you are the only one who can open it."
+msgstr ""
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1209
+msgid "Ha - ha!"
+msgstr ""
+
+#. [event]: id=open_cave_door
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1210
+msgid "What does that mean?"
+msgstr ""
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1214
+msgid ""
+"This scenario is Rark's nightmare\n"
+"\n"
+"Each turn death spreads across the forest. Defeat the enemy leader before the Great Tree near your castle dies."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1218
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1222
+msgid "Death of the Great Tree"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1242
+msgid "Rark can recruit now."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1300
+msgid "I feel a black power coming from the enemy castle. It kills the forest."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1467
+msgid "The Great Tree died."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\07_escaping_the_nightmare.cfg:1478
+msgid "Finally it's over!"
+msgstr ""
+
+#. [scenario]: id=08_the_time_has_come
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:6
+msgid "The Time Has Come"
+msgstr ""
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:87
+msgid ""
+"All recalled units will go with you.\n"
+"The rest of the recall list will stay with Erurag."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:90
+msgid "Recall units you want to take with you"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:94
+msgid "End turn"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:237
+msgid "Erurag, thank you for all you have done for me. The time has come. I have to find the murderer of my parents and avenge all of my tribe."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:238
+msgid "I understand, you are a ready. You must understand me too, I cannot send all my veterans with you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:239
+msgid "I am going with you, Rark."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:240
+msgid "And I will join you, my friend."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:246
+msgid "Me too. What about you, Merudda?"
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:247
+msgid "Of course I will go with you, if you will pay me."
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:255
+msgid "Recall Merudda if you want her to join your party."
+msgstr ""
+
+#. [else]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:258
+msgid "Me too."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:265
+msgid "The wolves are loyal to us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:266
+msgid "It's time to prepare for the journey."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:272
+msgid "Good hunting, Rark! I would be happy if you return to my tribe when you are done. Or will you lead your own tribe?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:273
+msgid "We'll see. Bart, show the way."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\08_the_time_has_come.cfg:274
+msgid "With pleasure."
+msgstr ""
+
+#. [scenario]: id=09_a_friend_of_my_enemy
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:6
+msgid "A Friend of My Enemy"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:48
+msgid "Alliance"
+msgstr ""
+
+#. [unit]: type=Fugitive, type=Outlaw, id=alliance_leader
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:69
+msgid "Vaella"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:130
+msgid "Defeat Vaella"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:151
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:283
+msgid "In this scenario each village provides 2 income gold. Village upkeep support is 1 unit level as usual."
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:154
+msgid "Enemy units will not move out of their villages."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:175
+msgid "Hi there, dwarves and outlaws. Do you know Uritbor? I have a message for him."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:176
+msgid "I know Uritbor. I doubt you have good intentions. What is the message?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:177
+msgid "I need to deliver it in person."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:178
+msgid "I don't believe you. Uritbor is my friend, I won't let you move further."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:179
+msgid "So, he is your friend? I like that. My people are very hungry and I see a lot of meat here."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:180
+msgid "Rark, you are the master of threat. You have talent, no kidding."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\09_a_friend_of_my_enemy.cfg:189
+msgid "I hope you will find king Uritbor and he will defeat you."
+msgstr ""
+
+#. [scenario]: id=10_the_flaming_stone
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:44
+msgid "The Flaming Stone"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:106
+msgid "Drakes"
+msgstr ""
+
+#. [unit]: id=drake_leader, type=Armageddon Drake
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:119
+msgid "Gelslar Elch"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:197
+msgid "Dak has unique <i>terror</i> ability. He can frighten adjacent enemies, making them fight worse."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:206
+msgid "Note that Nuk Gah has third level advancement."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:216
+msgid "Enslave $goal_drakes_slaved drakes by capturing their villages"
+msgstr ""
+
+#. [objectives]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:219
+msgid "Defeat Gelslar Elch"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:237
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:611
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:278
+msgid "Death of Dak"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:241
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:615
+msgid "Death of Nuk Gah"
+msgstr ""
+
+#. [set_menu_item]: id=a_slave_info_escaped
+#. [set_menu_item]: id=a_slave_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:278
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:295
+msgid "Slave Info"
+msgstr ""
+
+#. [message]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:289
+msgid "This slave has escaped. Attack it to move it back under your control."
+msgstr ""
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:305
+msgid "This slave has more than 2 adjacent guardians and it can't escape."
+msgstr ""
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:306
+msgid "This slave has 2 adjacent guardians and its chance to escape is 10%."
+msgstr ""
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:307
+msgid "This slave has 1 adjacent guardian and its chance to escape is 30%."
+msgstr ""
+
+#. [command]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:308
+msgid "This slave has no adjacent guardians and it will escape."
+msgstr ""
+
+#. [set_menu_item]: id=b_scenario_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:316
+msgid "Scenario Info"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:321
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:435
+msgid "In this scenario, when you capture a village it will be destroyed and you will get one Drake Slave unit. Each Drake Slave produces 2 gold per turn. Drake Slave may escape, it is IMPORTANT to read description of the unit to understand how chances to escape are calculated. Right click on a Drake Slave unit and choose <i>Slave Info</i> to show its chances to escape. Choose <i>Scenario Info</i> and <i>Slavery Info</i> menu items for additional information."
+msgstr ""
+
+#. [set_menu_item]: id=c_slavery_info
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:327
+msgid "Slavery Info"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:346
+msgid ""
+"Drakes enslaved: $($orcs_slaves.length + $trolls_slaves.length). Scenario goal: $goal_drakes_slaved\n"
+"Rark's slaves: $orcs_slaves.length. Orcs +$(2 * $orcs_slaves.length) gold per turn\n"
+"Dak's slaves: $trolls_slaves.length. Trolls +$(2 * $trolls_slaves.length) gold per turn"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:368
+msgid "Trolls are fighting with drakes. We can get allies here."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:369
+msgid "Hi, trolls. Do you need help?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:370
+msgid "Yes. Trolls in troubles. Dwarves attacked and killed many trolls, beasts with wings attacked trolls."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:371
+msgid "Dwarves killed many trolls?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:372
+msgid "Trolls and dwarves neighbours, lived in the caves. Dwarves found gems in troll's cave. Dwarves banished trolls. Trolls went to the surface. Beasts with wings attacked trolls."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:373
+msgid "Drakes."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:374
+msgid "Do you know a dwarf named Uritbor?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:375
+msgid "Uritbor dwarvish king banished trolls."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:376
+msgid "We are here to find and kill him. I offer you to go back to the cave and defeat dwarves together."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:377
+msgid "Dak agree."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:378
+msgid "Drakes will not let us go."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:379
+msgid "Drakes, do you agree to stop this senseless slaughter? Trolls will go to their cave."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:380
+msgid "They have killed my people. The will answer for this crime."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:381
+msgid "Dak smashed beasts."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:382
+msgid "We are in a difficult situation, Rark. Drakes are numerous. Their villages are located high in the mountains, it would be difficult to capture and hold them."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:383
+msgid "Drake, this is the last time I am offering truce. Agree or you will regret."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:384
+msgid "Orcs, if you will help the trolls, we will attack you too."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:385
+msgid "I will burn your villages and enslave their inhabitants. It will make you change your mind."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:393
+msgid "You think you can beat me?"
+msgstr ""
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:463
+msgid "+2 gold"
+msgstr ""
+
+#. [do]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:500
+msgid "This slave has escaped!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:531
+msgid "This unit is moved back under your control."
+msgstr ""
+
+#. [floating_text]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:585
+msgid "trained"
+msgstr ""
+
+#. [event]: id=drake_leader_trains_speech
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:599
+msgid "You are free now. I will teach you to fight, then go back to the battlefield."
+msgstr ""
+
+#. [event]: id=drake_slave_trained_speech
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:605
+msgid "Thank you, Gelslar Elch. I will fight the marauders!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:615
+msgid "I am mighty Gelslar Elch, I can't be defeated."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:616
+msgid "Anyone can be defeated."
+msgstr ""
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:630
+msgid "What do you say now, drake? Should we continue? We could let these slaves go in exchange for a pass."
+msgstr ""
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:631
+msgid "I agree, let them go."
+msgstr ""
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:632
+msgid "Thank you, wise Gelslar Elch."
+msgstr ""
+
+#. [event]: id=check_victory_condition
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:633
+msgid "Orcs helped trolls. Now go to the caves."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:659
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:965
+msgid "I failed to avenge my parents."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:703
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:1009
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:787
+msgid "He was an outstanding warrior and a very important ally."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\10_the_flaming_stone.cfg:714
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:1020
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:751
+msgid "Nuk Gah, friend ..."
+msgstr ""
+
+#. [scenario]: id=11_greediness
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:6
+msgid "Greediness"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:200
+msgid "Orcs & Trolls"
+msgstr ""
+
+#. [unit]: id=sentinel_leader, type=Dwarvish Sentinel
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:251
+msgid "Gomdrus"
+msgstr ""
+
+#. [unit]: id=explorer_leader, type=Dwarvish Explorer
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:312
+msgid "Trithdurol"
+msgstr ""
+
+#. [unit]: id=runemaster_leader, type=Dwarvish Runemaster
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:360
+msgid "Glatas"
+msgstr ""
+
+#. [unit]: id=dragonguard_leader, type=Dwarvish Dragonguard
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:406
+msgid "Aightsol"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:440
+msgid "Hidden"
+msgstr ""
+
+#. [unit]: type=Trapper, id=petrified_trapper
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:450
+msgid "Tythin"
+msgstr ""
+
+#. [unit]: type=Troll Rocklobber, id=prisoner_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:468
+msgid "Thur"
+msgstr ""
+
+#. [unit]: type=Troll Whelp, id=prisoner_whelp
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:481
+msgid "Borb"
+msgstr ""
+
+#. [unit]: type=Orcish Warlord, id=prisoner_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:494
+msgid "Vrugdish"
+msgstr ""
+
+#. [trait]: id=diseased
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:504
+msgid "diseased"
+msgstr ""
+
+#. [trait]: id=diseased
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:505
+msgid "Units with this trait have 16 hitpoints less and 3 melee damage penalty."
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:526
+msgid "Defeat all dwarvish miners"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:535
+msgid "Find a way to unpetrify Rark"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:545
+msgid "Find a way to unpetrify Bart"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:555
+msgid "Find a way to unpetrify Bogarg"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:565
+msgid "Find a way to unpetrify Nessa"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:575
+msgid "Find a way to unpetrify Dak"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:585
+msgid "Find a way to unpetrify Nuk Gah"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:679
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:711
+msgid "$unit.name found $gold_found gold coins in the chest"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:736
+msgid "Dwarves in our home. Strange runes. Dwarves must leave."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:737
+msgid "And then we will go for Uritbor."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:738
+msgid "Yes."
+msgstr ""
+
+#. [message]: speaker=nuk_gah
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:741
+msgid "Trolls are very thankful to you Rark. Please accept this gift, it is a regeneration potion."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:752
+msgid "Thank you, Nuk Gah."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:759
+msgid "They are here."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:761
+msgid "Rark, we were waiting for you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:762
+msgid "I hear strange voices in my head."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:763
+msgid "We want to help you, Rark. You must believe us, otherwise we won't have enough strength to do anything."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:764
+msgid "Is this a nightmare again? These voices are making me insane."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:765
+msgid "Rark all right?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:766
+msgid "Son, do you believe us?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:767
+msgid "I hear something too. Distant woman's voice said <i>son</i> and <i>believe</i>."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:768
+msgid "I believe you, mother."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:774
+msgid "We knew that one day you would come to avenge us."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:775
+msgid "When you will face the dwarf, we will be there to help you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:785
+msgid "And one more thing. All those years my friend Vrugdish was imprisoned. Release him. He is in bad condition, yet still able to fight."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:786
+msgid "Arrgh. Go away ghost."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:787
+msgid "We will be waiting for you, Rark."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:788
+msgid "I hope you are real."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:800
+msgid "We have guests!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:801
+msgid "Dak smash you. Trolls not guests."
+msgstr ""
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:860
+msgid "Dak?"
+msgstr ""
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:861
+msgid "Yes. Dak here, take caves for trolls."
+msgstr ""
+
+#. [event]: id=release_rocklobber
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:862
+msgid "Thur with you. Dwarves can't capture Thur again!"
+msgstr ""
+
+#. [event]: id=release_whelp
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:877
+msgid "Borb is free! Borb fight dwarves!"
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:892
+msgid "Go away ghost."
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:893
+msgid "Vrugdish, we are not ghosts. Many years have passed, but I am here to defeat dwarves. My name is Rark, I am son of Hushnak and Vadasha."
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:894
+msgid "I can not believe it."
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:895
+msgid "Can you fight?"
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:897
+msgid "Vrugdish, can you fight?"
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:898
+msgid "I am Vrugdish. I am ready for battle. How did you know my name?"
+msgstr ""
+
+#. [event]: id=release_warlord
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:899
+msgid "No time to talk now, you will see later."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:908
+msgid "Note that Troll Rocklobbers have third level advancement in this campaign."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:951
+msgid "We cleared this place. Dwarves adore their treasures, it was doubly pleasant to rob them. But it's time to move on."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:952
+msgid "Warriors must rest."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:953
+msgid "Are you tired, Dak?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:954
+msgid "Dak is right."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:955
+msgid "Rark, when you meet Uritbor only death will solve your conflict. It will happen soon, do not hurry."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\11_greediness.cfg:956
+msgid "Then we will continue tomorrow."
+msgstr ""
+
+#. [scenario]: id=12_the_nightmare_colosseum
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:63
+msgid "The Nightmare: Colosseum"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:85
+msgid "Gladiators"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:96
+msgid "Enemies"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:122
+msgid "Win 5 rounds ($round_number| / 5)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:126
+msgid "No units on your side"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:130
+msgid "Your units will not die. If their HP reaches zero, they will be removed from the battlefield and available in the next rounds."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:161
+msgid "Round $round_number|. Prepare to fight with these enemies."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:246
+msgid "Round $round_number|. Prepare to fight with these enemies. $round_hint"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:280
+msgid "Choose your gladiators for this round"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\12_the_nightmare_colosseum.cfg:281
+msgid "Scroll down to see all options"
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:6
+msgid "Blood for Blood"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:83
+msgid "Ghosts"
+msgstr ""
+
+#. [side]
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:122
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:407
+msgid "Pelalis"
+msgstr ""
+
+#. [side]
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:123
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:432
+msgid "Gomdris"
+msgstr ""
+
+#. [side]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:161
+msgid "Dwarvish Guards"
+msgstr ""
+
+#. [unit]: type=Dwarvish Sentinel, id=dwarvish_center_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:182
+msgid "Trithis"
+msgstr ""
+
+#. [unit]: type=Dwarvish Explorer, id=dwarvish_west_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:194
+msgid "Naras"
+msgstr ""
+
+#. [unit]: type=Dwarvish Dragonguard, id=dwarvish_east_leader
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:206
+msgid "Augcating"
+msgstr ""
+
+#. [objective]: condition=win
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:266
+msgid "Defeat Uritbor"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:274
+msgid "Death of Bart, Bogarg and Nessa (at least one of them must survive)"
+msgstr ""
+
+#. [note]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:286
+msgid "Uritbor's palace is illuminated. Some areas are especially bright."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:296
+msgid "We are close. Uritbor’s palace is beyond the lava river."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:297
+msgid "At last. Here you are, the cause of my nightmares. Today I will finish you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:298
+msgid "Fallen orcs yearn for the blood of the dwarves."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:300
+msgid "Orcs, trolls and even undead are agains' me. Pelalis, go for reinforcement."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:301
+msgid "On my way!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:312
+msgid "Gomdris, you go for our big ally. Say that gran' battle is about to happen."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:313
+msgid "Yes, my king."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:326
+msgid "I recognise you, Dak. You stupid cowar', dare to come here with a bunch of stinking dead slugs."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:327
+msgid "Uritbor made mistake when fight trolls. Trolls angry."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:328
+msgid "So, who are yer friends?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:329
+msgid "My name is Rark. A long time ago you slaughtered my tribe in the Heart Mountains."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:330
+msgid "Boy, my axe is the last thin' so many orcs have seen in their paltry lives. I don' remember your tribe. No doubt I gave them what they deserved."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:331
+msgid "Why don't you answer him, master of threat?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:332
+msgid "Swords and bows will be my answer. Orcs, trolls, all who are here with me. I will not promise that you will survive this day. I promise you - there are enough dwarves for all of you. Show them what you're made of! Crash their bones, tear them apart, bathe in their blood!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:333
+msgid "Battle madness overwhelms Rark, he starts to roar."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:337
+msgid "Everyone starts to yell and knock with their weapons. The walls are shaking."
+msgstr ""
+
+#. [event]: role=external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:371
+msgid "They are approachin'. Guards on walls, hold yer position!"
+msgstr ""
+
+#. [event]: role=external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:380
+msgid "We will protect the walls!"
+msgstr ""
+
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:422
+msgid "King, reinforcements are here."
+msgstr ""
+
+#. [event]: id=dwarf_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:423
+msgid "Very well, Pelalis. You know what to do."
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:431
+msgid "Omarath Egar"
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:434
+msgid "Omarath Egar is here, my king."
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:435
+msgid "Why did you call me, Uritbor? Don't say that spiders attacked you again and you want me to burn them."
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:436
+msgid "No, it is a horde of enemies!"
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:437
+msgid "Real fight this time. A lot of tasty meat for me."
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:438
+msgid "It looks horrendous!"
+msgstr ""
+
+#. [event]: id=dragon_reinforcement
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:439
+msgid "Warriors, be brave. One who defeats this beast will become a legend!"
+msgstr ""
+
+#. [then]
+#. [event]: id=increase_uritbor_gold_{ADD_GOLD}_income_{ADD_INCOME}_turn_{TURN}
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:528
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:474
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:501
+msgid "Dulalsol"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:508
+msgid "Uritbor's gold and income increased"
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:556
+msgid "It looks like the greedy dwarf has even more gold reserves."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:557
+msgid "Dulalsol, how much more gold do we have?"
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:558
+msgid "Five carts left, yer majesty."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:565
+msgid "One more cart left, milord."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:566
+msgid "Drag it here!"
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:567
+msgid "Runnin' as fast as I can."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:571
+msgid "This is the last cart."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:572
+msgid "Now join the battle, Dulalsol."
+msgstr ""
+
+#. [scenario]: id=13_blood_for_blood
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:573
+msgid "Yes, milord."
+msgstr ""
+
+#. [event]: id=activate_external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:600
+msgid "The pigs broke inta' my palace! Guard on walls, come down'a."
+msgstr ""
+
+#. [event]: id=activate_external_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:601
+msgid "Aye, yer majesty!"
+msgstr ""
+
+#. [event]: id=activate_internal_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:634
+msgid "Guard!"
+msgstr ""
+
+#. [event]: id=activate_internal_guard
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:635
+msgid "Donn'a dare to attack king, filthy $unit.race!"
+msgstr ""
+
+#. [then]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:686
+msgid "The king is unda' attack!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:711
+msgid "I have to go now. Rark, I am proud of you."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:719
+msgid "I will always love you, son."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:727
+msgid "Bart, don't die."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:765
+msgid "All my friends died because of me."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:776
+msgid "I am defeated."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:800
+msgid "Arrrgh. It can't be ..."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:804
+msgid "You got what you deserve, dwarvish king. Blood for blood."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:805
+msgid "We made it! Victory is ours!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:806
+msgid "The king is dead. Retreat!"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:810
+msgid "Trolls and orcs friends, smashed dwarves."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:825
+msgid "My parents are avenged, they will find eternal rest. I feel tremendous relief."
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:826
+msgid "What will we do next?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:827
+msgid "I don't know yet. No need to hurry. Can you hear it?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:828
+msgid "Hear what?"
+msgstr ""
+
+#. [event]
+#: Captured_by_a_Nightmare\scenarios\13_blood_for_blood.cfg:829
+msgid "The silence at the end."
+msgstr ""
+
+#. [unit_type]: id=cban Drake Slave, race=drake
+#: Captured_by_a_Nightmare\units\Drake_Slave.cfg:5
+msgid "Drake Slave"
+msgstr ""
+
+#. [unit_type]: id=cban Drake Slave, race=drake
+#: Captured_by_a_Nightmare\units\Drake_Slave.cfg:18
+msgid "Each Drake Slave produces 2 gold per turn. When drakes start their turn, Drake Slave may escape and move under their side. If Drake Slave has no adjacent guardians, it will escape. if it has only one adjacent guardian, it has 30% chance to escape. If it has two adjacent guardians, it has 10% chance to escape. if it has more than two adjacent guardians, it can't escape. If Drake Slave has escaped, attack it to move it back under your control."
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Cannon, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:119
+msgid "Dwarvish Cannon"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Cannon, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:130
+msgid "Cannon is one of the most advanced and deadly weapons. Dwarvish engineers keep the technology of manufacturing this weapon in strict confidence. Cannon shoots at a long distance and causes great damage to both living targets and buildings. No living creature, with the exception of the most enduring and invincible monsters, can survive after a projectile hit."
+msgstr ""
+
+#. [attack]: type=fire
+#: Captured_by_a_Nightmare\units\Dwarvish_Cannon.cfg:134
+msgid "cannon^missile"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Cart, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:5
+msgid "Dwarvish Cart"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Cart, race=mechanical
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:16
+msgid "This cart is used to transport mined minerals."
+msgstr ""
+
+#. [variation]
+#: Captured_by_a_Nightmare\units\Dwarvish_Cart.cfg:43
+msgid "empty"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish King, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_King.cfg:5
+msgid "Dwarvish King"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish King, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_King.cfg:18
+msgid "Clad in shining armor, these dwarves are kings from under the mountains. They wield axe and hammer with masterful skill, and can hit a target with a thrown hand axe at several paces. Though slow on their feet, these dwarves are a testament to the prowess of their kin."
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Miner, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:4
+msgid "Dwarvish Miner"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Miner, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:18
+msgid "Dwarvish miners are the grunt workers of Dwarvish society. They take the precious ores out of the ground, but do not ever take part in the crafting of weapons or artifacts."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:21
+#: Captured_by_a_Nightmare\units\Dwarvish_Miner.cfg:30
+msgid "pick"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Torchbearer, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Torchbearer.cfg:4
+msgid "Dwarvish Torchbearer"
+msgstr ""
+
+#. [unit_type]: id=cban Dwarvish Torchbearer, race=dwarf
+#: Captured_by_a_Nightmare\units\Dwarvish_Torchbearer.cfg:19
+msgid "Dwarvish torchbearer usually join expeditions to the deepest and darkest reaches of the underground, helping other dwarves in finding their way and dazzling dangerous creatures not used to the light."
+msgstr ""
+
+#. [unit_type]: id=cban Goblin Piercer, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Piercer.cfg:5
+msgid "Goblin Piercer"
+msgstr ""
+
+#. [unit_type]: id=cban Goblin Piercer, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Piercer.cfg:24
+msgid "Goblins are used by the orcs as skirmishers to disrupt the enemy's battle line. Those who manage to survive their first few battles equip themselves with a long spear to compensate for their short reach, and better armor to guard their diminuitive frames."
+msgstr ""
+
+#. [unit_type]: id=cban Goblin Raider, race=wolf
+#: Captured_by_a_Nightmare\units\Goblin_Raider.cfg:5
+msgid "Goblin Raider"
+msgstr ""
+
+#. [unit_type]: id=cban Goblin Trumpeter, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Trumpeter.cfg:5
+msgid "Goblin Trumpeter"
+msgstr ""
+
+#. [unit_type]: id=cban Goblin Trumpeter, race=goblin
+#: Captured_by_a_Nightmare\units\Goblin_Trumpeter.cfg:24
+msgid "Only the best of rousers can hope to become a trumpeter. Trumpeters spend many hours studying the subtleties of the complex orc war signals. For the orcs, such signals are much more than a simple message of advance or retreat, they inspire their entire army and reinforce their bloodthirsty nature. Many orc warlords consider their trumpeter a trusted confidante and sometimes a trumpeter may be allowed to consult with the warlord on his battle plan."
+msgstr ""
+
+#. [unit_type]: id=cban Earth Golem
+#: Captured_by_a_Nightmare\units\Golems.cfg:7
+msgid "Earth Golem"
+msgstr ""
+
+#. [unit_type]: id=cban Stone Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:51
+msgid "Stone Golem"
+msgstr ""
+
+#. [unit_type]: id=cban Stone Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:64
+msgid "Larger than most men and with a skin of stone, the Stone Golems are bulwarks in battle. They are carved out from the mountains and animated by skillful mages."
+msgstr ""
+
+#. [unit_type]: id=cban Rock Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:112
+msgid "Rock Golem"
+msgstr ""
+
+#. [unit_type]: id=cban Rock Golem, race=monster
+#: Captured_by_a_Nightmare\units\Golems.cfg:126
+msgid "Over time the Golems take on mass and size by merging with other rocks. Rock Golems hit hard and withstand tremendous amount of damage."
+msgstr ""
+
+#. [unit_type]: id=cban Mercenary, race=human
+#: Captured_by_a_Nightmare\units\Human_Mercenary.cfg:5
+msgid "female^Mercenary"
+msgstr ""
+
+#. [unit_type]: id=cban Mercenary, race=human
+#: Captured_by_a_Nightmare\units\Human_Mercenary.cfg:19
+msgid "Veteran mercenaries become notorious for both their ruthlessness and ability to elude capture. They can be dangerous in their element, though no match for the sheer numbers that law-abiding soldiery can throw at them."
+msgstr ""
+
+#. [unit_type]: id=cban Outcast, race=human
+#: Captured_by_a_Nightmare\units\Human_Outcast.cfg:5
+msgid "female^Outcast"
+msgstr ""
+
+#. [unit_type]: id=cban Outcast, race=human
+#: Captured_by_a_Nightmare\units\Human_Outcast.cfg:18
+msgid "After some years of service, former ‘footpads’ rise up in the ranks of their fellow outcasts. Having proven themselves in combat, they are given more dangerous tasks, and a greater share of the spoils. Though many opponents would mock their choice of weaponry, the outcasts are well aware of its deadly capacity, and also of the ready availability of ammunition. Outcasts are somewhat ill at ease fighting during the day, preferring the cover of nightfall."
+msgstr ""
+
+#. [unit_type]: id=cban Magic Wall, race=mechanical
+#: Captured_by_a_Nightmare\units\Magic_Wall.cfg:18
+msgid "This is a very strong magic wall. It is practically indestructible by usual weapons. Each turn it regenerates 8 HP."
+msgstr ""
+
+#. [unit_type]: id=cban Naga Archer, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:4
+msgid "Naga Archer"
+msgstr ""
+
+#. [unit_type]: id=cban Naga Archer, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:19
+msgid "Although the main weapon of nagas is sword, there are those who show more ability to archery. Naga Archer not only provides support for swordsmen, but can also defeat the enemy, especially those who do not have ranged weapons with them."
+msgstr ""
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Naga_Archer.cfg:22
+msgid "Nagini Archer"
+msgstr ""
+
+#. [unit_type]: id=cban Naga Marksman, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:4
+msgid "Naga Marksman"
+msgstr ""
+
+#. [unit_type]: id=cban Naga Marksman, race=naga
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:20
+msgid "Naga Archers who show more mastery and accuracy with their bows are promoted to the ranks of the Marksman. They are more skilled with their bows and can shoot down anything that is foolish enough to enter their domains."
+msgstr ""
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Naga_Marksman.cfg:27
+msgid "Nagini Marksman"
+msgstr ""
+
+#. [unit_type]: id=cban Necromancy Adept, race=human
+#: Captured_by_a_Nightmare\units\Necromancy_Adept.cfg:5
+msgid "Necromancy Adept"
+msgstr ""
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Necromancy_Adept.cfg:177
+msgid "female^Necromancy Adept"
+msgstr ""
+
+#. [unit_type]: id=cban Necromancy Sorcerer, race=human
+#: Captured_by_a_Nightmare\units\Necromancy_Sorcerer.cfg:5
+msgid "Necromancy Sorcerer"
+msgstr ""
+
+#. [female]
+#: Captured_by_a_Nightmare\units\Necromancy_Sorcerer.cfg:159
+msgid "Necromancy Sorceress"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Avenger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Avenger.cfg:4
+msgid "Orcish Avenger"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Avenger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Avenger.cfg:19
+msgid "When its hard to remember all the victims of Orcish Tracker, orcs give it a new name - Orcish Avenger. Orcish Avenger is a very dangerous and versatile fighter who perfectly masters both sword and crossbow. In battle, it uses all means for the quickest and most effective killing of the enemy. If Orcish Avenger chose life not among the wild nature, but among the orcs, rumors of its combat exploits are already widely known. Orcish Avenger gains high prestige among orcs and can lead an orcish tribe."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Hunter, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Hunter.cfg:4
+msgid "Orcish Hunter"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Hunter, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Hunter.cfg:16
+msgid "Hunting is the main way to feed an orcish tribe. Orcish Hunters successfully mastered this craft. Orcish Hunters usually are not present in the battlefield, however they may compete with Orcish Archers. Moreover, Orcish Hunter is a marksman and has better skills at hitting moving targets. Orcish Hunter needs to fight wildlife and survive in difficult conditions, with the result that its vitality is relatively high."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Novice Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Novice_Shaman.cfg:4
+msgid "Orcish Novice Shaman"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Novice Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Novice_Shaman.cfg:16
+msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life. Novice Shamans are still young and vigorous, but their spell-casting ability still needs improvement."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Ranger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Ranger.cfg:4
+msgid "Orcish Ranger"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Ranger, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Ranger.cfg:16
+msgid "A certain time must pass before the Orcish hunter can become an Orcish Ranger. Not always Oricsh Ranger is fighting with wildlife, sometimes it has to clash with humans, elves, dwarves and other races inhabiting Wesnoth. Because of that, its sword skill has increased. As the main weapon, it replaced the primitive orcish bow with a more complex and dangerous crossbow."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Shaman.cfg:4
+msgid "Orcish Shaman"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Shaman, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Shaman.cfg:16
+msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Tracker, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Tracker.cfg:4
+msgid "Orcish Tracker"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Tracker, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Tracker.cfg:16
+msgid "Orcish Trackers tend to live a recluse life. They can live in a wild on their own, track down animals or trap them. Even one Orcish Tracker may defeat a small group of untrained bandits. Thus, they do not need to adhere to any particular orcish tribe. Although, any orcish leader will be happy to have Orcish Tracker in their ranks, and for a fee Orcish Tracker can provide their services on the battlefield. First of all, Orcish Tracker got its name for its ability to track down wild animals, but in addition it has a second meaning. Orcish Tracker often gets the task to track down and eliminate an important target in the camp of the enemy."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Warlock, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Warlock.cfg:4
+msgid "Orcish Warlock"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Warlock, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Warlock.cfg:17
+msgid "Orcish Shaman who decided to improve battle spells is known as Orcish Warlock. Orcish Warlock still can heal wounded comrades, however its main specialization is a magical spell. This spell has a high chance to hit an enemy and deal significant damage. Since Oricsh Warlock drains the life energy from its victims, it can effectively heal itself and kill the enemy at the same time. In hands of a wise leader, Orcish Warlock can cause a lot of troubles to its enemies."
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Witchdoctor, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Witchdoctor.cfg:4
+msgid "Orcish Witchdoctor"
+msgstr ""
+
+#. [unit_type]: id=cban Orcish Witchdoctor, race=orc
+#: Captured_by_a_Nightmare\units\Orcish_Witchdoctor.cfg:18
+msgid "Orcish Shaman who decided to improve healing skills is known as Orcish Witchdoctor. Orcish Witchdoctor can quickly heal even heavily wounded comrades. A wise orcish warchief tries to get Orcish Witchdoctor under its command, since it is hard to underestimate the healers support on the battlefield. Even the warchief has higher chances to survive the battle, if it has a capable healer on its side."
+msgstr ""
+
+#. [unit_type]: id=cban Unarmed Elf, race=elf
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:7
+msgid "Unarmed Elf"
+msgstr ""
+
+#. [unit_type]: id=cban Unarmed Elf, race=elf
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:19
+msgid "This unit was captured during battle and imprisoned. If it will recover from wounds, it will be used as a slave."
+msgstr ""
+
+#. [variation]
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:38
+msgid "desperate"
+msgstr ""
+
+#. [unit_type]: id=cban Unarmed Mage, race=human
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:46
+msgid "Unarmed Mage"
+msgstr ""
+
+#. [unit_type]: id=cban Unarmed Mage, race=human
+#: Captured_by_a_Nightmare\units\Prisoners.cfg:58
+msgid "This unit was captured during battle and imprisoned. If it will recover from wounds, it will be used as a slave. "
+msgstr ""
+
+#. [unit_type]: id=cban Spider Hatchling, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:8
+msgid "Spider Hatchling"
+msgstr ""
+
+#. [unit_type]: id=cban Spider Hatchling, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:24
+msgid "Giant Spiders are said to roam the depths of Knalga, devouring many victims. Spider Hatchling is young and not so dangerous. Though, it already learned to fling webs through the air to trap their prey."
+msgstr ""
+
+#. [unit_type]: id=cban Spider, race=monster
+#: Captured_by_a_Nightmare\units\Spiders.cfg:87
+msgid "Spider"
+msgstr ""
+
+#. [unit_type]: id=cban Troll Boulderlobber, race=troll
+#: Captured_by_a_Nightmare\units\Troll_Boulderlobber.cfg:5
+msgid "Troll Boulderlobber"
+msgstr ""
+
+#. [unit_type]: id=cban Troll High Shaman
+#: Captured_by_a_Nightmare\units\Troll_High_Shaman.cfg:5
+msgid "Troll High Shaman"
+msgstr ""
+
+#. [unit_type]: id=cban Villager
+#: Captured_by_a_Nightmare\units\Villagers.cfg:11
+msgid "Villager"
+msgstr ""
+
+#. [unit_type]: id=cban Villager
+#: Captured_by_a_Nightmare\units\Villagers.cfg:18
+msgid "Each of the villages scattered across the Wesnoth countryside is normally guided by a group of elders, who are the village’s wisest and most experienced residents."
+msgstr ""
+
+#. [unit_type]: id=cban Fisherman, race=human
+#: Captured_by_a_Nightmare\units\Villagers.cfg:23
+msgid "Fisherman"
+msgstr ""
+
+#. [unit_type]: id=cban Fisherman, race=human
+#: Captured_by_a_Nightmare\units\Villagers.cfg:37
+msgid "Fisherman are not warriors, but they can cast a net on the enemy, and this is quite all you may expect from them."
+msgstr ""
+
+#. [dummy]
+#: Captured_by_a_Nightmare\units\Wolves.cfg:17
+msgid "wolf pack"
+msgstr ""
+
+#. [dummy]
+#: Captured_by_a_Nightmare\units\Wolves.cfg:18
+msgid "Attack damage is increased by number of adjacent friendly wolves."
+msgstr ""
+
+#. [unit_type]: id=cban Young Yeti, race=monster
+#: Captured_by_a_Nightmare\units\Yetis.cfg:8
+msgid "Young Yeti"
+msgstr ""
+
+#. [unit_type]: id=cban Young Fire Dragon, race=monster
+#: Captured_by_a_Nightmare\units\Young_Fire_Dragon.cfg:5
+msgid "Young Fire Dragon"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:10
+msgid "Captured by a Nightmare"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:11
+msgid "CbaN"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:19
+msgid ""
+"The First Dark Age of Wesnoth. Orcs are aggressively increasing their power on the Great Continent. However, not all of their campaigns were successful. You will witness the disastrous one. A small orcish settlement in the Heart Mountains is attacked by superior dwarvish forces. Orcs are doomed to be exterminated. Play this campaign and take part in the further story.\n"
+"(Hard level, 12 scenarios)"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:22
+msgid "Youth"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:22
+msgid "Daydream"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:23
+msgid "Hunter"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:23
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:24
+msgid "Ranger"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:24
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:25
+msgid "Tracker"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:25
+msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:26
+msgid "Avenger"
+msgstr ""
+
+#. [campaign]: id=Captured_by_a_Nightmare
+#: Captured_by_a_Nightmare\_main.cfg:26
+msgid "Nightmare"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:30
+msgid "Author"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:36
+msgid "Traditional Chinese translation"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:42
+msgid "Simplified Chinese translation"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:48
+msgid "Art taken from"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:63
+msgid "Code taken from"
+msgstr ""
+
+#. [about]
+#: Captured_by_a_Nightmare\_main.cfg:75
+msgid "Play testing, bug reports, feedback"
+msgstr ""
+

@@ -1,0 +1,10 @@
+According to this documentation https://wiki.wesnoth.org/GettextForTranslators I used po files for translations.
+After this message https://forums.wesnoth.org/viewtopic.php?p=656238#p656238 I switched to mo files (compiled version of po files)
+To prevent potential clashing with the po file structure I renamed the folder with po files, so it won't be used by the game.
+
+
+Folder structure for the po files:
+translations/wesnoth-Captured_by_a_Nightmare/ru.po
+
+Folder structure for the mo files:
+translations/ru/LC_MESSAGES/wesnoth-Captured_by_a_Nightmare.mo
